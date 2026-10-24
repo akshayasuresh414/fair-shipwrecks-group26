@@ -1,0 +1,49 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+
+<http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07> a dcat:Resource,
+    dcat:Distribution;
+  dcterms:title "Shipwrecks (Sunk Ships) - FAIRified RDF (Turtle)";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shipwrecks (Sunk Ships) - FAIRified RDF (Turtle)";
+  dcat:version "1.0.0";
+  <https://w3id.org/fdp/fdp-o#metadataIssued> "2026-10-24T21:49:38.183740055Z"^^xsd:dateTime;
+  <https://w3id.org/fdp/fdp-o#metadataModified> "2026-10-24T21:49:38.183740055Z"^^xsd:dateTime;
+  dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>;
+  dcterms:description "The FAIRified version of the dataset (943 shipwreck events with usable coordinates), transformed into RDF using the Group 26 semantic data model, with Operator values reconciled to Wikidata where possible.";
+  dcterms:conformsTo <https://w3id.org/FAIR-course-UT/2026/group26/ont>, <http://localhost/profile/02c649de-c579-43bb-b470-306abdc808c7>;
+  dcterms:language <http://id.loc.gov/vocabulary/iso639-1/en>;
+  <https://w3id.org/fdp/fdp-o#metadataIdentifier> <http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07#identifier>;
+  dcterms:identifier "https://w3id.org/FAIR-course-UT/2026/group26/data";
+  dcterms:accessRights <http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07#accessRights>;
+  dcterms:publisher [ a foaf:Agent;
+      foaf:name "University of Twente"
+    ];
+  dcterms:isPartOf <http://localhost/dataset/d2134ade-b010-4e04-ad61-4c4a02c8399b>;
+  <http://semanticscience.org/resource/SIO_000628> <http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07/metrics/445c0a70d1e214e545b261559e2842f4>,
+    <http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07/metrics/5d27e854a9e78eb3f663331cd47cdc13>;
+  dcterms:format <https://www.iana.org/assignments/media-types/text/turtle>;
+  dcat:byteSize 515571.0;
+  dcat:downloadURL <https://w3id.org/FAIR-course-UT/2026/group26/data>;
+  dcat:mediaType "text/turtle" .
+
+<http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07#identifier> a
+    <http://purl.org/spar/datacite/Identifier>;
+  dcterms:identifier "http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07" .
+
+<http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07#accessRights>
+  a dcterms:RightsStatement;
+  dcterms:description "This resource has no access restriction" .
+
+<http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07/metrics/445c0a70d1e214e545b261559e2842f4>
+  <http://semanticscience.org/resource/SIO_000628> <https://www.ietf.org/rfc/rfc3986.txt>;
+  <http://semanticscience.org/resource/SIO_000332> <https://www.ietf.org/rfc/rfc3986.txt> .
+
+<http://localhost/distribution/1bff9422-5136-4326-98ab-6d7fdb661d07/metrics/5d27e854a9e78eb3f663331cd47cdc13>
+  <http://semanticscience.org/resource/SIO_000628> <https://www.wikidata.org/wiki/Q8777>;
+  <http://semanticscience.org/resource/SIO_000332> <https://www.wikidata.org/wiki/Q8777> .
+
+<http://localhost/profile/02c649de-c579-43bb-b470-306abdc808c7> <http://www.w3.org/2000/01/rdf-schema#label>
+    "Distribution Profile" .

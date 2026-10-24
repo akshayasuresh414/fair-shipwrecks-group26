@@ -1,117 +1,73 @@
-@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix : <http://fairdatapoint.org/> .
+@prefix dash: <http://datashapes.org/dash#> .
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix grp: <https://w3id.org/FAIR-course-UT/2026/group26/ont#> .
 
-#################################################################
-# Group 26 - Semantic metadata model: Dataset shape
-# FAIR Data Engineering, University of Twente, 2026
-#
-# This SHACL shape describes which metadata properties a *Dataset*
-# metadata record must/should have in our FAIR Data Point. It follows
-# DCAT (Data Catalog Vocabulary), the vocabulary FDP uses by default,
-# extended with two of our own properties (temporal coverage expressed
-# simply, and a pointer to our mini ontology) to capture what is
-# specific to this dataset.
-#
-# Paste this into FDP's admin area under "Dataset" metadata schema.
-#################################################################
+# Group 26 - Dataset shape (FAIR Data Engineering, University of Twente, 2026)
+# Extends the FDP "Resource" schema (title, description, publisher, version,
+# language, license, rights come from there). Adds the project-specific fields.
 
-grp:DatasetShape
-    a sh:NodeShape ;
-    sh:targetClass dcat:Dataset ;
-    sh:name "Group 26 Shipwrecks Dataset shape" ;
-    sh:description "Metadata shape for the FAIRified Shipwrecks dataset (Group 26)." ;
-
-    sh:property [
-        sh:path dct:title ;
-        sh:name "Title" ;
-        sh:datatype xsd:string ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dct:description ;
-        sh:name "Description" ;
-        sh:datatype xsd:string ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dct:identifier ;
-        sh:name "Persistent identifier (W3ID)" ;
-        sh:datatype xsd:string ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dct:license ;
-        sh:name "License" ;
-        sh:nodeKind sh:IRI ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dct:creator ;
-        sh:name "Creator(s)" ;
-        sh:minCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dct:publisher ;
-        sh:name "Publisher" ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dcat:keyword ;
-        sh:name "Keywords" ;
-        sh:datatype xsd:string ;
-        sh:minCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dct:spatial ;
-        sh:name "Spatial coverage" ;
-        sh:datatype xsd:string ;
-        sh:minCount 0 ;
-        sh:maxCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dct:temporal ;
-        sh:name "Temporal coverage" ;
-        sh:datatype xsd:string ;
-        sh:minCount 0 ;
-        sh:maxCount 1 ;
-    ] ;
-
-    sh:property [
-        sh:path dcat:theme ;
-        sh:name "Theme/category" ;
-        sh:minCount 0 ;
-    ] ;
-
-    sh:property [
-        sh:path dct:conformsTo ;
-        sh:name "Conforms to (our semantic data model / ontology)" ;
-        sh:nodeKind sh:IRI ;
-        sh:minCount 1 ;
-        sh:maxCount 1 ;
-        sh:hasValue <https://w3id.org/FAIR-course-UT/2026/group26/ont> ;
-    ] ;
-
-    sh:property [
-        sh:path dcat:distribution ;
-        sh:name "Distributions" ;
-        sh:nodeKind sh:IRI ;
-        sh:minCount 2 ;
-        sh:message "A Dataset record must link to at least its two distributions: the original (non-FAIR) data and the FAIRified (RDF) data." ;
-    ] .
+:DatasetShape a sh:NodeShape ;
+  sh:targetClass dcat:Dataset ;
+  sh:property [
+    sh:path dct:identifier ;
+    sh:nodeKind sh:Literal ;
+    sh:minCount 1 ;
+    dash:editor dash:TextFieldEditor ;
+    dash:viewer dash:LiteralViewer ;
+    sh:name "Persistent identifier (W3ID)" ;
+    sh:description "The W3ID identifier of this dataset, e.g. https://w3id.org/FAIR-course-UT/2026/group26/dataset" ;
+    sh:order 20 ;
+  ] , [
+    sh:path dct:creator ;
+    sh:nodeKind sh:Literal ;
+    sh:minCount 1 ;
+    dash:editor dash:TextFieldEditor ;
+    dash:viewer dash:LiteralViewer ;
+    sh:name "Creator(s)" ;
+    sh:description "Name of a creator of the dataset (add one entry per person)." ;
+    sh:order 21 ;
+  ] , [
+    sh:path dcat:keyword ;
+    sh:nodeKind sh:Literal ;
+    sh:minCount 1 ;
+    dash:editor dash:TextFieldEditor ;
+    dash:viewer dash:LiteralViewer ;
+    sh:name "Keywords" ;
+    sh:order 22 ;
+  ] , [
+    sh:path dct:spatial ;
+    sh:nodeKind sh:Literal ;
+    sh:maxCount 1 ;
+    dash:editor dash:TextFieldEditor ;
+    dash:viewer dash:LiteralViewer ;
+    sh:name "Spatial coverage" ;
+    sh:order 23 ;
+  ] , [
+    sh:path dct:temporal ;
+    sh:nodeKind sh:Literal ;
+    sh:maxCount 1 ;
+    dash:editor dash:TextFieldEditor ;
+    dash:viewer dash:LiteralViewer ;
+    sh:name "Temporal coverage" ;
+    sh:order 24 ;
+  ] , [
+    sh:path dcat:theme ;
+    sh:nodeKind sh:IRI ;
+    dash:editor dash:URIEditor ;
+    dash:viewer dash:URIViewer ;
+    sh:name "Theme/category" ;
+    sh:order 25 ;
+  ] , [
+    sh:path dct:conformsTo ;
+    sh:nodeKind sh:IRI ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+    dash:editor dash:URIEditor ;
+    dash:viewer dash:URIViewer ;
+    sh:name "Conforms to (our ontology)" ;
+    sh:description "IRI of the semantic data model: https://w3id.org/FAIR-course-UT/2026/group26/ont" ;
+    sh:order 26 ;
+  ] .
