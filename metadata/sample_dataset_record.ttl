@@ -1,0 +1,35 @@
+# =====================================================================
+# Group 26 - SAMPLE dataset metadata record
+#
+# This is a DRAFT / reference example of what your Dataset metadata
+# record should look like once entered in the FAIR Data Point (FDP).
+# It follows the dataset-shape.ttl schema.
+#
+# IMPORTANT: this is NOT a substitute for actually deploying the FDP
+# and creating the record there - "Metadata record of the project's
+# FAIR Data Point... in RDF" is an explicit deliverable, and it must
+# come from your real FDP instance (Edit -> View RDF, per the course
+# instructions). Use this file to understand the shape of what you
+# are aiming for, and to sanity-check the real FDP output once you
+# have it. Replace this file with the real export before submitting.
+# =====================================================================
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/FAIR-course-UT/2026/group26/dataset>
+    a dcat:Dataset ;
+    dct:title "Shipwrecks (Sunk Ships) - FAIRified" ;
+    dct:description "A dataset of 943 historical and modern shipwreck events, each describing the vessel name, operator (country or naval force), year lost, cause of loss, vessel type, and the geographic coordinates of the wreck site. FAIRified from the original Kaggle dataset 'Shipwrecks (Sunk ships)' by Group 26 for the FAIR Data Engineering course (University of Twente, 2026)." ;
+    dct:identifier "https://w3id.org/FAIR-course-UT/2026/group26/dataset" ;
+    dct:license <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    dct:creator [ a foaf:Person ; foaf:name "Kishor Sriraman" ] ,
+                [ a foaf:Person ; foaf:name "Akshaya Suresh" ] ;
+    dct:publisher [ a foaf:Organization ; foaf:name "University of Twente" ] ;
+    dcat:keyword "shipwrecks" , "maritime history" , "naval history" , "FAIR data" ;
+    dct:spatial "Global" ;
+    dct:temporal "7th century - 2020s" ;
+    dct:conformsTo <https://w3id.org/FAIR-course-UT/2026/group26/ont> ;
+    dcat:distribution <https://w3id.org/FAIR-course-UT/2026/group26/data/original> ,
+                       <https://w3id.org/FAIR-course-UT/2026/group26/data> .

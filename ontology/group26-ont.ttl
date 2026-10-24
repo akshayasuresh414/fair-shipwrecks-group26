@@ -1,0 +1,162 @@
+@prefix : <https://w3id.org/FAIR-course-UT/2026/group26/ont#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+#################################################################
+# Group 26 - Shipwrecks ontology
+# FAIR Data Engineering, University of Twente, 2026
+# Ontology IRI (Protege "Ontology IRI"):
+#   https://w3id.org/FAIR-course-UT/2026/group26/ont
+# "Followed by" setting in Protege: "#"
+#
+# This is a deliberately small (mini) ontology: it only defines the
+# concepts that are NOT already well covered by existing vocabularies.
+# Wherever a suitable external vocabulary term already exists, we reuse
+# it instead of inventing our own (schema.org for the event/vessel
+# pattern, WGS84 Geo vocabulary for coordinates, Dublin Core for dates).
+#################################################################
+
+<https://w3id.org/FAIR-course-UT/2026/group26/ont> a owl:Ontology ;
+    rdfs:label "Group 26 Shipwrecks Ontology"@en ;
+    rdfs:comment "A small ontology describing shipwreck events, the vessels involved, their operators, and the derived classification of vessel type and cause of loss, created for the FAIR Data Engineering course project (Group 26, 2026)."@en ;
+    dct:creator "Kishor Sriraman" , "Akshaya Suresh" ;
+    owl:versionInfo "1.0.0" .
+
+#################################################################
+# Classes
+#################################################################
+
+:Shipwreck a owl:Class ;
+    rdfs:subClassOf schema:Event ;
+    rdfs:label "Shipwreck"@en ;
+    rdfs:comment "An event in which a specific vessel was lost (sank, was scuttled, ran aground, etc.). Each row of the source dataset is one Shipwreck event."@en .
+
+:Operator a owl:Class ;
+    rdfs:label "Operator"@en ;
+    rdfs:comment "The country or organisation that operated or flagged the vessel at the time it was lost. Split into two disjoint subclasses because the raw 'Flag' column mixes both kinds of value."@en .
+
+:Country a owl:Class ;
+    rdfs:subClassOf :Operator ;
+    rdfs:label "Country"@en ;
+    rdfs:comment "A nation state operator, e.g. Greece, Norway."@en .
+
+:NavalForce a owl:Class ;
+    rdfs:subClassOf :Operator ;
+    rdfs:label "Naval or military force"@en ;
+    rdfs:comment "A navy or other military organisation operator, e.g. Royal Navy, Kriegsmarine, Imperial Japanese Navy."@en .
+
+:VesselType a owl:Class ;
+    rdfs:subClassOf skos:Concept ;
+    rdfs:label "Vessel type"@en ;
+    rdfs:comment "A controlled, closed set of vessel-type values (submarine, destroyer, cargo ship, etc.) derived from the free-text Notes field during data preparation."@en .
+
+:CauseOfLoss a owl:Class ;
+    rdfs:subClassOf skos:Concept ;
+    rdfs:label "Cause of loss"@en ;
+    rdfs:comment "A controlled, closed set of cause-of-loss values (torpedoed, mined, ran aground, etc.) derived from the free-text Notes field during data preparation."@en .
+
+#################################################################
+# Object properties
+#################################################################
+
+:operatedBy a owl:ObjectProperty ;
+    rdfs:domain :Shipwreck ;
+    rdfs:range :Operator ;
+    rdfs:label "operated by"@en ;
+    rdfs:comment "Links a shipwreck event to the country or naval force that operated the vessel."@en .
+
+:hasVesselType a owl:ObjectProperty ;
+    rdfs:domain :Shipwreck ;
+    rdfs:range :VesselType ;
+    rdfs:label "has vessel type"@en ;
+    rdfs:comment "Links a shipwreck event to its classified vessel type."@en .
+
+:hasCauseOfLoss a owl:ObjectProperty ;
+    rdfs:domain :Shipwreck ;
+    rdfs:range :CauseOfLoss ;
+    rdfs:label "has cause of loss"@en ;
+    rdfs:comment "Links a shipwreck event to its classified cause of loss."@en .
+
+#################################################################
+# Datatype properties (reusing external vocabulary predicates
+# where possible)
+#################################################################
+
+:vesselName a owl:DatatypeProperty ;
+    rdfs:subPropertyOf rdfs:label ;
+    rdfs:domain :Shipwreck ;
+    rdfs:range xsd:string ;
+    rdfs:label "vessel name"@en ;
+    rdfs:comment "The name of the vessel that was lost."@en .
+
+:sunkYear a owl:DatatypeProperty ;
+    rdfs:subPropertyOf dct:date ;
+    rdfs:domain :Shipwreck ;
+    rdfs:range xsd:gYear ;
+    rdfs:label "sunk year"@en ;
+    rdfs:comment "The (normalised) year the vessel sank, parsed from the original free-text date."@en .
+
+:sunkDateRaw a owl:DatatypeProperty ;
+    rdfs:domain :Shipwreck ;
+    rdfs:range xsd:string ;
+    rdfs:label "sunk date (original text)"@en ;
+    rdfs:comment "The original, unparsed date text from the source dataset, kept for provenance."@en .
+
+:description a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:description ;
+    rdfs:domain :Shipwreck ;
+    rdfs:range xsd:string ;
+    rdfs:label "description"@en ;
+    rdfs:comment "The original free-text Notes describing the event, kept for provenance and traceability of the derived cause_of_loss / vessel_type values."@en .
+
+# Location is represented using geo:lat and geo:long (WGS84 Geo
+# Positioning vocabulary) directly on the :Shipwreck resource, so no new
+# predicate is defined for latitude/longitude.
+
+#################################################################
+# Controlled vocabulary instances: Vessel Type
+#################################################################
+
+:VesselType_submarine a :VesselType ; rdfs:label "submarine"@en .
+:VesselType_destroyer a :VesselType ; rdfs:label "destroyer"@en .
+:VesselType_cruiser a :VesselType ; rdfs:label "cruiser"@en .
+:VesselType_frigate a :VesselType ; rdfs:label "frigate"@en .
+:VesselType_corvette a :VesselType ; rdfs:label "corvette"@en .
+:VesselType_gunboat a :VesselType ; rdfs:label "gunboat"@en .
+:VesselType_minesweeper a :VesselType ; rdfs:label "minesweeper"@en .
+:VesselType_patrol_boat a :VesselType ; rdfs:label "patrol boat"@en .
+:VesselType_tanker a :VesselType ; rdfs:label "tanker"@en .
+:VesselType_ferry a :VesselType ; rdfs:label "ferry"@en .
+:VesselType_cargo_ship a :VesselType ; rdfs:label "cargo ship"@en .
+:VesselType_liner a :VesselType ; rdfs:label "liner"@en .
+:VesselType_steamer a :VesselType ; rdfs:label "steamer"@en .
+:VesselType_schooner a :VesselType ; rdfs:label "schooner"@en .
+:VesselType_trawler a :VesselType ; rdfs:label "trawler"@en .
+:VesselType_fishing_vessel a :VesselType ; rdfs:label "fishing vessel"@en .
+:VesselType_tug a :VesselType ; rdfs:label "tug"@en .
+:VesselType_barge a :VesselType ; rdfs:label "barge"@en .
+:VesselType_yacht a :VesselType ; rdfs:label "yacht"@en .
+:VesselType_unknown a :VesselType ; rdfs:label "unknown"@en .
+
+#################################################################
+# Controlled vocabulary instances: Cause of Loss
+#################################################################
+
+:CauseOfLoss_torpedoed a :CauseOfLoss ; rdfs:label "torpedoed"@en .
+:CauseOfLoss_mined a :CauseOfLoss ; rdfs:label "mined"@en .
+:CauseOfLoss_shelled_or_bombed a :CauseOfLoss ; rdfs:label "shelled or bombed"@en .
+:CauseOfLoss_hijacked a :CauseOfLoss ; rdfs:label "hijacked"@en .
+:CauseOfLoss_scuttled a :CauseOfLoss ; rdfs:label "scuttled"@en .
+:CauseOfLoss_collision a :CauseOfLoss ; rdfs:label "collision"@en .
+:CauseOfLoss_ran_aground a :CauseOfLoss ; rdfs:label "ran aground"@en .
+:CauseOfLoss_storm_or_weather a :CauseOfLoss ; rdfs:label "storm or weather"@en .
+:CauseOfLoss_fire_or_explosion a :CauseOfLoss ; rdfs:label "fire or explosion"@en .
+:CauseOfLoss_capsized a :CauseOfLoss ; rdfs:label "capsized"@en .
+:CauseOfLoss_unknown a :CauseOfLoss ; rdfs:label "unknown"@en .

@@ -1,0 +1,944 @@
+ship_id,ship_name,flag,flag_type,sunk_year,sunk_date_raw,latitude,longitude,cause_of_loss,vessel_type,notes
+1,Globe Star,Singapore,country,,27-Apr-73,-4.081667,39.72,ran_aground,cargo_ship,A cargo ship that ran aground off Mombasa.[1]
+2,Gulland,Aden,country,,13-Apr-51,-4.047222,39.7325,ran_aground,trawler,A 545-ton Isles-class trawler built for World War II. It ran aground three miles (4.8 km) north of Mombasa.
+4,Katina P,Greece,country,,26-Apr-92,-25.583333,32.983333,storm_or_weather,tanker,"An oil tanker that was damaged in a storm, spilling several thousand tonnes of oil."
+5,Sunny South,Royal Navy,military_organisation,1861.0,20 February 1861,-13.048056,45.195,ran_aground,unknown,"An American-built extreme clipper sold to Havana and put to work in the slave trade. It was captured by the Royal Navy and used as a store ship, before striking a reef and sinking at Mayotte."
+6,Achille Lauro,Italy,country,,2-Dec-94,2.0,47.0,hijacked,unknown,"A cruise ship that was hijacked in 1985 by the Palestine Liberation Front. It ultimately sank nine years later, after an explosion in the engine room started a fire that engulfed the ship."
+7,U-852,Kriegsmarine,military_organisation,,3-May-44,9.533333,50.983333,ran_aground,submarine,A Type IXD2 U-boat that was attacked by British aircraft and run aground near Bayla.
+8,SMS Königsberg,Imperial German Navy,military_organisation,,11-Jul-15,-7.868333,39.24,unknown,cruiser,A Königsberg-class light cruiser that was sunk in the Rufiji River.[1][3]
+9,HMS Pegasus,Royal Navy,military_organisation,,20-Sep-14,-6.148333,39.193333,unknown,cruiser,A Pelorus-class protected cruiser that was sunk at Zanzibar by SMS Königsberg.[1][3]
+10,Spice Islander I,Tanzania,country,,10-Sep-11,-5.656389,39.474167,unknown,ferry,"A RORO ferry that sank between Unguja and Pemba Island, with the loss of at least 200 lives."
+11,Bukoba,Tanzania,country,,21-May-96,-1.983889,32.318611,unknown,ferry,A Lake Victoria ferry that sank off Mwanza with over 200 confirmed dead.
+12,Kabalega,Uganda,country,,8-May-05,-0.656389,32.144722,collision,ferry,A train ferry that collided with Kaawa near the Ssese Islands.
+15,HMS Serapis,Royal Navy,military_organisation,1781.0,July 1781,-17.0025,49.841944,fire_or_explosion,unknown,A Roebuck-class fifth rate that caught fire and sank off Île Sainte-Marie.
+16,HMS Algerine,Royal Navy,military_organisation,,15-Nov-42,36.75,5.183333,torpedoed,submarine,An Algerine-class minesweeper that was torpedoed by the Italian submarine Ascianghi off Béjaïa.
+17,City of Venice,Royal Navy,military_organisation,,4-Jul-43,36.733333,1.516667,torpedoed,submarine,A troopship that was torpedoed by the German submarine U-375.
+18,HMS Ibis,Royal Navy,military_organisation,,10-Nov-42,37.0,3.0,unknown,unknown,A Black Swan-class sloop that was sunk by an Italian aircraft north of Algiers.
+20,USS Leedstown,United States Navy,military_organisation,,9-Nov-42,36.820278,3.165278,unknown,submarine,A troopship that was sunk by the German submarine U-331 off Algiers.
+21,HMCS Louisburg,Royal Canadian Navy,military_organisation,,6-Feb-43,36.25,0.25,unknown,corvette,A Flower-class corvette that was sunk by German aircraft near Mostaganem.
+22,HMT Narkunda,Royal Navy,military_organisation,,14-Nov-42,36.866667,5.016667,shelled_or_bombed,unknown,"British P&O requisitioned troopship bombed and sunk by German aircraft. Sister ship Naldera. Located off Bougie (Béjaïa), Algeria, passing Cape Carbon."
+23,HMT Rohna,Royal Navy,military_organisation,,26-Nov-43,37.02,5.201667,unknown,unknown,A British troop carrier sunk north of Béjaïa in an air attack during World War II.[4][5]
+24,HMS Samphire,Royal Navy,military_organisation,,30-Jan-43,36.933333,5.666667,torpedoed,submarine,A Flower-class corvette that was torpedoed by an Italian submarine off Béjaïa.
+26,HMS Attack,Royal Navy,military_organisation,,30-Dec-17,31.3,29.816667,unknown,destroyer,An Acheron-class destroyer that was sunk northwest of Alexandria.
+27,HMS Defender,Royal Navy,military_organisation,,11-Jul-41,31.75,25.516667,shelled_or_bombed,destroyer,A D-class destroyer that was attacked by a German bomber and sank under tow off Sidi Barrani.
+30,Salem Express,France,country,1991.0,14–15 December 1991,26.639444,34.060833,ran_aground,ferry,"A roll-on/roll-off passenger ferry that ran aground at midnight on a reef near Safaga, sinking rapidly with the loss of at least 464 civilians."
+31,HMS Salvia,Royal Navy,military_organisation,,24-Dec-41,31.466667,28.0,torpedoed,corvette,A Flower-class corvette that was torpedoed by U-568 about 100 nautical miles (190 km; 120 mi) west of Alexandria.
+33,HMS Dainty,Royal Navy,military_organisation,,24-Feb-41,32.073333,24.078333,shelled_or_bombed,destroyer,A D-class destroyer that was sunk by German bombers east of Tobruk.
+34,HMS Ladybird,Royal Navy,military_organisation,,12-May-41,32.075833,23.9725,shelled_or_bombed,gunboat,An Insect-class gunboat that was sunk by German dive bombers at Tobruk.
+35,Shuntien,Royal Navy,military_organisation,,23-Dec-41,32.066667,24.466667,torpedoed,submarine,A passenger and cargo liner that was torpedoed by the German submarine U-559 east of Tobruk.
+36,HMS Sikh,Royal Navy,military_organisation,,14-Sep-42,32.097778,24.0,unknown,destroyer,A Tribal-class destroyer that was sunk by shore batteries off Tobruk.
+37,HMS Terror,Royal Navy,military_organisation,,23-Feb-41,32.983333,22.533333,unknown,unknown,An Erebus-class monitor that was attacked by German aircraft and sank under tow off Derna.
+38,U-652,Kriegsmarine,military_organisation,,2-Jun-42,31.916667,25.183333,scuttled,submarine,A Type VIIC U-boat that was attacked by a British aircraft and scuttled north of Bardia.
+39,Yoma,Royal Navy,military_organisation,,17-Jun-41,33.033333,22.033333,torpedoed,submarine,A troopship that was torpedoed by the German submarine U-81 northwest of Derna.
+42,Empire Barracuda,United Kingdom,country,,15-Dec-42,35.5,-6.283333,torpedoed,cargo_ship,A cargo ship that was torpedoed by the U-77 off Morocco.
+51,HMS Havock,Royal Navy,military_organisation,,6-Apr-42,36.871667,11.14,ran_aground,destroyer,A H-class destroyer that ran aground off Kelibia.
+52,HMS Hostile,Royal Navy,military_organisation,,23-Aug-40,36.883333,11.316667,mined,destroyer,A H-class destroyer that struck a mine and was scuttled off Cap Bon.
+53,Mahdia,Unknown,country,,Unknown,35.531944,8.7875,unknown,unknown,An ancient shipwreck discovered near Mahdia in 1907. It is thought to date from around 80 BC.[8]
+54,HMS Manchester,Royal Navy,military_organisation,,13-Aug-42,36.833333,11.166667,unknown,cruiser,A Town-class light cruiser that was sunk during Operation Pedestal.
+55,USS PC-496,United States Navy,military_organisation,,4-Jun-43,37.383333,9.866667,unknown,submarine,A PC-461-class submarine chaser that sank off Bizerte.
+56,USS Redwing,United States Navy,military_organisation,,29-Jun-43,37.316667,9.933333,capsized,minesweeper,A Lapwing-class minesweeper that capsized off Bizerte.
+58,Dunedin Star,United Kingdom,country,,29-Nov-42,-18.133333,11.55,ran_aground,unknown,"A refrigerator ship that ran aground on the Skeleton Coast, 80 kilometres (50 mi) south of the Cunene River.[10]"
+59,Eduard Bohlen,Germany,country,,5-Sep-09,-23.995278,14.457222,ran_aground,cargo_ship,A freighter that ran aground south of Conception Bay.[11][12]
+60,Frotamerica,Unknown,country,,15-Feb-13,-26.37,15.040278,ran_aground,cargo_ship,"The cargo ship ran aground at Lüderitz, Namibia.[13]"
+66,Grosvenor,East India Company,country,1782.0,4 August 1782,-31.373889,29.914722,unknown,unknown,An East Indiaman that was wrecked off the Pondoland coast.[18]
+67,Kapodistrias,Greece,country,1985.0,1985,-34.042222,25.693333,unknown,unknown,A Greek bulk carrier wrecked at Cape Recife near Port Elizabeth
+68,Kiperousa,Unknown,country,2005.0,2005,-33.333333,27.416667,unknown,unknown,A bulk carrier that was stranded northeast of Port Alfred.[19]
+69,Meng Yaw,Unknown,country,,,-34.166667,24.5,unknown,trawler,A fishing trawler that sank near St Francis Bay.
+70,Oceanos,Greece,country,,4-Aug-91,-32.120833,29.120278,unknown,liner,"A cruise liner that sank off the Transkei coast, after leaving East London en route to Durban.[20]"
+71,Santissimo Sacramento,Portugal,country,1647.0,1647,-34.043056,25.520278,unknown,unknown,A Portuguese vessel wrecked at Sardinia Bay near Port Elizabeth
+73,TMP Sagittarius,Unknown,country,,2-Jul,-33.066667,27.85,unknown,unknown,Stranded southwest of East London.[21]
+74,HMS Otus,Royal Navy,military_organisation,,Sep-46,-29.8725,31.094167,scuttled,submarine,An Odin-class submarine that was scuttled off Durban.
+78,Arniston,East India Company,country,1815.0,30 May 1815,-34.66,20.251944,unknown,unknown,"A British East Indiaman, requisitioned for troop transport, wrecked near Waenhuiskrans.[22]"
+79,HMS Birkenhead,Royal Navy,military_organisation,1852.0,26 February 1852,-34.645,19.285833,ran_aground,unknown,"A British iron-hulled troopship that struck a submerged rock near Gansbaai. The chivalry of the soldiers in abandoning ship gave rise to the ""women and children first"" protocol.[23]"
+80,BOS 400,France,country,,26-Jun-94,-34.037022,18.308661,ran_aground,tug,A derrick/lay barge that ran aground on Duiker point after breaking loose while being towed around the Cape Peninsula by the tug Tigr in a storm.[24]
+82,Cospatrick,United Kingdom,country,1874.0,17 November 1874,-37.0,12.0,fire_or_explosion,unknown,"A wooden 3-masted full-rigged sailing ship that caught fire and sank south of the Cape of Good Hope, with a loss of 369 lives.[26]"
+85,Joanna,East India Company,country,1682.0,8 June 1682,-34.782778,19.679444,unknown,unknown,An East Indiaman (the first to be wrecked off the South African coast) that sank near Cape Agulhas. A considerable amount of gold was on the ship.[29]
+87,Kakapo,United Kingdom,country,,25-May-00,-34.123889,18.348889,unknown,steamer,A British 665-ton schooner-rigged steamship built in 1898 by the Grangemouth Dockyard Company
+89,Meisho Maru No. 38,Japan,country,1982.0,1982,-34.816667,19.983333,unknown,trawler,A fishing trawler that sank near Cape Aghulas.
+90,Nolloth,Unknown,country,,Unknown,-34.266667,18.383333,unknown,unknown,A coastal trading vessel that sunk near Olifantsbos Bay.
+91,Pantalis A Lemos,Unknown,country,1978.0,1978,-33.15,18.016667,unknown,unknown,A bulk carrier that sank near Saldanha Bay.
+94,SAS President Kruger,South African Navy,military_organisation,,18-Feb-82,-35.25,17.35,collision,frigate,"A South African frigate that sank in deep water after a collision with its refueling ship, SAS Tafelberg.[33]"
+96,HMS Sceptre,Royal Navy,military_organisation,1799.0,5 November 1799,-33.92,18.45,storm_or_weather,unknown,"A 64-gun third-rate ship of the line of the Royal Navy that was blown ashore in Table Bay by a gale, with heavy losses.[34]"
+97,Seli 1,Turkey,country,,18-Sep-09,-33.821042,18.473494,ran_aground,unknown,A Turkish bulk carrier carrying coal that ran aground on Bloubergstrand near Table Bay.
+99,HMS Thames,Royal Navy,military_organisation,,13-May-47,-34.23,18.63,unknown,cruiser,"A former Mersey-class protected cruiser that became famous as SATS General Botha, a merchant naval training ship. After retiring as a training ship, it reverted to its original name and was sunk in False Bay near Simon's Town as a target.[35]"
+100,Thomas T. Tucker,United States,country,,27-Nov-42,-34.273239,18.380092,unknown,unknown,"A Houston-built munitions carrier that ran ashore on Oliphantsbos Point, near Cape Point.[36]"
+102,Wafra,Liberia,country,,28-Feb-71,-36.95,20.7,unknown,tanker,"An oil tanker that grounded near Cape Agulhas, causing an oil spill. The ship was later refloated, towed out to sea, and re-sunk to avoid further contamination of the coastline."
+112,Fifi,Bahrain,country,,Unknown,26.157822,50.755158,unknown,unknown,A tugboat that sank in the 1980s. The wreck is a popular shallow depth dive site.[1]
+115,Free Enterprise,Egypt,country,2004.0,2004,21.376575,39.120419,unknown,unknown,"A Ro-Pax vessel, later renamed Al Fahad, that was anchored after engine problems and abandoned 14.6 kilometres (9.1 mi) southwest of the old city center of Jeddah.[3]"
+117,Saudi Golden Arrow,Unknown,country,,Unknown,20.867464,39.361047,unknown,ferry,"A Norwegian ferry, formerly Europafergen,[4] reported to be laid up at Shoieba.[3]"
+118,Allah Mina,Unknown,country,,Unknown,25.355472,55.204917,unknown,barge,A cement barge that sank off Dubai.
+119,Dara,United Kingdom,country,,10-Apr-61,25.574722,55.466111,fire_or_explosion,liner,"An ocean liner that suffered an internal explosion off Dubai, possibly due to an act of sabotage. 238 people were killed, and the ship sank under tow two days later."
+122,HMS Khartoum,Royal Navy,military_organisation,,23-Jun-40,12.633333,43.4,fire_or_explosion,destroyer,A K-class destroyer that caught fire and sank off Perim.
+123,HMIS Jamnagar,Indian Navy,military_organisation,,29-Aug-48,21.883333,90.8,ran_aground,unknown,A coastal trading vessel that ran aground on Domanik Island in the Bay of Bengal.
+124,USS Salute,United States Navy,military_organisation,,8-Jun-45,5.133333,115.083333,mined,minesweeper,An Admirable-class minesweeper that struck a mine in Brunei Bay.
+125,HMIS Indus,Indian Navy,military_organisation,,6-Apr-42,20.116667,92.9,shelled_or_bombed,unknown,A Grimsby-class sloop that was bombed by Japanese aircraft off Akyab.
+126,Amatsukaze,Imperial Japanese Navy,military_organisation,,6-Apr-45,24.5,118.166667,unknown,destroyer,A Kagerō-class destroyer that was sunk by US aircraft east of Amoy.
+127,SMS Cormoran,Imperial German Navy,military_organisation,,28-Sep-14,36.05,120.266667,scuttled,cruiser,A Bussard-class cruiser that was scuttled at Tsingtau to prevent capture.
+129,Dingyuan,Imperial Chinese Navy,military_organisation,1895.0,10 February 1895,37.500467,122.180158,scuttled,unknown,A pre-dreadnought battleship that was scuttled after taking damage in the Battle of Weihaiwei.
+130,Dongfang zhi Xing,China,country,,1-Jun-15,29.759167,112.922778,capsized,unknown,"A cruise ship that ran between Nanjing and Chongqing. It capsized on the Yangtze River after being hit by a downburst in Jianli County, Jingzhou, Hubei, killing 442."
+131,Huaguangjiao One,Unknown,country,,Unknown,16.271111,111.5675,unknown,unknown,"A Chinese merchant vessel built during the Southern Song dynasty (1127–1279). It was discovered in 1996, and was the first vessel China discovered in the open seas."
+132,Jingyuan,Imperial Chinese Navy,military_organisation,1894.0,17 September 1894,39.213889,123.126389,unknown,cruiser,An armored cruiser that was sunk in the Battle of the Yalu River.
+133,Jiyuan,Imperial Chinese Navy,military_organisation,,30-Nov-04,38.85,121.083333,mined,cruiser,A protected cruiser that struck a mine off the Lüshunkou District.
+134,Kaimon,Imperial Chinese Navy,military_organisation,,5-Jul-04,38.833333,121.833333,mined,unknown,A sloop-of-war that struck a mine off Lüshunkou.
+135,Laiyuan,Imperial Chinese Navy,military_organisation,1895.0,5 February 1895,37.496944,122.171111,unknown,cruiser,An armored cruiser that was sunk in the Battle of Weihaiwei.
+136,Nan'ao One,Unknown,country,,Unknown,23.666667,117.333333,unknown,unknown,"A late Ming dynasty (1368–1644) merchant ship, the first ever found in the South China Seas."
+137,Nanhai One,Unknown,country,,Unknown,21.576111,111.868889,unknown,unknown,"A Chinese merchant vessel which sank off the south coast during the Southern Song dynasty, between 1127 and 1279."
+138,Ōshima,Imperial Japanese Navy,military_organisation,,18-May-04,39.016667,121.133333,collision,gunboat,A gunboat that collided with Akagi in heavy fog off Lüshunkou.
+143,Wanjiao One,Unknown,country,,Unknown,22.266667,111.05,unknown,unknown,An ancient Chinese merchant ship dating back to the reign of the Kangxi Emperor (1654–1722) of the Qing dynasty.
+144,HMAS Armidale,Royal Australian Navy,military_organisation,,1-Dec-42,-9.164444,125.725,unknown,corvette,A Bathurst-class corvette that was sunk by Japanese aircraft off Betano Bay.
+145,HMAS Voyager,Royal Australian Navy,military_organisation,,23-Sep-42,-9.25,125.75,ran_aground,destroyer,A W-class destroyer that ran aground at Betano Bay.
+149,Lamma IV,Hong Kong,country,,1-Oct-12,22.235556,114.103889,collision,ferry,"A ferry that collided with another ferry off Lamma Island, killing 39 of the 127 on board.[6]"
+155,Amagiri,Imperial Japanese Navy,military_organisation,,23-Apr-44,-2.166667,116.75,mined,destroyer,A Fubuki-class destroyer that struck a mine near Balikpapan.
+157,Asagumo,Imperial Japanese Navy,military_organisation,,25-Oct-44,-1.983333,104.933333,torpedoed,destroyer,An Asashio-class destroyer that was torpedoed by USS McDermut at the Battle of Surigao Strait.
+158,Ashigara,Imperial Japanese Navy,military_organisation,,8-Jun-45,-1.983333,104.933333,torpedoed,cruiser,A Myōkō-class heavy cruiser that was torpedoed off the Bangka–Belitung Islands.
+159,Belitung shipwreck,Unknown,country,,830 CE (Approximately),-2.760833,107.595183,unknown,unknown,The wreck of an Arabian dhow that sank off Belitung Island
+161,HNLMS De Ruyter,Royal Netherlands Navy,military_organisation,,28-Feb-42,-5.981944,112.065833,torpedoed,cruiser,A light cruiser torpedoed by Haguro in the Battle of the Java Sea.
+162,USS Edsall,United States Navy,military_organisation,,1-Mar-42,-13.75,106.75,unknown,destroyer,A Clemson-class destroyer that was sunk by Japanese forces in the Java Sea.
+163,HMS Electra,Royal Navy,military_organisation,,27-Feb-42,-5.0,111.0,unknown,destroyer,An E-class destroyer that was sunk in the Battle of the Java Sea.
+167,Hayanami,Imperial Japanese Navy,military_organisation,,7-Jun-44,4.716667,120.05,torpedoed,destroyer,A Yūgumo-class destroyer that was torpedoed by USS Harder near Tawi-Tawi.
+168,Hokaze,Imperial Japanese Navy,military_organisation,,6-Jul-44,3.4,125.466667,unknown,destroyer,A Minekaze-class destroyer that was sunk by USS Paddle.
+169,USS Houston,United States Navy,military_organisation,,1-Mar-42,-5.8125,106.131944,unknown,cruiser,A Northampton-class heavy cruiser that was sunk in the Battle of Sunda Strait.
+170,I-60,Imperial Japanese Navy,military_organisation,,17-Jan-42,-6.325,104.822222,unknown,submarine,A Kaidai-type submarine that was sunk by HMS Jupiter west of Krakatoa.
+171,Inazuma,Imperial Japanese Navy,military_organisation,,14-May-44,5.133333,119.633333,unknown,destroyer,A Fubuki-class destroyer that was sunk by USS Bonefish.
+172,Isonami,Imperial Japanese Navy,military_organisation,,9-Apr-43,-5.433333,123.066667,torpedoed,destroyer,A Fubuki-class destroyer that was torpedoed by USS Tautog southeast of Wangiwangi Island.
+173,Isuzu,Imperial Japanese Navy,military_organisation,,7-Apr-45,-7.633333,118.15,unknown,cruiser,A Nagara-class light cruiser that was sunk near Bima.
+174,Itsukushima,Imperial Japanese Navy,military_organisation,,7-Oct-44,-5.383333,113.8,torpedoed,unknown,A minelayer that was torpedoed by HNLMS Zwaardvisch off Bawean.
+175,HNLMS Java,Royal Netherlands Navy,military_organisation,,27-Feb-42,-6.000278,112.083333,unknown,cruiser,A Java-class cruiser that was sunk by Nachi in the Battle of the Java Sea.
+176,Junyō Maru,Imperial Japanese Navy,military_organisation,,18-Sep-44,-2.883333,101.183333,unknown,unknown,"A ""hell ship"" that was sunk by HMS Tradewind, with over 5,000 deaths."
+177,HMS Jupiter,Royal Navy,military_organisation,,27-Feb-42,-6.75,112.1,mined,destroyer,A J-class destroyer that hit a mine off the north coast of Java.
+179,HNLMS K XVIII,Royal Netherlands Navy,military_organisation,,16-Jun-45,-6.8,112.783333,unknown,submarine,A K XIV-class submarine that was sunk by HMS Taciturn off Surabaya.
+180,HNLMS Kortenaer,Royal Netherlands Navy,military_organisation,,27-Feb-42,-6.483333,112.083333,torpedoed,destroyer,An Admiralen-class destroyer that was torpedoed by Haguro in the Battle of the Java Sea.
+182,USS Langley,United States Navy,military_organisation,,27-Feb-42,-8.85,109.033333,shelled_or_bombed,unknown,An aircraft carrier that was attacked by Japanese dive bombers and scuttled off Cilacap Regency.
+187,Minazuki,Imperial Japanese Navy,military_organisation,,6-Jun-44,4.083333,119.5,unknown,destroyer,A Mutsuki-class destroyer that was sunk by USS Harder.
+188,Nadakaze,Imperial Japanese Navy,military_organisation,,25-Jul-45,-7.1,115.7,torpedoed,destroyer,A Minekaze-class destroyer that was torpedoed by HMS Stubborn near Lombok Strait.
+189,Natsushio,Imperial Japanese Navy,military_organisation,,9-Feb-42,-5.166667,119.4,torpedoed,destroyer,A Kagerō-class destroyer that was torpedoed by USS S-37 near Makassar.
+190,No. 2,Imperial Japanese Navy,military_organisation,,27-Jun-45,-7.5,116.25,unknown,submarine,A No.1-class submarine chaser that was sunk by USS Blueback.
+191,Ocean,East India Company,country,1797.0,5 February 1797,-7.15,121.0,scuttled,unknown,An East Indiaman that struck a reef and was scuttled off Kalatea.
+192,USS Perch,United States Navy,military_organisation,,3-Mar-42,-6.5,113.833333,scuttled,submarine,A Porpoise-class submarine that took damage and was scuttled off Madura Island.
+193,HMAS Perth,Royal Australian Navy,military_organisation,,1-Mar-42,-5.861667,106.131111,torpedoed,cruiser,A Leander-class light cruiser that was torpedoed in the Battle of Sunda Strait.
+195,USS S-36,United States Navy,military_organisation,,21-Jan-42,4.95,118.516667,scuttled,submarine,An S-class submarine that ran aground on a reef and was scuttled.
+198,Sierra Cordoba,United States,country,,31-Dec-41,1.0,119.166667,unknown,cargo_ship,A cargo liner that was sunk by a Japanese flying boat.
+199,KMP Tampomas II,Indonesia,country,,27-Jan-81,-5.5,114.433333,unknown,unknown,"An Indonesian passenger ship that sank near Masalembu Island, Java Sea, with an estimated loss of 431 dead."
+200,Tōhō Maru,Imperial Japanese Navy,military_organisation,,29-Mar-43,0.0,118.316667,torpedoed,tanker,An oil tanker that was torpedoed by USS Gudgeon in the Makassar Strait.
+201,Tsugaru,Imperial Japanese Navy,military_organisation,,29-Jun-44,2.316667,127.95,unknown,unknown,A minelayer that was sunk by USS Darter near Tobelo.
+202,U-183,Kriegsmarine,military_organisation,,23-Apr-45,-4.833056,112.866944,unknown,submarine,A Type IXC/40 U-boat that was sunk by USS Besugo in the Java Sea.
+203,U-537,Kriegsmarine,military_organisation,,10-Nov-44,-7.216667,115.283333,unknown,submarine,A Type IXC/40 U-boat that was sunk in the Java Sea.
+204,HNLMS Van Ghent,Royal Netherlands Navy,military_organisation,,15-Feb-42,-3.083333,107.35,scuttled,destroyer,An Admiralen-class destroyer that ran aground and was scuttled off Belitung.
+205,HNLMS Van Nes,Royal Netherlands Navy,military_organisation,,17-Feb-42,-3.45,106.633333,unknown,destroyer,An Admiralen-class destroyer that was sunk by Japanese aircraft south of Bangka Island.
+207,Admiral Ushakov,Imperial Russian Navy,military_organisation,,28-May-05,34.566667,129.533333,scuttled,unknown,A Russian battleship that was scuttled after taking damage at the Battle of Tsushima.
+208,Aki,Imperial Japanese Navy,military_organisation,,7-Sep-24,35.025,139.856111,unknown,unknown,"A Satsuma-class battleship that was sunk as a target near Minamibōsō, Chiba."
+212,USS Bates,United States Navy,military_organisation,,25-May-45,26.683333,127.783333,unknown,destroyer,A Buckley-class destroyer escort that was sunk by Japanese aircraft south of Iejima.
+214,Chishima,Imperial Japanese Navy,military_organisation,1892.0,30 November 1892,33.916667,132.65,collision,cruiser,An unprotected cruiser that collided with Ravenna off Matsuyama.
+215,Chiyoda,Imperial Japanese Navy,military_organisation,,5-Aug-27,32.908889,132.25,unknown,cruiser,A protected cruiser that was sunk as a target in Bungo Channel.
+217,USS Emmons,United States Navy,military_organisation,,6-Apr-45,26.8,128.066667,unknown,destroyer,A Gleaves-class destroyer that was sunk by kamikaze aircraft off Okinawa.
+220,I-58,Imperial Japanese Navy,military_organisation,,1-Apr-46,32.616667,129.283333,scuttled,submarine,A B3 type cruiser submarine that was scuttled off the Gotō Islands.
+221,I-157,Imperial Japanese Navy,military_organisation,,1-Apr-46,32.616667,129.283333,scuttled,submarine,"A Kaidai-type submarine that was scuttled east of Gotō, Nagasaki."
+224,Kamikaze,Imperial Japanese Navy,military_organisation,,7-Jun-46,34.633333,138.133333,ran_aground,destroyer,A Kamikaze-class destroyer that ran aground off Omaezaki.
+229,Lisbon Maru,Imperial Japanese Navy,military_organisation,,2-Oct-42,30.23,122.765,torpedoed,unknown,A troopship and prisoner-of-war transport that was torpedoed by USS Grouper off Zhoushan.
+230,Nagara,Imperial Japanese Navy,military_organisation,,7-Aug-44,32.15,129.883333,torpedoed,cruiser,A Nagara-class light cruiser that was torpedoed by USS Croaker off Amakusa.
+232,Nisshin,Imperial Japanese Navy,military_organisation,,18-Jan-42,34.083333,132.883333,unknown,cruiser,A Kasuga-class armored cruiser that was sunk as a target southwest of Kure.
+234,Numakaze,Imperial Japanese Navy,military_organisation,,18-Dec-43,26.483333,128.433333,unknown,destroyer,A Minekaze-class destroyer that was sunk northeast of Naha.
+235,Okikaze,Imperial Japanese Navy,military_organisation,,10-Jan-43,35.033333,140.2,torpedoed,destroyer,A Minekaze-class destroyer that was torpedoed by USS Trigger southeast of Yokosuka.
+237,Otowa,Imperial Japanese Navy,military_organisation,,10-Aug-17,34.233333,136.883333,ran_aground,cruiser,A protected cruiser that ran aground and broke apart off Shima.
+238,Seiki,Imperial Japanese Navy,military_organisation,1888.0,10 December 1888,35.116667,138.666667,ran_aground,unknown,A screw sloop that ran aground in Suruga Bay.
+241,USS Skylark,United States Navy,military_organisation,,28-Apr-45,26.333333,127.666667,mined,minesweeper,An Auk-class minesweeper that struck a mine off Hagushi.
+243,USS Swallow,United States Navy,military_organisation,,22-Apr-45,26.166667,127.2,unknown,minesweeper,An Auk-class minesweeper that was sunk by kamikaze aircraft off Okinawa.
+244,USS Tang,United States Navy,military_organisation,,24-Oct-44,25.1,119.516667,torpedoed,submarine,A Balao-class submarine that was sunk by her own torpedo in the Taiwan Strait.
+246,Thor,Kriegsmarine,military_organisation,,30-Nov-42,35.397222,139.647222,fire_or_explosion,cruiser,"An auxiliary cruiser that was destroyed by fire while moored at Yokohama, and abandoned."
+248,Tofuku Maru,Imperial Japanese Navy,military_organisation,,24-Dec-43,34.033333,136.316667,torpedoed,unknown,A hell ship that was torpedoed by USS Gurnard off the east coast of Honshu.
+251,Tōya Maru,Japan,country,,26-Sep-54,41.193333,140.151944,storm_or_weather,ferry,"A train ferry that sank in a typhoon off Hakodate, resulting in around 1,153 deaths."
+253,Tsushima Maru,Japan,country,,22-Aug-44,29.5425,129.558333,unknown,unknown,"A passenger ship that was sunk by USS Bowfin off Akusekijima, killing 1,484 civilians, including 767 schoolchildren."
+254,Vladimir Monomakh,Imperial Russian Navy,military_organisation,,28-May-05,34.533333,129.666667,torpedoed,cruiser,An armored cruiser that was damaged by Japanese torpedo boats and scuttled off Tsushima Island.
+257,Atago Maru,Imperial Japanese Navy,military_organisation,,28-Nov-44,4.483333,114.0,unknown,unknown,"A merchant vessel that was sunk off Miri, Sarawak."
+260,Hatsutaka,Imperial Japanese Navy,military_organisation,,16-May-45,4.816667,103.516667,torpedoed,unknown,A Hatsutaka-class minelayer that was torpedoed by USS Hawkbill off Pulau Tenggol.
+261,Kuma,Imperial Japanese Navy,military_organisation,,11-Jan-44,5.433333,99.866667,torpedoed,cruiser,A Kuma-class light cruiser that was torpedoed by HMS Tally-Ho off Penang.
+262,Kuroshio Maru,Japan,country,,Mar-60,2.55,104.666667,unknown,tanker,A tanker that was sunk as a target off Aur Island.
+263,HMS Prince of Wales,Royal Navy,military_organisation,,10-Dec-41,3.566667,104.433333,shelled_or_bombed,unknown,"A King George V-class battleship that was launched in 1939 and sunk by Japanese bombers, along with HMS Repulse."
+264,HMS Repulse,Royal Navy,military_organisation,,10-Dec-41,3.566667,104.433333,shelled_or_bombed,unknown,"A Renown-class battlecruiser that was launched in 1916, and sunk by Japanese bombers, along with HMS Prince of Wales."
+265,HMS Stratagem,Royal Navy,military_organisation,,22-Nov-44,1.6,102.883333,unknown,submarine,An S-class submarine that was sunk by a Japanese submarine chaser near Batu Pahat.
+266,Abukuma,Imperial Japanese Navy,military_organisation,,26-Oct-44,9.333333,122.533333,shelled_or_bombed,cruiser,A Nagara-class light cruiser that was bombed by US aircraft off Negros Island.
+267,Akebono,Imperial Japanese Navy,military_organisation,,14-Nov-44,14.583333,120.916667,shelled_or_bombed,destroyer,"A Fubuki-class destroyer that was bombed by US aircraft at Cavite, in an attack which also sunk Akishimo."
+268,Akigumo,Imperial Japanese Navy,military_organisation,,11-Apr-44,6.716667,122.383333,torpedoed,destroyer,A Kagerō-class destroyer that was torpedoed by USS Redfin southeast of Zamboanga Peninsula.
+269,Akishimo,Imperial Japanese Navy,military_organisation,,14-Nov-44,14.583333,120.916667,shelled_or_bombed,destroyer,"A Yūgumo-class destroyer that was bombed by US aircraft at Cavite, in an attack which also sunk Akebono."
+271,Asakaze (1922),Imperial Japanese Navy,military_organisation,,23-Aug-44,16.1,119.733333,torpedoed,destroyer,A Kamikaze-class destroyer that was torpedoed by USS Haddo southwest of Bolinao.
+274,USS Barbel,United States Navy,military_organisation,,4-Feb-45,7.816667,116.783333,unknown,submarine,A Balao-class submarine that was sunk by Japanese aircraft off Palawan.
+277,China Maru,Japan,country,,21-Sep-44,14.583333,120.916667,unknown,cargo_ship,A cargo ship that was sunk by US aircraft off Manila.
+278,USS Cooper,United States Navy,military_organisation,,3-Dec-44,10.9,124.6,unknown,destroyer,An Allen M. Sumner-class destroyer that was sunk in the Battle of Ormoc Bay.
+279,USS Darter,United States Navy,military_organisation,,24-Oct-44,9.406111,116.983889,scuttled,submarine,A Gato-class submarine that ran aground and was scuttled off Palawan.
+282,USS Flier,United States Navy,military_organisation,,13-Aug-44,7.978669,117.256608,mined,submarine,A Gato-class submarine that struck a mine in the Balabac Strait.
+283,Fujinami,Imperial Japanese Navy,military_organisation,,27-Oct-44,12.0,122.5,unknown,destroyer,A Yūgumo-class destroyer that was sunk by US aircraft 80 miles (130 km) north of Iloilo.
+284,Hamanami,Imperial Japanese Navy,military_organisation,,11-Nov-44,10.833333,124.583333,unknown,destroyer,A Yūgumo-class destroyer that was sunk by US aircraft west of Leyte.
+286,Hatsuharu,Imperial Japanese Navy,military_organisation,,13-Nov-44,14.583333,120.833333,unknown,destroyer,A Hatsuharu-class destroyer that was sunk in an air raid at Manila Bay.
+287,USS Hoel,United States Navy,military_organisation,,25-Oct-44,11.766667,126.55,unknown,destroyer,A Fletcher-class destroyer that was sunk in the Battle off Samar.
+288,USS Hovey,United States Navy,military_organisation,,7-Jan-45,16.333333,120.166667,unknown,destroyer,A Clemson-class destroyer that was sunk in the Invasion of Luzon.
+289,USS Indianapolis,United States Navy,military_organisation,,30-Jul-45,12.033333,134.8,torpedoed,submarine,A Portland-class cruiser that was torpedoed by Japanese submarine I-58 from the south of Philippine Sea.
+290,Irako,Imperial Japanese Navy,military_organisation,,24-Sep-44,8.066667,152.666667,scuttled,unknown,A food supply ship that was scuttled at Coron Island after taking damage in an attack by aircraft of Task Force 38.[13]
+292,USS Johnston,United States Navy,military_organisation,,25-Oct-44,11.75,126.133333,unknown,destroyer,A Fletcher-class destroyer
+293,Kazagumo,Imperial Japanese Navy,military_organisation,,8-Jun-44,6.05,125.95,torpedoed,destroyer,A Yūgumo-class destroyer that was torpedoed by USS Hake at the mouth of Davao Gulf.
+294,Kinu,Imperial Japanese Navy,military_organisation,,26-Oct-44,11.75,123.183333,shelled_or_bombed,cruiser,A Nagara-class light cruiser that was bombed by US aircraft southwest of Masbate.
+295,Kiyoshimo,Imperial Japanese Navy,military_organisation,,26-Dec-44,12.333333,121.0,unknown,destroyer,A Yūgumo-class destroyer that was sunk by US forces off San Jose.
+297,Kumano,Imperial Japanese Navy,military_organisation,,25-Nov-44,15.749444,119.799167,unknown,cruiser,A Mogami-class cruiser that was sunk by US aircraft off Santa Cruz.
+299,USS Lanakai,United States Navy,military_organisation,1947.0,1947,14.766667,120.25,storm_or_weather,schooner,"A schooner-rigged diesel yacht that was confiscated from its German owners and renamed USS Hermes. After World War I, it was sold to MGM, who renamed it MV Lanakai and used it in the film The Hurricane, starring Jon Hall and Dorothy Lamour. During World War II, the ship operated as a covert intelligence-gathering vessel around the Philippines and Vietnam. It was sunk by a typhoon in 1947.[19]"
+300,USS Mahan,United States Navy,military_organisation,,7-Dec-44,10.833333,124.5,unknown,destroyer,A Mahan-class destroyer that was sunk between Leyte and Ponson Island.
+301,USS Majaba,United States Navy,military_organisation,,Aug-46,14.766667,120.25,torpedoed,submarine,"A lumber transport, known locally as El Capitan, that was commissioned for supply duties during World War II. A Liberty ship, the vessel received a Battle Star for her duties and survived being torpedoed by a Japanese submarine at Guadalcanal. She was sunk by typhoon in Subic Bay, whilst undergoing re-fit/repair after the war.[19]"
+302,Michishio,Imperial Japanese Navy,military_organisation,,22-Oct-44,10.416667,125.383333,unknown,destroyer,An Asashio-class destroyer that was sunk in the Battle of Surigao Strait.
+304,Mogami,Imperial Japanese Navy,military_organisation,,25-Oct-44,9.666667,124.833333,scuttled,cruiser,A Mogami-class heavy cruiser that suffered heavy damage in the Battle of Surigao Strait and was scuttled.
+305,Musashi,Imperial Japanese Navy,military_organisation,,24-Oct-44,13.116667,122.533333,unknown,unknown,A Yamato-class battleship that was sunk in the Sibuyan Sea during the Battle of Leyte Gulf.
+307,K-27,Soviet Navy,military_organisation,,6-Sep-82,72.516667,55.5,scuttled,submarine,A November-class submarine that was scuttled off the northeastern coast of Novaya Zemlya.
+308,Niitaka,Imperial Japanese Navy,military_organisation,,26-Aug-22,51.5,156.483333,storm_or_weather,cruiser,A Niitaka-class protected cruiser that capsized in a typhoon off the Ust-Bolsheretsky District.
+309,Sibiryakov,Soviet Navy,military_organisation,,24-Aug-42,76.0,91.516667,unknown,cruiser,An icebreaker that was sunk by the German cruiser Admiral Scheer northwest of Russky Island.
+310,U-362,Kriegsmarine,military_organisation,,5-Sep-44,75.85,89.45,unknown,submarine,A Type VIIC U-boat that was sunk by T-116 east of the Mona Islands.
+311,U-639,Kriegsmarine,military_organisation,,28-Aug-43,76.816667,69.7,unknown,submarine,A Type VIIC U-boat that was sunk by S-101 off Cape Flissingsky.
+316,USS Magpie,United States Navy,military_organisation,,1-Oct-50,36.5,129.5,mined,minesweeper,A YMS-1-class minesweeper that hit a mine off North Gyeongsang Province.
+319,Sewol,South Korea,country,,16-Apr-14,34.218056,125.95,capsized,ferry,"A ferry with 476 souls on board – most of which were high school students – that capsized near Donggeochado after making a ""sudden turn"" that overbalanced the ship, which could not be righted. Only 172 survived. The captain and crew were later charged with criminal negligence, gross negligence and manslaughter after it was revealed the ship was heavily overbalanced, and that the captain and crew abandoned ship after ordering the passengers to remain seated even as water began filling the ship, resulting in unnecessary deaths."
+324,Great Basses wreck,Mughal Empire,country,,Unknown,6.180556,81.480556,ran_aground,unknown,"An 18th century shipwreck on the Great Basses Reef, discovered by Arthur C. Clarke in 1961."
+325,HMS Hollyhock,Royal Navy,military_organisation,,9-Apr-42,7.35,81.95,unknown,corvette,A corvette that was sunk by Japanese air attack.
+326,Farah III,Jordan,country,,6-Dec,9.314444,80.791389,ran_aground,cargo_ship,A cargo ship that was forcibly boarded by LTTE Sea Tigers and run aground near Mullaitivu. The Sri Lanka Army re-captured the wreck in 2009.
+327,HMS Tenedos,Royal Navy,military_organisation,,5-Apr-42,6.954722,79.855556,unknown,destroyer,An S-class destroyer that was sunk at Colombo during the Indian Ocean raid.
+328,HMAS Vampire,Royal Australian Navy,military_organisation,,9-Apr-42,7.583333,82.083333,unknown,destroyer,A V-class destroyer that was sunk by Japanese air attack.
+331,Hatakaze,Imperial Japanese Navy,military_organisation,,15-Jan-45,22.666667,120.233333,unknown,destroyer,A Kamikaze-class destroyer that was sunk by US aircraft at Kaohsiung.
+332,Minekaze,Imperial Japanese Navy,military_organisation,,10-Feb-44,22.2,121.5,torpedoed,destroyer,A Minekaze-class destroyer that was torpedoed by USS Pogy off Taitung County.
+335,HTMS Sukhothai,Royal Thai Navy,military_organisation,,18-Dec-22,11.0,99.883333,storm_or_weather,corvette,"A Ratanakosin-class corvette that sank in a storm off Bang Saphan Noi, Prachuap Khiri Khan."
+338,HMS Arno,Royal Navy,military_organisation,,23-Mar-18,40.241667,26.508333,collision,destroyer,A destroyer that collided with HMS Hope in the Dardanelles.
+339,Bouvet,French Navy,military_organisation,,18-Mar-15,40.020833,26.275,unknown,unknown,"A pre-dreadnought battleship, launched in 1896 and sunk by Turkish coastal artillery in the Dardanelles Campaign."
+340,SMS Breslau,Imperial German Navy,military_organisation,,16-Aug-14,40.061667,25.978333,unknown,cruiser,A Magdeburg-class light cruiser that was sunk in the Battle of Imbros.
+341,The Cape Gelidonya shipwreck,Unknown,country,1200.0,1200 BCE,36.636111,30.557222,unknown,unknown,A Phoenician merchant vessel that was wrecked around 1200 BCE.
+343,HMS Majestic,Royal Navy,military_organisation,,27-May-15,40.041667,26.183889,torpedoed,unknown,A Majestic-class battleship that was torpedoed by SM U-21 off Cape Helles.
+345,Paris II,French Navy,military_organisation,,13-Dec-17,36.602239,30.586369,unknown,unknown,"A French naval patrol ship sunk by Turkish coastal artillery off Kemer inside Avova Bay (Ağva Körfezi). Approximately 150 shots were fired, of which 110 hit the target. The crew were rescued by Turkish soldiers."
+346,HMS Raglan,Royal Navy,military_organisation,,20-Jan-18,40.233333,25.966667,unknown,unknown,An Abercrombie-class monitor that was sunk by Turkish ships off Imbros.
+349,U-20,Kriegsmarine,military_organisation,,10-Sep-44,41.166667,30.783333,scuttled,submarine,A Type IIB U-boat that was scuttled in the Black Sea.
+350,Uluburun shipwreck,Unknown,country,,Unknown,36.128611,29.685833,unknown,unknown,A merchant ship dating to the late Bronze Age.
+351,Kashii,Imperial Japanese Navy,military_organisation,,12-Jan-45,13.833333,109.333333,unknown,cruiser,A Katori-class light cruiser that was sunk by US aircraft off Qui Nhon.
+352,Nokaze,Imperial Japanese Navy,military_organisation,,20-Feb-45,12.8,109.633333,torpedoed,destroyer,A Minekaze-class destroyer that was torpedoed by USS Pargo north of Nha Trang.
+354,HMS Basilisk,Royal Navy,military_organisation,,1-Jun-40,51.137778,2.585,shelled_or_bombed,destroyer,A B-class destroyer that was sunk by German bombers off Koksijde.
+357,SS Empire Blessing,United Kingdom,country,,19-Mar-45,51.4,3.283333,mined,cargo_ship,A cargo ship that stuck a mine in the River Scheldt.
+358,HMS Grafton,Royal Navy,military_organisation,,29-May-40,51.4,2.816667,torpedoed,destroyer,A G-class destroyer that was torpedoed by U-62 off Nieuwpoort.
+359,MS Herald of Free Enterprise,United Kingdom,country,,6-Mar-87,51.374583,3.190556,capsized,ferry,"A RORO ferry that capsized four minutes out from Zeebrugge, resulting in 193 deaths."
+361,U-5,Imperial German Navy,military_organisation,,18-Dec-14,51.383333,3.183333,unknown,submarine,A Type U 5 U-boat that sank north of Zeebrugge.
+362,U-11,Imperial German Navy,military_organisation,,9-Dec-14,51.1,1.483333,mined,submarine,A German submarine mined in the First Battle of the Atlantic.
+363,UB-10,Imperial German Navy,military_organisation,,5-Oct-18,51.35,3.2,scuttled,submarine,A Type UB I U-boat that was scuttled off Zeebrugge.
+364,UB-59,Imperial German Navy,military_organisation,,5-Oct-18,51.316667,3.2,scuttled,submarine,A Type UB III U-boat that was scuttled off Zeebrugge.
+370,SS Rodina,Bulgaria,country,,19-Sep-41,42.383333,27.8,mined,cargo_ship,A cargo ship that struck a mine off Burgas.
+379,SMS Niobe,Kriegsmarine,military_organisation,,22-Dec-43,44.366667,14.7,torpedoed,cruiser,A Gazelle-class light cruiser that ran aground on Silba and was sunk by British motor torpedo boats.
+380,SMS Szent István,Austria-Hungary,country,,10-Jun-18,44.201944,14.451389,torpedoed,unknown,A Tegetthoff-class dreadnought battleship that was sunk off Molat island by Italian torpedo boat MAS-15.
+381,UB-129,Imperial German Navy,military_organisation,,31-Oct-18,45.316667,14.433333,scuttled,submarine,A Type UB III U-boat that was scuttled at Rijeka.
+382,SMS Viribus Unitis,Austria-Hungary,country,,1-Nov-18,44.869167,13.819167,torpedoed,unknown,A Tegetthoff-class dreadnought battleship that was sunk at anchor at Pula by an Italian human torpedo.
+384,Alexander Nevsky,Imperial Russian Navy,military_organisation,1868.0,25 September 1868,56.683333,8.133333,ran_aground,frigate,A Russian frigate that ran aground off the coast of Thyborøn.
+387,HMS Defence,Royal Navy,military_organisation,1811.0,24 December 1811,56.358333,8.1,storm_or_weather,unknown,"A 74-gun third-rate ship of the line that stranded off Thorsminde in heavy storm, together with HMS St George."
+388,HMS Defence,Royal Navy,military_organisation,,31-May-16,56.967222,5.830556,fire_or_explosion,cruiser,A Minotaur-class armoured cruiser that suffered a magazine explosion during the Battle of Jutland. The site is a protected place.
+391,Freja af Stockholm,Sweden,country,,20-Feb-94,57.45,10.666667,unknown,unknown,A Swedish tugboat that sank outside Frederikshavn. The vessel now rests at a depth of 23 metres (75 ft).
+394,HMS Invincible,Royal Navy,military_organisation,,31-May-16,57.044444,6.120833,unknown,unknown,An Invincible-class battlecruiser that was sunk in the Battle of Jutland. The site is a protected place.
+396,SMS Lützow,Imperial German Navy,military_organisation,,1-Jun-16,56.25,5.883333,scuttled,unknown,A Derfflinger-class battlecruiser that was scuttled off Horns Reef after severe damage in the Battle of Jutland.
+400,HMS St George,Royal Navy,military_organisation,1811.0,24 December 1811,56.358333,8.1,storm_or_weather,unknown,"A 98-gun second-rate ship of the line that stranded off Thorsminde in heavy storm, together with HMS Defence."
+401,U-20,Imperial German Navy,military_organisation,,4-Nov-16,56.55,8.133333,scuttled,submarine,A Type U 19 U-boat that ran aground and was scuttled by her crew on the following day.
+402,U-235,Kriegsmarine,military_organisation,,14-Apr-45,57.733333,10.65,torpedoed,submarine,A Type VIIC U-boat that was accidentally sunk by the German torpedo boat T17 off Skagen.
+403,U-579,Kriegsmarine,military_organisation,,5-May-45,56.166667,11.066667,unknown,submarine,A Type VIIC U-boat that was sunk by a British aircraft east of Aarhus.
+405,MS Estonia,Estonia,country,,28-Sep-94,59.383333,21.7,unknown,ferry,"A cruise ferry that sunk in international waters of the Baltic Sea, about 40 kilometres (22 nmi) south-southeast of Utö island, Finland, claiming 852 lives."
+417,Hugo Zeye,Kriegsmarine,military_organisation,,14-Mar-45,54.560833,10.875,mined,unknown,A training ship that struck a mine northwest of Fehmarn.
+419,Preußen,Nazi Germany,country,,13-Aug-44,53.833333,7.666667,unknown,unknown,A Vorpostenboot that was sunk by British aircraft off Spiekeroog.
+420,SMS Seeadler,Imperial German Navy,military_organisation,,19-Apr-17,53.483333,8.2,mined,cruiser,"A Bussard-class cruiser that was being used as a mine hulk when a mine exploded on board, sinking Seeadler in the Jade Bight."
+421,U-8,Kriegsmarine,military_organisation,,2-May-45,53.516667,8.166667,scuttled,submarine,A Type IIB U-boat that was scuttled at Wilhelmshaven.
+424,U-103,Kriegsmarine,military_organisation,,15-Apr-45,54.326111,10.163889,shelled_or_bombed,submarine,A Type IXB U-boat that was sunk by Canadian bombers at Kiel.
+425,U-236,Kriegsmarine,military_organisation,,5-May-45,54.616667,10.05,scuttled,submarine,A Type VIIC U-boat that was scuttled near Schleimünde.
+428,U-287,Kriegsmarine,military_organisation,,16-May-45,53.833333,8.833333,mined,submarine,"A Type VIIC U-boat that was sunk, possibly by a mine, in the Elbe estuary."
+429,U-316,Kriegsmarine,military_organisation,,2-May-45,53.966667,10.883333,scuttled,submarine,A Type VIIC U-boat that was scuttled near Travemünde.
+430,U-323,Kriegsmarine,military_organisation,,3-May-45,53.5,8.5,scuttled,submarine,A Type VIIC/41 U-boat that was scuttled near Nordenham.
+431,U-339,Kriegsmarine,military_organisation,,3-May-45,53.516667,8.166667,scuttled,submarine,A Type VIIC U-boat that was scuttled near Wilhelmshaven.
+433,U-348,Kriegsmarine,military_organisation,,30-Mar-45,53.55,9.95,unknown,submarine,A Type VIIC U-boat that was sunk by American aircraft near Hamburg.
+434,U-350,Kriegsmarine,military_organisation,,30-Mar-45,53.55,9.95,unknown,submarine,A Type VIIC U-boat that was sunk by American aircraft near Hamburg.
+435,U-777,Kriegsmarine,military_organisation,,15-Oct-44,53.85,8.166667,unknown,submarine,A Type VIIC U-boat that was sunk by British aircraft off Wilhelmshaven.
+436,U-870,Kriegsmarine,military_organisation,,30-Mar-45,53.066667,8.833333,shelled_or_bombed,submarine,A Type IXC/40 U-boat that was sunk by American bombs at Bremen.
+437,U-979,Kriegsmarine,military_organisation,,24-May-45,54.633333,8.383333,scuttled,submarine,A Type VIIC U-boat that ran aground and was scuttled at Amrum.
+438,U-1221,Kriegsmarine,military_organisation,,3-Apr-45,54.333333,10.166667,unknown,submarine,A Type IXC/40 U-boat that was sunk by US aircraft at Kiel.
+439,RFA Bedenham,Royal Navy,military_organisation,,27-Apr-51,36.135278,-5.355,unknown,unknown,A naval armament carrier that exploded at Gun Wharf.
+443,Antikythera wreck,Unknown,country,,Unknown,35.889722,23.307778,unknown,unknown,A wreck on Antikythera island that contained the Antikythera mechanism and dates from approximately 86 BC.
+444,Bartolomeo Colleoni,Regia Marina,country,,19-Jul-40,35.692778,23.720556,unknown,cruiser,A Condottieri-class light cruiser that was sunk in the Battle of Cape Spada.
+445,HMHS Britannic,Royal Navy,military_organisation,,21-Nov-16,37.701389,24.283889,mined,liner,A White Star Liner sunk by flooding after striking a mine near the isle of Kea.
+448,HMS Dulverton,Royal Navy,military_organisation,,13-Nov-43,36.833333,27.5,scuttled,destroyer,A Hunt-class destroyer that was attacked by German aircraft in the Battle of Leros and scuttled.
+449,Elli,Hellenic Navy,military_organisation,,15-Aug-40,37.535833,25.150833,unknown,submarine,A protected cruiser that was sunk by the Italian submarine Delfino off Tinos.
+451,HMS Gloucester,Royal Navy,military_organisation,,22-May-41,35.833333,23.0,shelled_or_bombed,cruiser,A Town-class light cruiser that was sunk by German dive bombers in the Battle of Crete.
+452,HMS Greyhound,Royal Navy,military_organisation,,22-May-41,36.0,23.166667,shelled_or_bombed,destroyer,A G-class destroyer that was sunk by German dive bombers northwest of Crete.
+453,HMS Hereward,Royal Navy,military_organisation,,29-May-41,35.333333,26.333333,shelled_or_bombed,destroyer,An H-class destroyer that was sunk by German dive bombers off Crete.
+454,HMS Hurworth,Royal Navy,military_organisation,,22-Oct-43,36.983333,27.1,mined,destroyer,A Hunt-class destroyer that struck a mine east of Kalymnos.
+456,HMS Intrepid,Royal Navy,military_organisation,,27-Sep-43,37.116667,26.85,unknown,destroyer,An I-class destroyer that was sunk by German aircraft at Leros.
+457,MV Jupiter,Greece,country,,21-Oct-88,37.925,23.608333,collision,cargo_ship,A cruise ship that collided with an Italian freighter off Piraeus.
+458,HMS Kashmir,Royal Navy,military_organisation,,23-May-41,34.666667,24.166667,shelled_or_bombed,destroyer,A K-class destroyer that was sunk by German dive bombers south of Gavdos.
+459,HMS Kelly,Royal Navy,military_organisation,,23-May-41,34.666667,24.166667,shelled_or_bombed,destroyer,A K-class destroyer that was sunk by German dive bombers south of Gavdos.
+460,HMS M28,Royal Navy,military_organisation,,20-Jan-18,40.228611,25.962778,unknown,unknown,An M15-class monitor that was sunk in the Battle of Imbros.
+464,Panagiotis,Greece,country,,1-Oct-80,37.859603,20.624861,ran_aground,unknown,"A coastal trading ship run aground on the isle of Zakynthos, while allegedly smuggling cigarettes from Turkey."
+465,Patris,Greece,country,1868.0,1868,37.578939,24.262894,unknown,unknown,A wheel steamboat lost off Kea Island.
+466,HMS Perseus,Royal Navy,military_organisation,,6-Dec-41,37.9,20.9,mined,submarine,A submarine sunk by a mine near the island of Kefalonia.
+467,MS Sea Diamond,Greece,country,,6-Apr-07,36.394722,25.430833,ran_aground,unknown,A Greek cruise ship that struck a reef off the harbor of Santorini island and sank the following day.
+468,MV Sebastiano Veniero,Italy,country,,9-Dec-41,36.816667,21.7,torpedoed,cargo_ship,"A cargo ship that was torpedoed by HMS Porpoise off Methoni, while carrying 2,000 UK and Dominion POWs."
+469,SS Slamat,Netherlands,country,,27-Apr-41,37.016667,23.166667,unknown,unknown,A troopship that was sunk by German aircraft south of Spetses during the Battle of Greece.
+472,U-596,Kriegsmarine,military_organisation,,24-Sep-44,37.983333,23.566667,scuttled,submarine,A German Type VIIC U-boat that was scuttled near Salamis Island.
+478,ES Goðafoss,Iceland,country,,10-Nov-44,6.1,-22.75,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-300 off Gardskagi. Totals of 42 casualties and 21 survivors.
+489,SV Edmond,,,1850.0,19 November 1850,52.681431,-9.655353,unknown,unknown,"A passenger sailing vessel that sank off the coast of Kilkee, County Clare."
+490,RMS Empress of Britain,United Kingdom,country,,28-Oct-40,55.266667,-9.833333,torpedoed,liner,An ocean liner bombed by aircraft and then torpedoed and sunk by U-32.
+529,SS Torero,United Kingdom,country,,1-Nov-16,38.5,13.466667,unknown,cargo_ship,"A cargo ship that was sunk by U-21 north of Palermo, Sicily."
+530,SS Dia,Panama,country,,14-Oct-64,44.2,8.633333,unknown,cargo_ship,A cargo ship that developed a leak and sank south of Savona.
+531,F174,Egypt,country,,Dec-96,36.425278,14.909444,unknown,unknown,"An unidentified ship carrying illegal immigrants to Sicily, sunk with the loss of at least 283 lives. For five years, the wreck's existence was kept from the authorities by local fishermen, who feared an investigation would interfere with their livelihood."
+533,Giovanni delle Bande Nere,Regia Marina,country,,1-Apr-42,38.708889,15.008611,unknown,cruiser,A Giussano-class light cruiser that was sunk by HMS Urge off Stromboli.
+534,MT Haven,Cyprus,country,,14-Apr-91,44.216667,8.466667,fire_or_explosion,tanker,"A 230,000 GRT VLCC oil tanker that sunk off Genoa following an onboard explosion and fire, becoming the largest wreck in the Mediterranean Sea."
+535,HMS Hebe,Royal Navy,military_organisation,,22-Nov-43,41.133333,16.866667,mined,minesweeper,A Halcyon-class minesweeper that was sunk by a mine off Bari.
+536,HMS Inglefield,Royal Navy,military_organisation,,25-Feb-44,41.433333,12.633333,shelled_or_bombed,destroyer,An I-class destroyer that was sunk by a German bomber off Nettuno.
+537,HMS Janus,Royal Navy,military_organisation,,23-Jan-44,41.433333,12.633333,torpedoed,destroyer,A J-class destroyer that was sunk by a German torpedo bomber off Anzio.
+540,Nemi ships,Roman Empire,country,,Unknown,41.722222,12.701667,fire_or_explosion,unknown,"Two large ships built by the Roman emperor Caligula at Lake Nemi in the 1st century AD. The wrecks were recovered from the lake in 1932, and largely destroyed by fire during World War II."
+541,HMS Odin,Royal Navy,military_organisation,,14-Jun-40,39.5,17.5,unknown,submarine,An Odin-class submarine that was sunk by Italian destroyers in the Gulf of Taranto.
+542,HMS Pakenham,Royal Navy,military_organisation,,16-Apr-43,37.433333,12.5,scuttled,destroyer,A P-class destroyer that was damaged by Italian ships and scuttled off Mazara del Vallo.
+543,USS Portent,United States Navy,military_organisation,,22-Jan-44,41.4,12.733333,mined,minesweeper,An Auk-class minesweeper that was sunk by a mine off Nettuno.
+545,Roma,Regia Marina,country,,9-Sep-43,41.157778,8.293056,unknown,unknown,A Littorio-class battleship that was sunk by German aircraft off Asinara.
+546,USS SC-694,United States Navy,military_organisation,,23-Aug-43,38.133333,13.366667,shelled_or_bombed,submarine,"An SC-497-class submarine chaser that was sunk by German dive bombers off Palermo, Sicily."
+548,HMS Spartan,Royal Navy,military_organisation,,29-Jan-44,41.433889,12.683889,unknown,cruiser,A Dido-class cruiser that was sunk by German aircraft off Anzio.
+549,USS Swerve,United States Navy,military_organisation,,9-Jul-44,41.516667,12.466667,mined,minesweeper,An Auk-class minesweeper that was sunk by a mine off Anzio.
+550,HMS Thetis,Royal Navy,military_organisation,,14-Mar-43,38.25,13.25,unknown,submarine,A T-class submarine that was sunk by the Italian corvette Cicogna off Sicily.
+554,U-580,Kriegsmarine,military_organisation,,11-Nov-41,55.75,20.666667,collision,submarine,A Type VIIC U-boat that collided with the target ship Angelburg west of Klaipėda.
+558,MV Camadan,Turkey,country,,12-Mar-02,35.516667,14.533333,unknown,cargo_ship,A Turkish cargo ship that took on water and sank off Malta due to bad weather.
+559,MV Cominoland,Malta,country,,12-Aug-06,36.0175,14.286667,scuttled,ferry,A Gozo ferry that was decommissioned and scuttled as an artificial reef.
+562,MT Hephaestus,Togo,country,,29-Aug-22,36.017458,14.288642,scuttled,tanker,"An oil tanker which ran aground at Qawra on 10 February 2018, then deliberately scuttled as an artificial reef off Xatt l-Aħmar, Gozo in 2022.[10]"
+565,MV Karwela,Malta,country,,12-Aug-06,36.0175,14.286667,scuttled,ferry,A Captain Morgan ferry boat that was decommissioned and scuttled as an artificial reef.
+566,ORP Kujawiak,Polish Navy,military_organisation,,16-Jun-42,35.883333,14.583333,mined,destroyer,A Hunt-class destroyer that struck a mine during Operation Harpoon.
+570,HMS Maori,Royal Navy,military_organisation,,12-Feb-42,35.904722,14.518889,scuttled,destroyer,"A Tribal-class destroyer that was sunk by German aircraft at Grand Harbour, then raised and scuttled off Valletta."
+573,HMS Olympus,Royal Navy,military_organisation,,8-May-42,35.916667,14.583333,mined,submarine,An Odin-class submarine that was sunk by a mine.
+574,P29,Maritime Squadron of the Armed Forces of Malta,military_organisation,,14-Aug-07,35.987778,14.328611,scuttled,patrol_boat,A Kondor I-class patrol boat that was decommissioned and scuttled as an artificial reef.
+575,P31,Maritime Squadron of the Armed Forces of Malta,military_organisation,,25-Aug-09,36.016667,14.333333,scuttled,patrol_boat,A Kondor I-class patrol boat that was decommissioned and scuttled as an artificial reef.
+578,MV Rozi,Malta,country,,Sep-92,40.650278,14.545556,scuttled,unknown,A tugboat that was decommissioned and scuttled as an artificial reef.
+579,HMS Russell,Royal Navy,military_organisation,,27-Apr-16,35.9,14.6,mined,unknown,A Duncan-class predreadnought battleship that was sunk by mines laid by U-73
+584,HMS Southwold,Royal Navy,military_organisation,,24-Mar-42,35.883333,14.583333,mined,destroyer,A Hunt-class destroyer that hit a mine and sunk shortly after the Second Battle of Sirte.
+589,X127,United Kingdom,country,,6-Mar-42,35.903889,14.501944,unknown,unknown,A fuel lighter that was sunk by German or Italian aircraft at Manoel Island.
+594,MV Aqueity,United Kingdom,country,,11-Nov-47,53.533333,5.033333,mined,tanker,A tanker that struck a mine off Terschelling.
+597,HMS E47,Royal Navy,military_organisation,,20-Aug-17,53.10225,4.557778,unknown,submarine,An E-class submarine that was sunk about 6 nautical miles (11 km) northwest of Texel.
+598,HNLMS Johan Maurits van Nassau,Royal Netherlands Navy,military_organisation,,14-May-40,52.836944,4.565556,unknown,unknown,A sloop that was sunk by German aircraft off Zijpe.
+602,SS Rotterdam,Netherlands,country,1883.0,26 September 1883,51.685556,3.613889,ran_aground,unknown,A passenger ship that ran aground off Haamstede.
+603,U-7,Imperial German Navy,military_organisation,,21-Jan-15,53.43,6.2,fire_or_explosion,submarine,A Type U 5 U-boat that was sunk by friendly fire from U-22.
+604,UB-61,Imperial German Navy,military_organisation,,29-Nov-17,53.333333,4.933333,mined,submarine,A Type UB III U-boat that was sunk by a mine off Vlieland.
+605,UC-10,Imperial German Navy,military_organisation,,21-Aug-16,52.033333,3.9,torpedoed,submarine,A Type UC I U-boat that was torpedoed by HMS E54.
+610,Z2 Georg Thiele,Kriegsmarine,military_organisation,,13-Apr-40,68.4,17.583333,ran_aground,destroyer,A Type 1934-class destroyer that was run aground in the Second Naval Battle of Narvik.
+615,HMS Hardy,Royal Navy,military_organisation,,10-Apr-40,68.4,17.2,ran_aground,destroyer,An H-class destroyer that was attacked by German destroyers and ran aground at Vidrek.
+617,HMS Hunter,Royal Navy,military_organisation,,10-Apr-40,68.414722,17.172778,unknown,destroyer,An H-class destroyer that was sunk by German destroyers in the First Battle of Narvik.
+620,Karlsruhe,Kriegsmarine,military_organisation,,9-Apr-40,58.066667,8.066667,torpedoed,cruiser,A Königsberg-class light cruiser that was torpedoed by HMS Truant and scuttled off Kristiansand.
+622,SS Martti Ragnar,Finland,country,,22-Sep-39,58.4,8.8,unknown,cargo_ship,A cargo ship that was sunk by U-4 in Skagerrak.
+623,Murmansk,Russian Navy,military_organisation,,24-Dec-94,70.636111,21.956667,unknown,cruiser,"Soviet-era cruiser, grounded while being towed to India for scrapping."
+628,HMS Oxley,Royal Navy,military_organisation,,10-Sep-39,58.5,5.5,fire_or_explosion,submarine,An Odin-class submarine that was sunk by friendly fire from HMS Triton.
+630,SS Prins Olav,Royal Norwegian Navy,military_organisation,,9-Jun-40,67.116667,1.0,unknown,cargo_ship,A passenger/cargo ship that sunk by German aircraft in the Norwegian Sea whilst carrying troops.
+631,MS Rigel,Nazi Germany,country,,27-Nov-44,65.821111,12.336111,shelled_or_bombed,unknown,"A prisoner-of-war transport that was sunk by Supermarine Seafire fighters and Fairey Firefly dive-bombers from the Royal Navy aircraft carrier HMS Implacable, south of Sandnessjøen, with 2,572 deaths."
+634,Scharnhorst,Kriegsmarine,military_organisation,,26-Dec-43,72.266667,28.683333,unknown,unknown,A German Scharnhorst-class battleship sunk in the Battle of North Cape.
+640,HMS Thistle,Royal Navy,military_organisation,,10-Apr-40,59.0,5.0,torpedoed,submarine,A T-class submarine that was torpedoed by U-4 off Stavanger.
+642,U-6,Imperial German Navy,military_organisation,,15-Sep-15,58.916667,5.166667,torpedoed,submarine,A Type U 5 U-boat that was torpedoed by HMS E16 off Stavanger.
+643,U-49,Kriegsmarine,military_organisation,,15-Apr-40,68.883333,16.983333,unknown,submarine,A Type VIIB U-boat that was sunk by HMS Fearless and HMS Brazen near Harstad.
+644,U-622,Kriegsmarine,military_organisation,,24-Jul-43,63.45,10.383333,unknown,submarine,A Type VIIC U-boat that was sunk by US aircraft at Trondheim.
+645,U-711,Kriegsmarine,military_organisation,,4-May-45,68.8,16.633333,unknown,submarine,A Type VIIC U-boat that was sunk by British aircraft off Harstad during Operation Judgement.
+647,U-864,Kriegsmarine,military_organisation,,9-Feb-45,60.769444,4.620833,scuttled,submarine,A Type IXD2 U-boat that was scuttled by HMS Venturer while on a logistics mission to Japan.
+648,HNoMS Uredd,Royal Norwegian Navy,military_organisation,,24-Feb-43,67.083333,13.516667,unknown,submarine,A U-class submarine that ran into a minefield southwest of Fugløyvær.
+651,SS General von Steuben,Nazi Germany,country,,10-Feb-45,54.683333,16.85,torpedoed,submarine,A German luxury passenger liner turned armoured transport ship that was torpedoed and sunk by Soviet submarine S-13.
+652,Graf Zeppelin,Soviet Navy,military_organisation,,16-Aug-47,55.5175,18.285833,scuttled,unknown,"Germany's only aircraft carrier in World War II, scuttled after the war by the Soviet Navy."
+653,U-670,Kriegsmarine,military_organisation,,20-Aug-43,54.833333,19.25,collision,submarine,A Type VIIC U-boat that sank in a collision with Bolkoburg in Gdańsk Bay.
+654,U-854,Kriegsmarine,military_organisation,,4-Feb-44,54.016667,14.266667,mined,submarine,A Type IXC/40 U-boat that struck a mine north of Świnoujście.
+655,Wilhelm Gustloff,Nazi Germany,country,,30-Jan-45,55.072778,17.421389,torpedoed,submarine,"A passenger ship on a rescue mission torpedoed and sunk by Soviet submarine S-13 in the Baltic Sea. Over 9,000 people were lost."
+674,SS Admiral Nakhimov,Soviet Union,country,,31-Aug-86,44.604167,37.876389,collision,liner,An ocean liner that collided with the Pyotr Vasev in Tsemes Bay.
+676,Armenia,Soviet Union,country,,7-Nov-41,44.25,34.283333,torpedoed,unknown,"A Soviet hospital ship sunk by German torpedo-carrying planes; estimated over 5,000 casualties."
+677,HMS Bluebell,Royal Navy,military_organisation,,17-Feb-45,69.4,33.7,torpedoed,corvette,A Flower-class corvette that was torpedoed by U-711 in the Kola Inlet.
+678,MV Bulgaria,Russia,country,,10-Jul-11,55.063056,49.151944,storm_or_weather,unknown,A Russian cruise ship lost in a storm on the Volga River.[17]
+679,HMS Denbigh Castle,Royal Navy,military_organisation,,13-Feb-45,69.333333,33.55,torpedoed,corvette,A Castle-class corvette that was torpedoed by U-992 and sank under tow in the Kola Inlet.
+680,USS Herndon,United States Navy,military_organisation,,16-Jan-45,69.25,37.033333,unknown,destroyer,A Clemson-class destroyer that was sunk off the Murman Coast.
+682,K-27,Soviet Navy,military_organisation,,6-Sep-82,72.516667,55.5,scuttled,submarine,Soviet submarine scuttled in the Kara Sea by the Soviet Navy. The boat had suffered irreparable nuclear reactor plant damage at sea in 1968. Both nuclear reactors are still on board.
+683,HMS Matabele,Royal Navy,military_organisation,,17-Jan-42,69.35,35.45,torpedoed,destroyer,A Tribal-class destroyer that was torpedoed by U-454 off Teriberka.
+684,SS Revoljucija,Soviet Union,country,,3-Dec-44,68.733333,37.816667,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-1163 near Semiostrovskiy Reid.
+685,U-286,Kriegsmarine,military_organisation,,29-Apr-45,69.483333,33.616667,unknown,submarine,A Type VIIC U-boat that was sunk by three British frigates north of Murmansk.
+686,U-763,Kriegsmarine,military_organisation,,26-Jan-45,54.7,20.533333,scuttled,submarine,A Type VIIC U-boat that was scuttled at Königsberg (now Kaliningrad) after taking damage in a Soviet air raid.
+693,HMS Egret,Royal Navy,military_organisation,,27-Aug-43,42.166667,-9.366667,unknown,unknown,An Egret-class sloop sunk by enemy aircraft near Vigo.
+695,USS Jallao,United States Navy,military_organisation,1985.0,1985,38.05,133.2,scuttled,submarine,A Balao-class submarine that was scuttled off Cartagena.
+705,U-77,Kriegsmarine,military_organisation,,28-Mar-43,37.7,0.166667,unknown,submarine,A German Type VIIC U-boat sunk off Cartagena.
+707,SS Rex,Kingdom of Italy,country,,8-Sep-44,45.548889,13.691944,unknown,liner,An Italian liner that sank near Koper after being hit by rockets fired by RAF aircraft.
+710,MV Finnbirch,Sweden,country,,1-Nov-06,56.750833,17.251667,storm_or_weather,ferry,A RORO ferry that capsized in a storm.
+711,Gribshunden,Denmark,country,1495.0,1495,56.144778,15.220917,unknown,unknown,"Warship discovered in the 1970s, one of the best-preserved wrecks from the late medieval period."
+714,Kronan,Swedish Navy,military_organisation,1676.0,1 June 1676,56.449444,16.672222,unknown,unknown,"The largest warship in the Swedish navy during the Scanian War. It sank in rough weather in the Battle of Öland, and was rediscovered in 1980."
+718,S-7,Soviet Navy,military_organisation,,21-Oct-42,59.85,19.533333,torpedoed,submarine,A Soviet S-class submarine that was torpedoed by Vesihiisi off Stockholm.
+719,Som,Swedish Navy,military_organisation,,10-May-16,60.0,18.933333,collision,submarine,A Som-class submarine that sank in a collision in the Sea of Åland.
+721,Vasa,Swedish Navy,military_organisation,1628.0,10 August 1628,59.327778,18.091111,unknown,unknown,A Swedish warship that foundered on her maiden voyage and sank in Stockholm.
+722,SS Westfalen,Kriegsmarine,military_organisation,,7-Sep-44,57.779722,11.456111,mined,unknown,A prisoner transport that was sunk by a mine off Marstrand.
+723,Moskva,Russian Navy,military_organisation,,14-Apr-22,45.178611,30.925278,unknown,cruiser,A Slava-class cruiser that was hit by two Neptune missiles fired by Ukrainians in the Russo-Ukrainian War 80 nautical miles (150 km) south of Odesa.
+724,Novorossiysk,Soviet Navy,military_organisation,,29-Oct-55,44.618611,33.535556,unknown,unknown,"A Conte di Cavour-class battleship that exploded in Sevastopol Bay, resulting in 608 deaths."
+738,Empire Conyngham,United Kingdom,country,,20-Jun-49,47.866667,-8.85,scuttled,cargo_ship,A cargo ship that was scuttled off Brest.
+739,Erika,Malta,country,,12-Dec-99,47.15,-4.25,unknown,tanker,"An oil tanker that sank in the Bay of Biscay, causing an oil spill."
+767,HMS Saracen,Royal Navy,military_organisation,,14-Aug-43,42.75,9.5,scuttled,submarine,An S-class submarine that was attacked by Italian corvettes and scuttled off Bastia.
+769,Abukir,United Kingdom,country,,28-May-40,51.2,2.166667,torpedoed,steamer,"A steamship that was torpedoed by S-34 northeast of Calais, while evacuating soldiers and civilians from Ostend."
+770,L'Adroit,French Navy,military_organisation,,25-May-40,51.05,2.383333,shelled_or_bombed,destroyer,A L'Adroit-class destroyer that was bombed by German aircraft off Dunkirk.
+773,HMS Grenade,Royal Navy,military_organisation,,29-May-40,51.407778,2.819444,shelled_or_bombed,destroyer,A G-class destroyer that was sunk by German Stuka dive bomber aircraft during the Battle of Dunkirk.
+774,HMS Havant,Royal Navy,military_organisation,,1-Jun-40,51.133333,2.263611,scuttled,destroyer,A H-class destroyer that was scuttled after taking damage in the Battle of Dunkirk.
+775,HMS Hermes,Royal Navy,military_organisation,,31-Oct-14,51.105,1.838333,torpedoed,submarine,A Highflyer-class cruiser torpedoed by German submarine U-27.
+776,HMS Keith,Royal Navy,military_organisation,,1-Jun-40,51.079444,2.446389,unknown,destroyer,A B-class destroyer sunk at Dunkirk by enemy aircraft.
+779,U-109,Imperial German Navy,military_organisation,,26-Jan-18,50.883333,1.516667,unknown,submarine,A German submarine sunk in the English Channel.
+780,UC-26,Imperial German Navy,military_organisation,,8-May-17,51.05,1.666667,unknown,submarine,A German minelaying submarine rammed by HMS Milne off Calais.
+781,UC-61,Imperial German Navy,military_organisation,,26-Jul-17,50.883333,1.55,scuttled,submarine,A German minelaying submarine stranded and scuttled off Boulogne.
+785,HMS Berkeley,Royal Navy,military_organisation,,19-Jul-42,49.983333,1.033333,shelled_or_bombed,destroyer,A Hunt-class destroyer that was damaged by German bombers and scuttled off Dieppe.
+792,HMS Daffodil,Royal Navy,military_organisation,,18-Mar-45,50.033333,1.066667,mined,ferry,"A train ferry that was requisitioned by the Royal Navy as an amphibious warfare ship, and was sunk by a mine off Dieppe."
+799,Empire Broadsword,Royal Navy,military_organisation,,Jul-44,49.416667,-0.9,mined,unknown,An infantry landing ship sunk by a mine off Normandy.
+800,Empire Javelin,Royal Navy,military_organisation,,28-Dec-44,50.083333,-1.0,unknown,unknown,An infantry landing ship that was sunk in the English Channel.
+801,Galeka,Royal Navy,military_organisation,,28-Oct-16,49.566667,0.083333,mined,unknown,A hospital ship that struck a mine while entering Le Havre.
+806,HMHS Lanfranc,Royal Navy,military_organisation,,17-Apr-17,50.11,0.12,torpedoed,submarine,A hospital ship torpedoed by German submarine UB-40 off Le Havre.
+808,USS Miantonomah,United States Navy,military_organisation,,25-Sep-44,49.441389,0.191944,mined,cargo_ship,A cargo ship and minelayer sunk by a mine off Le Havre.
+821,Train Ferry No. 2,Royal Navy,military_organisation,,13-Jun-40,49.933333,0.933333,unknown,ferry,"A train ferry that was requisitioned by the Royal Navy as an amphibious warfare ship, and was sunk by German gunfire off Sainte-Marguerite-sur-Mer.[1]"
+843,Espingole,French Navy,military_organisation,,4-Feb-03,43.155556,6.608333,ran_aground,destroyer,A Durandal-class destroyer that struck a rock near Cavalaire-sur-Mer.
+846,Madrague de Giens,,,,75–60 BCE,43.033333,6.1,unknown,unknown,"A Roman merchantman sunk off the coast of La Madrague de Giens, east of Toulon."
+848,U-303,Kriegsmarine,military_organisation,,21-May-43,42.833333,6.0,torpedoed,submarine,A Type VIIC U-boat that was torpedoed by HMS Sickle off Toulon.
+924,MV Empire Beacon,United Kingdom,country,,5-Apr-42,51.683333,-5.166667,mined,unknown,A coastal trading vessel that struck a mine off Pembrokeshire.
+943,HMS Dundalk,Royal Navy,military_organisation,,16-Oct-40,52.05,1.8,mined,minesweeper,A Hunt-class minesweeper that struck a mine and foundered under tow off Harwich.
+944,Terukuni Maru,Japan,country,,19-Nov-39,51.833333,1.5,mined,liner,A Japanese ocean liner that struck a German mine off Harwich.
+945,HMT Agate,Royal Navy,military_organisation,,6-Aug-41,52.883333,1.716667,ran_aground,trawler,A trawler that ran aground on Haisborough Sands.
+946,Alf,Norway,country,,23-Nov-09,52.9,1.716667,ran_aground,unknown,A Norwegian barque that ran aground on Haisborough Sands.
+947,Cantabria,Spain,country,,2-Nov-38,53.032778,1.5325,unknown,cruiser,"A Spanish cargo ship that was sunk by the Spanish Nationalist auxiliary cruiser Nadir northeast of Cromer, during the Spanish Civil War."
+949,HMT Force,Royal Navy,military_organisation,,27-Jun-41,52.815278,1.796667,unknown,trawler,A naval trawler that was sunk by German aircraft off Winterton Ness.
+950,Gallois,United Kingdom,country,,6-Aug-41,52.9,1.716667,ran_aground,unknown,A merchant vessel that ran aground on Haisborough Sands.
+951,Georgia,Netherlands,country,,20-Nov-27,52.881667,1.771111,ran_aground,tanker,An oil tanker that ran aground on Haisborough Sands.
+954,Hopelyn,United Kingdom,country,,17-Oct-22,52.616667,1.783333,unknown,unknown,A merchant vessel that was stranded on the Scroby Sands.
+957,Meriones,United Kingdom,country,,22-Jan-41,52.85,1.75,shelled_or_bombed,unknown,"A merchant vessel that was stranded on the wreck of the SS Monte Nevoso at Haisborough Sands, and then bombed by German aircraft."
+958,Monte Nevoso,Italy,country,,14-Oct-32,52.85,1.766667,ran_aground,unknown,A merchant vessel that ran aground on Haisborough Sands.
+959,Mount Ida,Greece,country,,9-Oct-39,53.178889,1.929444,ran_aground,unknown,A merchant vessel that ran aground on Ower Bank.
+961,HMS Umpire,Royal Navy,military_organisation,,19-Jul-41,53.15,1.1,collision,submarine,A U-class submarine that collided with the Peter Hendriks off Blakeney.
+963,HMS Exmoor,Royal Navy,military_organisation,,25-Feb-41,52.5,2.066667,capsized,destroyer,A Hunt-class destroyer that was attacked by E-boats and capsized off Lowestoft.
+964,Gasfire,United Kingdom,country,,21-Jun-41,52.333333,1.95,mined,unknown,A steam collier that was sunk by a mine east of Southwold.
+965,Golconda,United Kingdom,country,,3-Jun-16,52.141667,1.745833,mined,unknown,A passenger ship that struck a mine and sank 5 nautical miles (9.3 km) southeast of Aldeburgh.
+967,Magdapur,United Kingdom,country,,10-Sep-39,52.183333,1.716667,mined,cargo_ship,A cargo ship that struck a mine off Thorpeness.
+968,Phryné,France,country,,24-Sep-39,52.15,1.716667,mined,cargo_ship,A cargo ship that was sunk by mine off Aldeburgh.
+969,U-13,Kriegsmarine,military_organisation,,31-May-40,52.433333,2.033333,unknown,submarine,A Type IIB U-boat that was sunk by HMS Weston 11 nautical miles (20 km) southeast of Lowestoft.
+989,Amsterdam,Dutch East India Company,country,1749.0,26 January 1749,50.846944,0.524167,ran_aground,unknown,A Dutch East India Company ship that ran aground near Hastings. The wreck site is protected.
+990,HMS Ariadne,Royal Navy,military_organisation,,26-Jul-17,50.655,0.291111,torpedoed,submarine,A Diadem-class cruiser torpedoed off Beachy Head by German submarine UC-65.
+991,HMS Holland 5,Royal Navy,military_organisation,,8-Aug-12,50.728889,0.248056,unknown,submarine,A Holland-class submarine that foundered off Beachy Head while under tow to be scrapped.
+994,Sitakund,Norway,country,,20-Oct-68,50.718889,0.24,unknown,tanker,A Norwegian motor tanker that exploded off the coast of Eastbourne.
+996,U-40,Kriegsmarine,military_organisation,,13-Oct-39,50.7,0.25,mined,submarine,A German submarine sunk by a mine off Eastbourne.
+998,UC-65,Imperial German Navy,military_organisation,,3-Nov-17,50.516667,0.45,torpedoed,submarine,A German minelaying submarine torpedoed by HMS C15 off Eastbourne.
+1012,HMS Amphion,Royal Navy,military_organisation,,6-Aug-14,52.116667,2.366667,mined,cruiser,An Active-class scout cruiser sunk by a mine laid by SS Königin Luise.
+1014,HMS Brazen,Royal Navy,military_organisation,,20-Jul-40,51.018056,1.2875,shelled_or_bombed,destroyer,A B-class destroyer sunk by German dive bombers off Folkestone.
+1015,HMS Bulwark,Royal Navy,military_organisation,,26-Nov-14,51.416667,0.65,unknown,unknown,A Formidable-class battleship that exploded off Sheerness with the loss of 736 men.
+1016,HMS Codrington,Royal Navy,military_organisation,,27-Jul-40,51.125556,1.334444,shelled_or_bombed,destroyer,An A-class destroyer bombed whilst in dock at Dover.
+1017,Deutschland,Germany,country,1875.0,6 December 1875,51.666667,1.616667,ran_aground,steamer,A passenger steamship that ran aground on the Kentish Knock.
+1018,HMS Erin's Isle,Royal Navy,military_organisation,,7-Nov-19,51.55,1.316667,mined,steamer,A paddle steamer that was sunk by a mine north of Thanet.
+1019,HMS Ghurka,Royal Navy,military_organisation,,8-Feb-17,50.855556,0.888056,mined,destroyer,A Tribal-class destroyer that hit a mine off Dungeness.
+1022,Leicester,United Kingdom,country,,12-Feb-16,51.066667,1.25,mined,cargo_ship,A cargo ship that struck a mine southeast of Folkestone.
+1023,Maloja,United Kingdom,country,,27-Feb-16,51.05,1.183333,mined,unknown,A passenger ship that was sunk by a mine off Folkestone.
+1024,HMS Niger,Royal Navy,military_organisation,,11-Nov-14,51.220556,1.44,torpedoed,minesweeper,A minesweeper that was torpedoed by U-12 off Deal.
+1029,The Queen,United Kingdom,country,,26-Oct-16,50.9,1.316667,torpedoed,destroyer,A steamship torpedoed by German destroyer S60 off the Varne Bank.
+1032,U-12,Kriegsmarine,military_organisation,,8-Oct-39,51.166667,1.5,mined,submarine,A German submarine sunk by a mine off Dover.
+1034,UB-55,Imperial German Navy,military_organisation,,22-Apr-18,50.983333,1.333333,mined,submarine,A Type UB III U-boat that was sunk by a mine.
+1035,UB-56,Imperial German Navy,military_organisation,,19-Dec-17,50.966667,1.35,mined,submarine,A Type UB III U-boat that was sunk by a mine.
+1036,UB-58,Imperial German Navy,military_organisation,,10-Mar-18,50.966667,1.233333,mined,submarine,A Type UB III U-boat that was sunk by a mine.
+1045,Mahratta (1892),United Kingdom,country,,9-Apr-09,51.245833,1.501389,ran_aground,steamer,A steamship that ran aground and broke in two.
+1046,Mahratta (1917),United Kingdom,country,,9-Oct-39,51.245833,1.501389,ran_aground,steamer,A steamship that ran aground and broke in two.
+1049,HMS Northumberland,Royal Navy,military_organisation,1703.0,27 November 1703,51.258056,1.500278,storm_or_weather,unknown,"A third-rate ship of the line wrecked in the Great Storm of 1703, with 220 deaths."
+1050,HMS Restoration,Royal Navy,military_organisation,1703.0,27 November 1703,51.261667,1.500833,storm_or_weather,unknown,"A third-rate ship of the line wrecked in the Great Storm of 1703, with 387 deaths."
+1051,Rooswijk,Dutch East India Company,country,1739.0,19 December 1739,51.274167,1.575556,storm_or_weather,unknown,An East Indiaman that was wrecked in a heavy storm with the loss of all hands. The wreck was discovered in 2004.
+1053,U-16,Kriegsmarine,military_organisation,,25-Oct-39,51.15,1.466667,ran_aground,submarine,A German submarine that ran aground while under attack from HMS Puffin and HMS Cayton Wyke.
+1054,UC-46,Imperial German Navy,military_organisation,,8-Feb-17,51.116667,1.65,unknown,submarine,A German minelaying submarine sunk by HMS Liberty.
+1055,UC-63,Imperial German Navy,military_organisation,,1-Nov-17,51.383333,2.0,torpedoed,submarine,A German minelaying submarine torpedoed by HMS E52.
+1056,HMT Amethyst,Royal Navy,military_organisation,,24-Nov-40,51.507778,1.020833,unknown,trawler,A naval trawler sunk in the Thames Estuary.
+1061,HMS London,England,country,1665.0,7 March 1665,51.496667,0.739722,unknown,unknown,"A second-rate ship of the line that accidentally exploded in the Thames Estuary, killing 300 crewmen."
+1064,RMS Alaunia,United Kingdom,country,,19-Oct-16,52.3725,4.9143,mined,unknown,Struck a mine off Hastings. Amsterdam 26 January 1749 A Dutch East India Company ship that ran aground near Hastings. The wreck site is protected.
+1071,U-40,Kriegsmarine,military_organisation,,13-Oct-39,50.7,0.25,mined,submarine,A German submarine sunk by a mine off Eastbourne.
+1073,UC-65,Kriegsmarine,military_organisation,,3-Nov-17,50.516667,0.45,torpedoed,submarine,A German minelaying submarine torpedoed by HMS C15 off Eastbourne.
+1120,HMS Empress of India,Royal Navy,military_organisation,,4-Nov-14,50.495,-2.965,unknown,unknown,A battleship sunk as a target in Lyme Bay.
+1168,PS Earl of Arran,United Kingdom,country,1872.0,16 July 1872,49.956139,-6.257722,unknown,unknown,A passenger ship that was wrecked off the Eastern Isles.
+1183,SS Empire Bay,United Kingdom,country,,15-Jan-42,54.685556,-1.143333,shelled_or_bombed,unknown,A collier that was bombed by German aircraft off Middlesbrough.
+1299,Sub Marine Explorer,United States,country,,,8.281667,-78.845833,unknown,unknown,"A submersible that was used for harvesting oysters and pearls in the Pearl Islands, until it was abandoned in 1869."
+1430,HMCS Esquimalt,Royal Canadian Navy,military_organisation,,16-Apr-45,44.466667,-63.166667,torpedoed,minesweeper,A Bangor-class minesweeper that was torpedoed by U-190 off Chebucto Head.
+1498,Eliza Battle,United States,country,1858.0,1 March 1858,32.243611,-88.0125,fire_or_explosion,unknown,"A commercial steamboat that caught fire and sank in the Tombigbee River, and subsequently entered Alabama folklore as a ghost ship.[2]"
+1508,SS Aleutian,United States,country,,26-May-29,57.483333,153.833333,ran_aground,steamer,A passenger steamer which sank after striking a submerged pinnacle rock.
+1536,SMS Cormoran,German Empire,country,,7-Apr-17,13.459167,144.654167,scuttled,steamer,A German steamer scuttled in Apra Harbor to avoid capture at the start of American involvement in World War I.
+1585,USS Eagle Boat 56,United States Navy,military_organisation,,23-Apr-45,43.557778,-70.162222,unknown,patrol_boat,An Eagle-class patrol boat that was sunk by U-853 off Cape Elizabeth.
+1604,Essayons,United States,country,,23-Mar-09,46.773611,-92.105278,unknown,tug,The laid up tug flooded and sank after being neglected for several decades at the Duluth Timber Company slip inside Duluth Harbor.[28] Her engine is on display at the Lake Superior Maritime Visitor Center.
+1605,USS Essex,United States Navy,military_organisation,,14-Oct-31,46.712778,-92.028611,unknown,unknown,A decommissioned U.S. Navy steam sloop that was scrapped and burned to the waterline outside Duluth Harbor. Her hull is the only surviving remnant of a vessel built by Donald McKay.[29]
+1614,Samuel P. Ely,United States,country,1896.0,30 October 1896,47.011667,-91.677778,unknown,unknown,
+1728,Eldorado,,,,,42.166667,-80.0,unknown,unknown,"Sank off of Erie, Pennsylvania, in Lake Erie."
+1872,Hayate,Imperial Japanese Navy,military_organisation,,11-Dec-41,19.166667,166.366667,unknown,destroyer,A Japanese destroyer sunk by US Marines.
+1873,Kisaragi,Imperial Japanese Navy,military_organisation,,11-Dec-41,18.916667,166.283333,unknown,destroyer,A Japanese destroyer sunk by US Marines.
+1919,SS Emidio,United States,country,,20-Dec-41,41.750544,-124.196653,unknown,tanker,A tanker that was sunk by I-17 off Crescent City.
+1977,HMCS Yukon,United States Navy,military_organisation,,Jul-00,32.771667,-117.271111,scuttled,destroyer,A Mackenzie-class destroyer that was scuttled off Mission Bay as an artificial reef.
+2042,San Juan,Spain,country,1559.0,19 September 1559,30.333333,-87.233333,storm_or_weather,unknown,A Spanish galleon that was sunk by a hurricane.
+2047,Empire Mica,United Kingdom,country,,29-Jun-42,29.483333,-85.283333,torpedoed,cargo_ship,A British cargo ship torpedoed and sunk by U-67 off the coast of Apalachicola[citation needed]
+2089,Eagle,,,,19-Dec-85,24.869722,-80.570278,ran_aground,cargo_ship,A cargo ship that was sunk as an artificial reef off Florida Keys after heavy fire damage.
+2182,Lady Elgin,United States,country,1860.0,8 September 1860,42.183333,-87.65,collision,steamer,A steamship wrecked in Lake Michigan near Chicago following a collision with the schooner Augusta. The greatest loss of life on open water in the Great Lakes.
+2258,Eldorado,,,1880.0,20 November 1880,42.166667,-80.0,unknown,unknown,Sank off the mouth of Erie harbor.
+2264,Erieau Quarry Stone,,,,,42.25,-81.9,unknown,unknown,
+2267,Frank E. Vigor,,,,27-Apr-44,41.95,-81.95,collision,unknown,The bulk carrier sank in a collision off Pt. Pele
+2330,Sarah E. Sheldon,,,,20-Oct-05,41.483333,-82.1,ran_aground,unknown,A wooden bulk carrier that struck a reef off Lorain and broke up.
+2474,Alma A. E. Holmes,United States,country,,10-Oct-14,42.435,-70.748333,collision,steamer,A schooner that collided with the steamer Belfast off Marblehead.
+2479,Edward Rich,,,1899.0,30 August 1899,42.6775,-70.590278,unknown,schooner,A schooner that struck the Sandy Bay Breakwater off Rockport in fog.
+2519,Mary E. O'Hara,,,,21-Jan-41,42.383333,-70.916667,collision,fishing_vessel,A fishing vessel that collided with the barge Winifred Sheridan in Boston Harbor.
+2563,CSS Ellis,Confederate States Navy,military_organisation,1862.0,24 November 1862,34.717778,-77.425278,ran_aground,gunboat,Gunboat that ran aground in New River and was destroyed to prevent capture.
+2564,SS E.M. Clark,United States,country,,18-Mar-42,34.833333,-75.583333,torpedoed,tanker,American tanker; torpedoed off Diamond Shoals by U-124.[23]
+2565,Empire Gem,United Kingdom,country,,24-Jan-42,35.1,-74.966667,torpedoed,tanker,British tanker; torpedoed off Diamond Shoals by U-66.[24]
+2567,SS Equipoise,Panama,country,,27-Mar-42,36.6,-74.75,torpedoed,cargo_ship,Panamanian freighter; torpedoed by U-160.[25]
+2568,Esso Nashville,United States,country,,21-Mar-42,33.583333,-77.366667,torpedoed,tanker,American tanker; torpedoed by U-124; stern section was salvaged.[26]
+2668,SS W.E. Hutton,United States,country,,18-Mar-42,34.083333,-76.666667,torpedoed,tanker,American fuel tanker; torpedoed by U-124 off Cape Lookout.[42][56]
+2955,ARA Isla de los Estados,Argentine Navy,military_organisation,,11-May-82,-51.700833,-59.489444,unknown,unknown,A naval supply ship that was sunk by HMS Alacrity during the Falklands War.
+2965,Aikoku Maru,Imperial Japanese Navy,military_organisation,,17-Feb-44,7.366667,151.933333,unknown,unknown,An armed merchantman that was sunk during Operation Hailstone. The remains of 400 men were recovered from the wreck and cremated in 1984.
+2967,Fumizuki,Imperial Japanese Navy,military_organisation,,18-Feb-44,7.4,151.733333,unknown,destroyer,A Japanese Mutsuki-class destroyer that was sunk during Operation Hailstone.
+2972,Tachikaze,Imperial Japanese Navy,military_organisation,,18-Feb-44,7.05,151.933333,ran_aground,destroyer,"A Japanese Minekaze-class destroyer that ran aground at Kuop Atoll on 4 February 1944, and remained stranded until it was sunk in Operation Hailstone."
+2973,Umikaze,Imperial Japanese Navy,military_organisation,,1-Feb-44,7.166667,151.716667,torpedoed,destroyer,A Japanese Shiratsuyu-class destroyer that was torpedoed by USS Guardfish south of Chuuk.
+2982,USS Perry,United States Navy,military_organisation,,13-Sep-44,6.883333,134.166667,mined,destroyer,A Clemson-class destroyer that was sunk by a mine off Anguar.
+2985,Samidare,Imperial Japanese Navy,military_organisation,,25-Aug-44,8.166667,134.633333,torpedoed,destroyer,A Japanese Shiratsuyu-class destroyer that was torpedoed by USS Batfish after running aground on Velasco Reef.
+2989,Wakatake,Imperial Japanese Navy,military_organisation,,30-Mar-44,7.833333,134.333333,unknown,destroyer,A Japanese Wakatake-class destroyer that was sunk during Operation Desecrate One.
+3003,SS Kembu Maru,Empire of Japan,country,,4-Dec-43,9.316667,167.416667,unknown,cargo_ship,A Japanese freighter that was sunk by US aircraft at Kwajalein Atoll.
+3009,USS Pilotfish,United States Navy,military_organisation,,25-Jul-46,30.433333,140.883333,shelled_or_bombed,submarine,A Balao-class submarine that sunk at Bikini Atoll in an atomic bomb test.
+3010,Prinz Eugen,Kriegsmarine,military_organisation,,22-Dec-46,8.752736,167.6831,shelled_or_bombed,cruiser,"A German Admiral Hipper-class heavy cruiser that was damaged at Bikini Atoll by atomic bomb tests, and later towed to Kwajalein where it capsized and sunk."
+3011,Sakawa,United States Navy,military_organisation,,2-Jul-46,11.583333,165.383333,shelled_or_bombed,cruiser,"A Japanese Agano-class cruiser that sustained heavy damage in an atomic bomb test at Bikini Atoll, and sank the following day."
+3012,USS Saratoga,United States Navy,military_organisation,,25-Jul-46,11.581481,165.49855,shelled_or_bombed,unknown,A Lexington-class aircraft carrier that was sunk at Bikini Atoll in an atomic bomb test.
+3014,Anjou,France,country,,5-Feb-05,-50.776944,165.8875,ran_aground,unknown,A barque that struck rocks off the Auckland Islands.
+3017,HMS Buffalo,Royal Navy,military_organisation,1840.0,28 July 1840,-36.826722,175.705556,storm_or_weather,unknown,"A storeship that was wrecked in a storm in Mercury Bay, with two lives lost."
+3018,HMNZS Canterbury,Royal New Zealand Navy,military_organisation,,3-Nov-07,-35.193889,174.294444,scuttled,frigate,A Leander-class frigate that was scuttled as a dive wreck in the Bay of Islands.
+3021,Derry Castle,United Kingdom,country,1887.0,20 March 1887,-50.484444,166.302778,ran_aground,unknown,A barque that ran aground on Enderby Island.
+3023,Dundonald,United Kingdom,country,,7-Mar-07,-50.608056,165.954722,storm_or_weather,unknown,"A barque that was wrecked in a storm off Disappointment Island, where the survivors remained for seven months until rescued."
+3024,SS Elingamite,Australia,country,,5-Nov-02,-34.186111,172.031667,unknown,steamer,A steamship that struck West Island (one of the Three Kings Islands) and sank within 20 minutes.
+3026,Endeavour II,Canada,country,,22-Feb-71,-34.521667,173.010278,unknown,unknown,"A three-masted auxiliary barque driven onto the bar of Parengarenga Harbour, a few miles south of North Cape. There were no fatalities amongst the crew of thirteen men and one woman.[3]"
+3029,MV Holmglen,New Zealand,country,,24-Nov-59,-44.522222,171.689444,unknown,unknown,A coastal trading vessel that was lost off Timaru.
+3032,MS Mikhail Lermontov,Soviet Union,country,,16-Feb-86,-41.042222,174.219444,ran_aground,liner,A Soviet passenger liner that ran aground in the Marlborough Sounds.
+3033,RMS Niagara,United Kingdom,country,,19-Jun-40,-35.863889,174.943889,mined,liner,An ocean liner that struck a mine and sank off Bream Head while carrying a secret consignment of gold from the Bank of England.
+3038,HMNZS Puriri,Royal New Zealand Navy,military_organisation,,14-May-41,-35.770833,174.716667,mined,minesweeper,"A coastal cargo boat that was converted into a minesweeper, and hit a mine off Bream Head 25 days after being commissioned."
+3039,Queen Bee,United Kingdom,country,1877.0,7 August 1877,-40.5,172.866667,ran_aground,unknown,A barque that ran aground on Farewell Spit.[4]
+3040,Rainbow Warrior,Netherlands,country,,2-Dec-87,-34.974722,173.935,scuttled,trawler,"A fishing trawler that was purchased by Greenpeace in 1978 for use as a fundraising and protest ship. She was sabotaged and sunk by the French secret service at Auckland on 10 July 1985, and although later refloated, was found to be beyond repair and finally scuttled in Matauri Bay."
+3041,MV Rena,Liberia,country,,5-Oct-11,-37.540278,176.429167,ran_aground,unknown,"A container ship that ran aground on Astrolabe Reef, resulting in New Zealand's worst oil spill. The wreck broke apart and sank in January 2012."
+3044,SS Tararua,New Zealand,country,1881.0,29 April 1881,-46.668611,168.862222,ran_aground,steamer,"A passenger steamer that struck a reef off Waipapa Point and sank the next day, claiming over 100 victims."
+3047,HMNZS Tui,Royal New Zealand Navy,military_organisation,,Feb-99,-35.583333,174.539444,scuttled,unknown,An oceanographic survey and research ship that was scuttled as a dive wreck.
+3048,SS Victory,United Kingdom,country,1861.0,3 July 1861,-45.8425,170.732222,ran_aground,steamer,A steamship that ran aground off Otago Peninsula.
+3050,HMNZS Waikato,Royal New Zealand Navy,military_organisation,,18-Dec-00,-35.652778,174.544444,scuttled,frigate,A Leander-class frigate that was scuttled off Tutukata as an artificial reef.
+3051,SS Wairarapa,New Zealand,country,1894.0,29 October 1894,-36.0675,175.351944,ran_aground,steamer,A luxury steamer that hit a reef off Great Barrier Island.
+3054,USS Brownson,United States Navy,military_organisation,,26-Dec-43,-5.333333,148.416667,shelled_or_bombed,destroyer,"A Fletcher-class destroyer that was sunk by a Japanese dive bomber off Cape Gloucester, New Britain."
+3055,HMAS Geelong,Royal Australian Navy,military_organisation,,18-Oct-44,-6.066667,147.75,collision,corvette,A Bathurst-class corvette that collided with the American tanker York north of Langemak Bay.
+3056,Hakaze,Imperial Japanese Navy,military_organisation,,23-Jan-43,-2.783333,150.633333,torpedoed,destroyer,"A Japanese Minekaze-class destroyer that was torpedoed by USS Guardfish south of Kavieng, New Ireland."
+3057,SS Kyokusei Maru,Imperial Japanese Army,military_organisation,,2-Mar-43,-6.766667,147.166667,unknown,unknown,A Japanese troopship that was sunk by Allied aircraft in the Battle of the Bismarck Sea.
+3059,Mikazuki,Imperial Japanese Navy,military_organisation,,28-Jul-43,-5.45,148.416667,ran_aground,destroyer,A Japanese Mutsuki-class destroyer that ran aground on a reef off the west coast of New Island.
+3060,USS Mount Hood,United States Navy,military_organisation,,10-Nov-44,-2.028333,147.355,unknown,unknown,"A Mount Hood-class ammunition ship that exploded in Seeadler Harbor, killing over 300 people and destroying twenty-two smaller boats and landing craft."
+3062,Ro-33,Imperial Japanese Navy,military_organisation,,29-Aug-42,-9.6,147.1,unknown,submarine,A Japanese Ro-33-class submarine that was sunk by HMAS Arunta off Port Moresby.
+3063,USS S-39,United States Navy,military_organisation,,13-Aug-42,-11.350761,154.149031,ran_aground,submarine,An S-class submarine that ran aground off Rossel Island.
+3064,Tenryū,Imperial Japanese Navy,military_organisation,,19-Dec-42,-5.2,145.933333,torpedoed,cruiser,A Japanese Tenryū-class cruiser that was torpedoed by USS Albacore off Madang.
+3066,Yūgiri,Imperial Japanese Navy,military_organisation,,26-Nov-43,-4.733333,154.0,unknown,destroyer,A Japanese Fubuki-class destroyer that was sunk in the Battle of Cape St. George.
+3069,SMS Eber,Imperial German Navy,military_organisation,1889.0,16 March 1889,-13.831389,-171.751944,unknown,unknown,A warship that was wrecked in the 1889 Apia cyclone.
+3078,USS Chicago,United States Navy,military_organisation,,30-Jan-43,-11.416667,160.933333,unknown,cruiser,A Northampton-class heavy cruiser that was sunk in the Battle of Rennell Island.
+3079,USS Helena,United States Navy,military_organisation,,6-Jul-43,-7.766667,157.183333,unknown,cruiser,A St. Louis-class light cruiser that was sunk in the Battle of Kula Gulf.
+3080,Jintsu,Imperial Japanese Navy,military_organisation,,13-Jul-43,-7.633333,157.1,unknown,cruiser,A Japanese Sendai-class light cruiser that was sunk in the Battle of Kolombangara.
+3081,USS Juneau,United States Navy,military_organisation,,13-Nov-42,-10.566667,161.066667,unknown,cruiser,An Atlanta-class light cruiser that was sunk in the Naval Battle of Guadalcanal.
+3082,Ro-34,Imperial Japanese Navy,military_organisation,,5-Apr-43,-8.25,158.966667,unknown,submarine,A Japanese Kaichū type submarine that was sunk by USS O'Bannon (DD-450) (USS O'Bannon) and USS Strong (DD-467) (USS Strong) off the Russell Islands.
+3083,Yūgumo,Imperial Japanese Navy,military_organisation,,7-Oct-43,-7.55,156.233333,unknown,destroyer,A Japanese Yūgumo-class destroyer that was sunk in the Naval Battle of Vella Lavella.
+3084,Yura,Imperial Japanese Navy,military_organisation,,25-Oct-42,-8.25,159.116667,shelled_or_bombed,cruiser,A Japanese Nagara-class light cruiser that was bombed by US aircraft and scuttled off Savo Island.
+3085,USS Aaron Ward,United States Navy,military_organisation,,7-Apr-43,-9.175,160.2,unknown,destroyer,A Gleaves-class destroyer that was sunk by Japanese aircraft during Operation I-Go.
+3086,Akatsuki,Imperial Japanese Navy,military_organisation,,13-Nov-42,-9.283333,159.933333,unknown,destroyer,A Japanese Akatsuki-class destroyer that was sunk in the Naval Battle of Guadalcanal.
+3087,USS Astoria,United States Navy,military_organisation,,9-Aug-42,-9.209167,159.8675,unknown,cruiser,A New Orleans-class heavy cruiser that was sunk in the Battle of Savo Island.
+3088,USS Atlanta,United States Navy,military_organisation,,13-Nov-42,-9.39,159.978889,unknown,cruiser,An Atlanta-class anti-aircraft cruiser that was sunk in the Naval Battle of Guadalcanal.
+3089,Ayanami,Imperial Japanese Navy,military_organisation,,15-Nov-42,-9.166667,159.866667,unknown,destroyer,A Japanese Fubuki-class destroyer that was sunk by gunfire from USS Washington.
+3091,HMAS Canberra,Royal Australian Navy,military_organisation,,9-Aug-42,-9.208056,159.912778,scuttled,cruiser,A Kent-class cruiser that was scuttled after taking damage in the Battle of Savo Island.
+3092,USS Colhoun,United States Navy,military_organisation,,30-Aug-42,-9.4,160.016667,unknown,destroyer,A Wickes-class destroyer that was sunk by Japanese aircraft.
+3094,USS De Haven,United States Navy,military_organisation,,1-Feb-43,-9.15,159.866667,shelled_or_bombed,destroyer,A Fletcher-class destroyer that was sunk by Japanese bombers during Operation Ke.
+3096,Fubuki,Imperial Japanese Navy,military_organisation,,11-Oct-42,-9.1,159.633333,unknown,destroyer,A Japanese Fubuki-class destroyer that was sunk in the Battle of Cape Esperance.
+3097,Furutaka,Imperial Japanese Navy,military_organisation,,12-Oct-42,-9.033333,159.55,unknown,cruiser,A Japanese Furutaka-class cruiser that was sunk in the Battle of Cape Esperance.
+3098,USS George F. Elliott,United States Navy,military_organisation,,8-Aug-42,-9.345833,160.137222,shelled_or_bombed,unknown,A Heywood-class attack transport that was sunk by Mitsubishi G4M bombers.
+3100,Hiei,Imperial Japanese Navy,military_organisation,,14-Nov-42,-9.0,158.999722,scuttled,unknown,A Japanese Kongō-class battleship that was scuttled after taking damage in the Naval Battle of Guadalcanal.
+3102,USS Jarvis,United States Navy,military_organisation,,9-Aug-42,-9.7,158.983333,unknown,destroyer,A Gridley-class destroyer that was sunk by Japanese aircraft.
+3104,Kasi Maru,Imperial Japanese Navy,military_organisation,,2-Jul-43,-8.1,157.333333,shelled_or_bombed,unknown,"A Japanese auxiliary minelayer/merchant ship, sunk in Mbaeroko Bay, near Munda, during a bombing raid by USAAF B-25 bombers"
+3107,Kirishima,Imperial Japanese Navy,military_organisation,,15-Nov-42,-9.083333,159.7,unknown,unknown,A Japanese Kongō-class battleship that was sunk by USS Washington.
+3110,Makigumo,Imperial Japanese Navy,military_organisation,,1-Feb-42,-9.25,159.783333,mined,destroyer,A Japanese Yūgumo-class destroyer that was scuttled after striking a mine.
+3113,USS Northampton,United States Navy,military_organisation,,30-Nov-42,-9.2,159.833333,unknown,cruiser,A Northampton-class heavy cruiser that was sunk in the Battle of Tassafaronga.
+3120,USS Quincy,United States Navy,military_organisation,,9-Aug-42,-9.075556,159.975,unknown,cruiser,A New Orleans-class cruiser that was sunk in the Battle of Savo Island.
+3121,USS Seminole,United States Navy,military_organisation,,25-Oct-42,-9.383333,160.220556,unknown,tug,A Navajo-class oceangoing tug that was sunk off Tulagi by Japanese destroyers.
+3123,Takanami,Imperial Japanese Navy,military_organisation,,30-Nov-42,-9.233333,159.816667,unknown,destroyer,A Japanese Yūgumo-class destroyer that was sunk in the Battle of Tassafaronga.
+3124,Teruzuki,Imperial Japanese Navy,military_organisation,,12-Dec-42,-9.216667,159.766667,torpedoed,destroyer,A Japanese Akizuki-class destroyer that was torpedoed by PT-37 and PT-40.
+3126,USS Vincennes,United States Navy,military_organisation,,9-Aug-42,-9.121389,159.88,unknown,cruiser,A New Orleans-class cruiser that was sunk in the Battle of Savo Island.
+3128,MS World Discoverer,Liberia,country,,30-Apr-00,-9.023103,160.123031,ran_aground,unknown,A cruise ship that struck a reef in the Sandfly Passage and ran aground in Roderick Bay.
+3130,Yūdachi,Imperial Japanese Navy,military_organisation,,13-Nov-42,-9.233333,159.866667,unknown,destroyer,A Japanese Shiratsuyu-class destroyer that was sunk in the Naval Battle of Guadalcanal.
+3131,Abbey,New South Wales,country,1868.0,15 February 1868,-31.833333,152.766667,storm_or_weather,unknown,A brigantine that was wrecked in a storm at Crowdy Head.
+3133,Absalom,New South Wales,country,1863.0,29 March 1863,-30.833333,153.016667,unknown,unknown,A ketch that was wrecked at Trial Bay.
+3134,Acielle,Australia,country,,11-Sep-29,-31.104167,153.025,unknown,unknown,A ketch that was driven ashore off Smoky Cape.
+3135,Active,New South Wales,country,1852.0,18 February 1852,-32.916667,151.783333,unknown,unknown,A ketch that was wrecked at the mouth of the Hunter River.
+3136,Ada,Unknown,country,1897.0,29 April 1897,-32.916667,151.783333,unknown,unknown,A ketch that was wrecked off Newcastle.
+3137,Ada and Ethel,New South Wales,country,1887.0,26 October 1887,-32.6,152.7,ran_aground,schooner,A wooden schooner that sprung a leak and foundered off Seal Rocks.
+3138,Adelaide,New South Wales,country,1834.0,May 1834,-33.233333,151.6,unknown,unknown,A wooden cutter wrecked near Norah Head.
+3139,HMAS Adelaide,Royal Australian Navy,military_organisation,,13-Apr-11,-33.466667,151.45,scuttled,frigate,An Adelaide-class frigate that was scuttled as a dive wreck off Avoca Beach.
+3140,Adele,Royal Australian Navy,military_organisation,,7-May-43,-34.467778,150.916944,unknown,steamer,A steamship that struck the breakwater at Port Kembla.
+3141,Adelphoi,New South Wales,country,1879.0,21 December 1879,-34.073056,151.12,unknown,unknown,A barque that was wrecked off Port Hacking.
+3142,Adolphe,France,country,,30-Sep-04,-32.913739,151.797281,unknown,unknown,Sailing ship wrecked at the mouth of Hunter River.
+3143,Adonis,New South Wales,country,1889.0,22 December 1889,-32.1,152.8,unknown,unknown,A brigantine that sank off Crowdy Head.
+3144,Advance (1874),Australia,country,,12-Jun-02,-34.0,151.235,unknown,schooner,A schooner that was wrecked at Botany Bay.
+3145,Advance (1884),Australia,country,,25-Dec-08,-33.180556,151.703333,collision,steamer,An iron screw steamer that collided with the Inverna off Catherine Hill Bay.
+3146,Adventure,New South Wales,country,1855.0,1855,-28.883333,153.583333,unknown,schooner,A schooner that was wrecked at Richmond River.
+3149,Agnes (1853),New South Wales,country,1860.0,13 July 1860,-32.8,152.0,unknown,unknown,A cutter that was blown ashore near Newcastle.
+3150,Agnes (1875),New South Wales,country,1890.0,12 March 1890,-28.45,153.566667,unknown,schooner,A schooner that was wrecked near Ocean Shores.
+3151,Agnes (1877),New South Wales,country,1883.0,1883,-35.116667,150.816667,unknown,unknown,A ketch that was wrecked off Jervis Bay.
+3152,Agnes (1904),Australia,country,,27-Jan-06,-33.85,151.233333,collision,unknown,A launch that was wrecked in a collision in Sydney Harbour.
+3153,Agnes Irving,New South Wales,country,1879.0,28 December 1879,-30.806389,153.005,unknown,steamer,A paddle steamer that was wrecked off Trial Bay.
+3154,Alhambra,New South Wales,country,1888.0,30 June 1888,-32.883333,151.9,unknown,steamer,Iron screw steamer wrecked off Newcastle while attempting to move the derelict wreck of the John T. Berry.
+3157,HMAS Arunta,Royal Australian Navy,military_organisation,,12-Feb-69,-33.833333,151.316667,unknown,destroyer,"A Tribal-class destroyer sold for scrap, but sank under tow off Sydney Heads."
+3158,HMAS Australia,Royal Australian Navy,military_organisation,,12-Apr-24,-33.865058,155.740308,scuttled,unknown,An Indefatigable-class battlecruiser that was scuttled off Sydney Heads.
+3165,Brighton,Australia,country,1916.0,1916,-32.668333,152.125833,unknown,ferry,A ferry that was hulked at Port Stephens.
+3172,Colonist,United Kingdom,country,1894.0,9 September 1894,-32.913889,151.796944,ran_aground,cargo_ship,A cargo ship that ran aground off Newcastle.
+3173,Comboyne,Australia,country,,27-Nov-20,-34.597222,150.921667,unknown,steamer,A steamship that was wrecked off Bass Point.
+3176,HMAS Doomba,Royal Australian Navy,military_organisation,,9-Dec-76,-33.716111,151.347222,scuttled,unknown,A warship that was scuttled off Dee Why.
+3198,Hawkesbury Packet,New South Wales,country,1817.0,14 August 1817,-34.624444,150.8625,ran_aground,unknown,A sloop that ran aground at Minnamurra.
+3199,Hazard,New South Wales,country,1809.0,March 1809,-33.542222,151.348611,ran_aground,unknown,A sloop that ran aground on Box Head.
+3205,Iron Knight,Australia,country,,8-Feb-43,-36.85,149.733333,unknown,submarine,An iron ore carrier sunk by the Japanese submarine I-21.
+3207,HMAS Karangi,Royal Australian Navy,military_organisation,1970.0,1970,-33.836389,151.080556,unknown,unknown,A Bar-class boom defence vessel that was abandoned at Homebush Bay.
+3209,HMAS Kianga,Royal Australian Navy,military_organisation,,7-Jul-46,-33.998333,151.601389,scuttled,minesweeper,A minesweeper that was scuttled off Sydney Heads.
+3211,Koonya,New South Wales,country,1898.0,25 January 1898,-34.042778,151.206667,ran_aground,unknown,A steamboat that ran aground off Cronulla Beach.
+3212,Koraaga,Australia,country,,10-Sep-31,-34.783333,150.91,unknown,steamer,A steamship that was wrecked off Gerringong.
+3215,Lindus,Victoria,country,1899.0,4 June 1899,-32.913889,151.796944,storm_or_weather,steamer,A steamship that was wrecked in a storm off Newcastle.
+3217,Maianbar,Australia,country,,5-May-40,-32.924722,151.792611,ran_aground,steamer,A steamship that ran aground on Nobby's Beach off Newcastle.
+3221,HMAS Medea,Royal Australian Navy,military_organisation,,20-Jan-48,-33.998333,151.601111,scuttled,minesweeper,A minesweeper that was scuttled off Sydney.
+3222,HMAS Mercedes,Royal Australian Navy,military_organisation,,23-Jan-48,-33.998333,151.600833,scuttled,minesweeper,A minesweeper that was scuttled off Sydney.
+3223,Merksworth,New South Wales,country,1898.0,7 May 1898,-32.836944,151.936944,unknown,unknown,A steamboat that was wrecked near Stockton Beach.
+3224,Nancy,New South Wales,country,1805.0,18 April 1805,-35.366944,150.834444,unknown,unknown,A sloop that was wrecked off Jervis Bay.
+3229,HMAS Olive Cam,Royal Australian Navy,military_organisation,,2-Nov-54,-37.151111,150.007222,unknown,minesweeper,An auxiliary minesweeper wrecked near Green Cape Lighthouse.
+3231,HMAS Paterson,Royal Australian Navy,military_organisation,,11-Jun-51,-33.277778,151.571944,unknown,minesweeper,A wooden auxiliary minesweeper that sank off The Entrance.
+3239,Sygna,Norway,country,,26-May-74,-32.85915,151.844711,ran_aground,unknown,Ran aground near Newcastle.
+3240,Tassie III,United States Army,military_organisation,,9-Jun-45,-28.638889,153.613889,unknown,unknown,A motor vessel that was wrecked at Byron Bay.
+3242,Titan,Singapore,country,,29-Dec-92,-31.664167,152.873333,scuttled,unknown,A floating crane that broke tow and was scuttled near Kendall.
+3250,Wandra,Australia,country,,15-Dec-15,-35.045278,150.839167,unknown,unknown,A steamboat that was wrecked off Jervis Bay.
+3252,Wendouree,New South Wales,country,1898.0,20 July 1898,-32.913889,151.796944,unknown,steamer,A steamship that was wrecked at the mouth of the Hunter River.
+3255,Wollongbar (1911),Australia,country,,14-May-21,-28.637222,153.610278,unknown,steamer,A steamship that was blown ashore at Byron Bay.
+3263,Brisbane,Queensland,country,1881.0,10 October 1881,-12.433333,130.438333,ran_aground,steamer,Iron steamship that ran aground on Fish Reef off Quail Island north of Port Darwin
+3267,Ellengowan,United Kingdom,country,1888.0,27 April 1888,-12.541111,130.868889,unknown,schooner,A schooner that sank at its mooring and was abandoned.
+3269,I-124,Imperial Japanese Navy,military_organisation,,21-Jan-42,-12.120092,130.106561,unknown,submarine,An I-121-class submarine that was sunk during World War II.
+3270,Kelat,Royal Australian Navy,military_organisation,,19-Feb-42,-12.033333,130.083333,shelled_or_bombed,unknown,A sailing ship that was sunk in the bombing of Darwin.
+3275,Neptuna,Hong Kong,country,,19-Feb-42,-12.471667,130.849167,shelled_or_bombed,cargo_ship,A cargo ship that was lost in the Japanese bombing of Darwin.
+3277,USS Peary,United States Navy,military_organisation,,19-Feb-42,-12.475,130.829167,shelled_or_bombed,destroyer,A Clemson-class destroyer that was lost in the Japanese bombing of Darwin.
+3279,Aarhus,Unknown,country,1894.0,24 February 1894,-27.003975,153.441089,ran_aground,unknown,"A German made barque that ran aground near Cape Moreton, and is now a historical site."
+3284,Cherry Venture,Singapore,country,,6-Jul-73,-25.961667,153.173928,ran_aground,cargo_ship,A cargo ship that ran aground on Teewah Beach.
+3285,City of Adelaide,Australia,country,1916.0,1916,19.174722,146.825556,ran_aground,steamer,"A steamship that ran aground off Cockle Bay, Magnetic Island, and used as target practice for the Royal Australian Air Force during World War II. The wreck was sunk by Cyclone Althea in 1971."
+3287,Duke of York,United Kingdom,country,1837.0,September 1837,-27.036622,153.353789,unknown,unknown,A barque that was wrecked off Moreton Bay.
+3289,HMQS Gayunda,Royal Australian Navy,military_organisation,,2-Jun-58,-27.261944,153.107222,unknown,gunboat,A flat-iron gunboat that was beached as a breakwater off Woody Point.
+3291,Gothenburg,Victoria,country,1875.0,24 February 1875,-19.368333,148.055833,ran_aground,steamer,A steamship that struck the Great Barrier Reef.
+3293,Jenny Lind,Unknown,country,1850.0,21 September 1850,-21.266667,155.8,ran_aground,unknown,A barque that was wrecked on Kenn Reef on the Great Barrier Reef.[1]
+3295,Maheno,New Zealand,country,,9-Jul-35,-25.267222,153.238333,unknown,liner,An ocean liner that was beached on Fraser Island while under tow for scrapping in Japan.
+3296,Marloo,Australia,country,,27-Sep-14,-24.948889,153.303611,unknown,steamer,A steamship that was beached on Fraser Island.
+3297,HMS Mermaid,Royal Navy,military_organisation,1829.0,13 June 1829,-17.199167,146.288889,unknown,unknown,A cutter that was wrecked east of Normanby Island.
+3298,Moltke,Australia,country,1911.0,1911,-19.153611,146.869444,scuttled,unknown,"A barque that was scuttled in Geoffrey Bay, Magnetic Island."
+3299,HMS Pandora,Royal Navy,military_organisation,1791.0,28 August 1791,-11.383333,143.983333,ran_aground,unknown,A Porcupine-class post ship that struck and was wrecked on the Great Barrier Reef.
+3301,RMS Quetta,United Kingdom,country,1890.0,28 February 1890,-10.609614,142.624169,ran_aground,unknown,A merchant ship that struck a rock off Albany Island.
+3304,HMAS Warrnambool,Royal Australian Navy,military_organisation,,13-Sep-47,-14.758889,145.828056,mined,corvette,A Bathurst-class corvette that hit a mine in the Great Barrier Reef.
+3306,Yongala,Australia,country,,23-Mar-11,-19.3075,147.625278,unknown,unknown,A passenger ship that sank in a cyclone off Townsville.
+3307,USS YP-279,United States Navy,military_organisation,,5-Sep-43,-19.201944,146.886111,unknown,unknown,A patrol vessel that foundered off Townsville.
+3309,Admella,South Australia,country,1859.0,5 August 1859,-37.879722,140.350833,ran_aground,unknown,"A passenger ship that ran onto a reef off the Carpenter Rocks, with 89 lives lost including 14 children."
+3314,Ellen,South Australia,country,,12-Dec-08,-35.59625,138.102111,unknown,cargo_ship,A freighter/trawler that was wrecked in Gulf St Vincent at Morgan's Beach.
+3315,Ethel,Unknown,country,,2-Jan-04,-35.298611,136.891944,ran_aground,unknown,"An iron barque which ran aground at Reef Head, near Cape Spencer[7]"
+3318,Frances,South Australia,country,1840.0,29 August 1840,-35.55,136.2,unknown,unknown,A cutter that was wrecked in the Neptune Islands.
+3320,Geltwood,United Kingdom,country,1876.0,14 June 1876,-37.626667,140.180833,ran_aground,unknown,A barque that struck a reef near the town of Southend.
+3325,Lady Kinnaird,United Kingdom,country,1880.0,21 January 1880,-34.13,136.36,ran_aground,unknown,A barque that ran aground off Port Neill.
+3327,Loch Vennachar,United Kingdom,country,,5-Sep,-35.884722,136.533333,unknown,unknown,A clipper that sank off Kangaroo Island with the loss of 27 lives.
+3331,No 5 dumb hopper barge,Australia,country,,Apr-84,-34.516667,138.05,scuttled,barge,A hopper barge that was scuttled in Gulf St Vincent.
+3333,Postboy,Australia,country,1905.0,1905,-33.92,136.57,unknown,schooner,A schooner that was wrecked at Arno Bay.
+3335,Santiago,Australia,country,,19-Aug-45,-34.81,138.54,unknown,unknown,A 3 masted barque abandoned in the Garden Island Ships' Graveyard near Port Adelaide.
+3339,Tom Brennan,Australia,country,1960.0,1960 or 1963,-28.630278,138.708333,unknown,barge,A barge abandoned on the Birdsville Track to the south of the Cooper Creek in Etadunna.
+3341,Water Witch,South Australia,country,1842.0,5 December 1842,-34.4,139.62,unknown,unknown,"A cutter which sunk whilst moored in the River Murray at Moorundie, South Australia."
+3342,Willyama,Unknown,country,,13-Apr-07,-35.251333,136.978889,unknown,steamer,"A screw steamer wrecked south of Rhino Head, near Marion Bay.[10]"
+3344,Zanoni,United Kingdom,country,1867.0,11 February 1867,-34.512167,138.063444,unknown,unknown,A barque which foundered during a squall in Gulf St Vincent.
+3348,Cataraqui,,,1845.0,4 August 1845,-40.027139,143.880444,unknown,unknown,400 lost when wrecked on King Island.
+3349,Campbell Macquarie,,,1812.0,10 June 1812,-54.616667,158.866667,unknown,unknown,A ship that was wrecked off Macquarie Island.
+3352,George III,,,1835.0,12 March 1835,-43.516667,146.983333,unknown,unknown,A convict ship that sank in the D'Entrecasteaux Channel.
+3353,Hebe,,,1808.0,15 June 1808,-41.061922,146.75525,ran_aground,unknown,A ship that struck a reef off George Town.
+3354,Iron Baron,,,,10-Jul-95,-39.216667,149.133333,scuttled,unknown,"A bulk carrier that ran aground on a reef off George Town, causing an oil spill. It was refloated and scuttled off Flinders Island."
+3355,Lake Illawarra,,,,5-Jan-75,-42.864444,147.345833,unknown,unknown,"Bulk carrier wrecked in the River Derwent, with 12 lives lost."
+3360,Sydney Cove,,,1797.0,9 February 1797,-40.483333,148.066667,unknown,unknown,Sank at Preservation Island with no loss of life.
+3361,Alert,,,1893.0,28 December 1893,-38.526175,144.874819,unknown,steamer,A steamship that sank off Cape Schanck.
+3362,Cambridge,,,,7-Nov-40,-39.158889,146.490278,mined,steamer,A steamship that hit a mine off Wilsons Promontory.
+3363,HMVS Cerberus,,,,2-Sep-26,-37.9675,145.007778,scuttled,unknown,A breastwork monitor that was scuttled as a breakwater in Half Moon Bay.
+3364,Cheviot,,,1887.0,19 October 1887,-38.314167,144.664167,unknown,steamer,A steamship that was wrecked near Point Nepean.
+3365,City of Launceston,,,1865.0,19 November 1865,-38.075833,144.825278,collision,steamer,A steamship that collided with Penola at Port Phillip.
+3366,City of Rayville,,,,8-Nov-40,-38.978889,143.5075,mined,steamer,A steamship that hit a mine off Cape Otway.
+3367,Clonmel,,,1841.0,2 January 1841,-38.745556,146.676944,unknown,steamer,"A paddle steamer that was wrecked at Clonmel Island, near the entrance to Corner Inlet."
+3369,Earl of Charlemont,,,1853.0,18 June 1853,-38.309286,144.491275,ran_aground,unknown,A passenger ship that ran aground off Barwon Heads.
+3370,Falls of Halladale,,,,14-Nov-08,-38.608333,142.857222,ran_aground,unknown,A barque that ran onto the rocks near Peterborough.
+3371,HMAS Goorangai,Royal Australian Navy,military_organisation,,20-Nov-40,-38.292778,144.6825,collision,minesweeper,A minesweeper that collided with Duntroon at Port Phillip.
+3373,Joseph H. Scammell,,,1891.0,7 May 1891,-38.341944,144.331667,ran_aground,unknown,A full-rigged ship that ran aground on a reef off Torquay.
+3374,Kanowna,,,,19-Feb-29,-39.31,146.13,unknown,unknown,"One of Victoria's largest shipwrecks, found in 2005 in Bass Strait."
+3376,Lightning,,,1869.0,31 October 1869,-38.14,144.368611,scuttled,unknown,An extreme clipper that caught fire and was scuttled off Geelong.
+3377,Loch Ard,,,1878.0,1 June 1878,-38.648611,143.071944,unknown,unknown,Struck Mutton Bird Island.
+3380,Saros,,,,23-Dec-37,-37.803611,149.275278,ran_aground,unknown,Ran aground at Point Hicks.
+3381,Alacrity,,,,Apr-31,-32.14,115.763889,storm_or_weather,unknown,A tugboat that was wrecked in a storm in Cockburn Sound.[12]
+3382,Alice,Unknown,country,,14-Jun-15,-15.916667,123.033333,ran_aground,unknown,A 132-ton vessel that was wrecked on Brue reef with the loss of 13 of its 41 crew.[13]
+3383,Alkimos,,,,May-64,-31.610556,115.653611,unknown,unknown,Greek merchant ship.
+3384,Arpenteur,,,1849.0,November 1849,-34.869722,118.403611,unknown,unknown,Merchant ship wrecked off Cheyne Beach
+3385,Batavia,,,1629.0,4 June 1629,-28.490278,113.793333,unknown,unknown,Dutch VOC merchant sailing ship.
+3386,Batoe Bassi,Netherlands,country,1880.0,31 June 1880,-33.907778,122.832778,ran_aground,unknown,A Dutch vessel that was run aground after it began taking on water.[14]
+3387,Belinda,,,1824.0,19 July 1824,-34.09,123.210278,unknown,unknown,A brig that foundered off Middle Island in the Recherche Archipelago.[15]
+3388,Ben Dearg,,,,14-Apr-56,-35.010278,118.051667,scuttled,trawler,A Castle-class trawler that was scuttled near Swarbricks Beach east of Albany
+3389,Ben Ledi,Unknown,country,1879.0,16 December 1879,-28.936944,113.969167,ran_aground,unknown,"An 1,107-ton iron sailing ship that ran aground on Pelsaert Island in the Houtman Abrolhos, without loss of life, in the same location as the wreck of Marten several years previously.[16][17]"
+3390,Bittern,Unknown,country,1885.0,10 May 1885,-14.108889,123.549167,unknown,schooner,"Three-masted schooner, Capt. A. Bergman or Berghmann, taking jarrah piles from Hamlyn to Darwin, wrecked off Browse Island.[18]"
+3392,Carlisle Castle,United Kingdom,country,1899.0,11 July 1899,-32.333333,115.6325,ran_aground,unknown,"British iron ship that struck a reef near Rockingham with the loss of 24 lives, in the same storm that claimed City of York.[20]"
+3393,Centaur,,,1874.0,9 December 1874,-31.863889,115.711111,ran_aground,unknown,A brig that struck a reef near Perth.
+3394,Cervantes,Unknown,country,1844.0,20 June 1844,-30.513333,115.05,unknown,unknown,"A barque used for whaling, blown onto a sandbar and subsequently abandoned. The crew survived.[22]"
+3396,Cochituate,United States,country,1861.0,14 June 1861,-28.727778,113.705556,ran_aground,unknown,An American barque that struck a reef west of Rat Island in the Houtman Abrolhos. A crew member travelled overland to Fremantle to summon help for the remainder.[24]
+3397,Contest,Unknown,country,1874.0,14 July 1874,-32.274444,115.713611,unknown,unknown,A 322-ton barque that dragged its anchor and went ashore at what is now Rockingham.[25][26]
+3398,Correio da Azia,Portugal,country,1816.0,25 November 1816,-22.863333,113.750556,unknown,unknown,A Portuguese vessel wrecked at Point Cloates[27]
+3399,Cumberland,,,1830.0,4 March 1830,-34.296667,115.040278,ran_aground,unknown,A ship wrecked after hitting a submerged rock off Cape Leeuwin en route to Fremantle.[28]
+3401,Elizabeth,,,1839.0,22 September 1839,-32.01,115.751111,ran_aground,unknown,A 194-ton merchant ship that ran aground at Cottesloe.[29][30]
+3402,Emily Taylor,Unknown,country,1830.0,21 May 1830,-32.065556,115.749722,storm_or_weather,unknown,A vessel blown onto shore near Fremantle (the same storm that wrecked James).[31]
+3403,Emma,Unknown,country,1867.0,March 1867,-23.0825,113.733611,unknown,schooner,"A 116-ton two-masted wooden-hulled schooner, wrecked near Coral Bay.[32]"
+3404,Fanny Nicholson,,,1872.0,21 November 1872,-35.083056,117.936667,unknown,unknown,A barque that was wrecked at Goode Beach in King George Sound.
+3405,Georgette,,,1876.0,1 December 1876,-34.033056,114.99,unknown,steamer,A steamship that was wrecked at Calgardup Bay with 12 lives lost.
+3406,Hadda,Unknown,country,1877.0,30 April 1877,-28.472222,113.7925,ran_aground,unknown,A 316-ton barque that struck a reef near Beacon Island in the Houtman Abrolhos without loss of life.[33][17]
+3407,Hero of the Nile,Unknown,country,1876.0,20 October 1876,-32.364444,115.705833,ran_aground,unknown,"A barque involved in the guano trade, wrecked without loss of life after striking a reef at Warnbro Sound.[34][35]"
+3409,James,Unknown,country,1830.0,21 May 1830,-32.095833,115.758611,storm_or_weather,cargo_ship,"A passenger and cargo ship that was blown onto shore from Owen Anchorage, off Fremantle (the same storm that wrecked Emily Taylor).[38]"
+3410,James Matthews,Unknown,country,1841.0,22 July 1841,-32.131944,115.743889,ran_aground,unknown,"A 107-ton former slave ship, which struck rocks and sank near Woodman Point after parting its anchor warp.[39][40]"
+3412,Jon Jim,Unknown,country,,17-Jul-61,-28.986111,113.962222,ran_aground,fishing_vessel,"A fishing boat that ran aground at Pelsaert Island, Houtman Abrolhos.[41][42][36]"
+3413,Koolama,,,,3-Mar-42,-15.449722,128.101111,shelled_or_bombed,unknown,A merchant vessel that was bombed by Japanese aircraft and later capsized at Wyndham. The wreck was towed further out to sea in 1948.
+3414,Korean Star,,,,20-May-88,-24.208056,113.425,unknown,unknown,A Panamanian bulk carrier that was lost off Cape Cuvier.
+3415,Kori,Unknown,country,,16-Jan-07,-16.816667,122.55,unknown,schooner,"A schooner that foundered at Tappers Inlet during a tropical cyclone, without loss of life.[43][44]"
+3416,Kormoran,Kriegsmarine,military_organisation,,19-Nov-41,-26.096111,111.075833,scuttled,unknown,German merchant raider scuttled after being damaged in battle by HMAS Sydney.
+3419,Lady Lyttleton,,,1867.0,17 July 1867,-34.997778,117.950278,unknown,unknown,A barque that sank in Emu Point Channel near Albany
+3421,Manfred,Unknown,country,1879.0,24 January 1879,-16.852778,122.127778,unknown,unknown,A 585-ton barque that was wrecked in a tropical cyclone while collecting guano at the Lacepede Islands.[48]
+3422,Mountaineer,Unknown,country,1835.0,24 March 1835,-34.001667,122.200833,storm_or_weather,unknown,A sealing vessel that was swept ashore in a gale without any loss of life.[49][50]
+3425,RMS Orizaba,,,,17-Feb-05,-32.278611,115.625,ran_aground,unknown,A Royal Mail Ship that ran aground off Rockingham.
+3426,Pericles,,,,31-Mar-10,-34.422222,115.137222,ran_aground,liner,An ocean liner that struck a rock and sank 6 miles (9.7 km) south of Cape Leeuwin.
+3427,HMAS Perth,Royal Australian Navy,military_organisation,,24-Nov-01,-35.085,117.96,scuttled,destroyer,A Perth-class guided missile destroyer scuttled as a dive wreck off Albany.
+3429,Rapid,United States,country,1811.0,7 January 1811,-22.739444,113.692778,ran_aground,unknown,An American China trader wrecked at Ningaloo Reef[54]
+3430,Redemptora,Brazil,country,1898.0,C. 1898,-32.151389,115.766389,unknown,unknown,Ex- North American. A wooden clipper abandoned or sunk off Cockburn.[55]
+3433,HMAS Swan,Royal Australian Navy,military_organisation,,14-Dec-97,-33.550556,115.100556,unknown,destroyer,A River-class destroyer escort that was sunk as a dive wreck off Dunsborough.
+3434,Swift,Tasmania,country,1896.0,31 August 1896,-32.283333,125.983333,ran_aground,unknown,A Tasmanian-built ketch that struck a submerged rock at Twilight Cove. The crew survived.[58]
+3435,HMAS Sydney,Royal Australian Navy,military_organisation,,19-Nov-41,-26.241944,111.213333,unknown,cruiser,A Leander-class cruiser sunk in battle by the German merchant raider Kormoran.
+3436,Thames,,,1830.0,22 May 1830,-32.063889,115.749444,storm_or_weather,unknown,"A ship blown onto shore near Fremantle,[60] during the same storm that wrecked the James and the Emily Taylor."
+3438,Tryall,,,1622.0,25 May 1622,-20.271667,115.388333,unknown,unknown,East India Company ship.
+3443,HMAS Wallaroo,Royal Australian Navy,military_organisation,,11-Jun-43,-31.906667,114.625278,collision,corvette,A Bathurst-class corvette that collided with Henry Gilbert Costin off Fremantle.
+3444,Wave,,,1848.0,5 July 1848,-34.594444,118.751667,unknown,unknown,A brig sunk off Cheynes Beach near Cape Riche
+3446,Xantho,,,1872.0,November 1872,-28.186389,114.236111,unknown,steamer,A steamship that sank off Gregory.
+3447,Yarra,Unknown,country,1884.0,15 January 1884,-14.040556,121.77,ran_aground,schooner,A schooner that hit Scott Reef during a gale.[65]
+3448,Zeewijk,,,1727.0,9 June 1727,-28.908333,113.816667,unknown,unknown,Dutch VOC merchant sailing ship.
+3449,Zuytdorp,,,1712.0,1712,-27.186111,113.936944,unknown,unknown,Dutch VOC merchant sailing ship.
+3450,USS Jeannette,United States Navy,military_organisation,1881.0,13 June 1881,77.25,154.983333,unknown,gunboat,"A Philomel-class gunboat that was converted into an Arctic exploration vessel, and became trapped in the ice near Wrangel Island. The ship remained trapped for 21 months, and was carried some distance northeast before sinking; three of the De Long Islands were discovered and named by her crew along the way."
+3451,HMS Achates,Royal Navy,military_organisation,,31-Dec-42,73.3,30.1,unknown,destroyer,"An A-class destroyer that was sunk 135 nautical miles southeast of Bear Island, in the Battle of the Barents Sea."
+3452,RFA Aldersdale,Royal Navy,military_organisation,,7-Jul-42,75.0,45.0,unknown,tanker,A Dale-class oil tanker that was damaged by aircraft and sunk by U-457.
+3453,SS Andrew G. Curtin,United States,country,,26-Jan-44,73.366667,24.25,torpedoed,unknown,A Liberty ship that was torpedoed by U-716.[1]
+3454,HMS Bickerton,Royal Navy,military_organisation,,22-Aug-44,71.7,19.183333,torpedoed,destroyer,A Buckley-class destroyer escort that was torpedoed by U-354 and scuttled.
+3455,BO-229,Soviet Navy,military_organisation,,7-Dec-44,69.466667,34.316667,unknown,submarine,A SC-497 class submarine chaser that was sunk by U-997. Originally the USS SC-1485 for the United States Navy before being lend-leased to the Soviet Navy on 8 July 1944.[2][3]
+3456,BO-230,Soviet Navy,military_organisation,,5-Dec-44,69.483333,35.2,unknown,submarine,A SC-497 class submarine chaser that was sunk by U-365. Originally the USS SC-1477 for the United States Navy before being lend-leased to the Soviet Navy on 19 July 1944.[4][5]
+3457,SS Daniel Morgan,United States,country,,5-Jul-42,75.133333,45.1,torpedoed,unknown,A Liberty ship that was torpedoed by U-88.[6]
+3458,HMS Edinburgh,Royal Navy,military_organisation,,2-May-42,72.0,35.0,scuttled,cruiser,"A Town-class light cruiser that was scuttled 400 kilometres northeast of Kola Bay, Russia."
+3459,SS Edward H. Crockett,United States,country,,29-Sep-44,72.983333,24.433333,torpedoed,unknown,A Liberty ship that was torpedoed by U-310.[7]
+3460,SS Empire Byron,United Kingdom,country,,5-Jul-42,76.3,33.5,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-703.
+3461,SS Empire Cowper,United Kingdom,country,,11-Apr-42,71.016667,36.0,shelled_or_bombed,cargo_ship,A cargo ship that was bombed by German aircraft.
+3462,SS El Occidente,United States,country,,13-Apr-42,73.2,28.3,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-435.
+3463,Z16 Friedrich Eckoldt,Kriegsmarine,military_organisation,,31-Dec-42,77.316667,30.783333,unknown,destroyer,A Type 1934A-class destroyer that was sunk by HMS Sheffield in the Battle of the Barents Sea.
+3465,HMS Goodall,Royal Navy,military_organisation,,29-Apr-45,69.416667,33.633333,torpedoed,frigate,A Captain class frigate that was scuttled the following day after being torpedoed by U-286.[8]
+3466,M-175,Soviet Navy,military_organisation,,10-Jan-42,70.15,32.833333,unknown,submarine,A Soviet M-class submarine that was sunk by U-584.[9]
+3467,HMS Matabele,Royal Navy,military_organisation,,17-Jan-42,69.35,35.45,torpedoed,destroyer,A Tribal class destroyer that was torpedoed by U-454.[10]
+3468,SS Thomas Scott,United States,country,,17-Feb-45,69.5,34.7,torpedoed,unknown,A Liberty ship that was torpedoed by U-968.[11]
+3469,HMS Trinidad,Royal Navy,military_organisation,,15-May-42,73.616667,23.45,shelled_or_bombed,cruiser,"A Crown Colony-class cruiser that was attacked by German bombers and scuttled north of North Cape, Norway."
+3470,SM U-28,Kriegsmarine,military_organisation,,2-Sep-17,72.566667,27.933333,fire_or_explosion,submarine,"A Type U 27 U-boat that attacked the SS Olive Branch at close range, 85 miles northeast of North Cape, Norway. The gunfire detonated the Olive Branch's cargo of munitions, and the U-boat was sunk in the resultant explosion."
+3471,U-288,Kriegsmarine,military_organisation,,3-Apr-44,73.733333,27.2,unknown,submarine,A Type VIIC U-boat that was sunk by British aircraft southeast of Bear Island.
+3472,U-314,Kriegsmarine,military_organisation,,30-Jan-44,73.683333,24.5,unknown,submarine,A Type VIIC U-boat that was sunk by HMS Whitehall and HMS Meteor southeast of Bear Island.
+3473,U-354,Kriegsmarine,military_organisation,,24-Aug-44,72.816667,30.683333,unknown,submarine,A Type VIIC U-boat that was sunk by British ships northeast of North Cape.
+3474,U-425,Kriegsmarine,military_organisation,,17-Feb-45,69.65,35.833333,unknown,submarine,"A Type VIIC U-boat that was sunk by HMS Lark and HMS Alnwick Castle near Murmansk, Russia."
+3475,U-457,Kriegsmarine,military_organisation,,16-Sep-42,75.083333,43.25,unknown,submarine,"A Type VIIC U-boat that was sunk by HMS Impulsive northeast of Murmansk, Russia."
+3476,U-472,Kriegsmarine,military_organisation,,4-Mar-43,73.083333,26.666667,unknown,submarine,A Type VIIC U-boat that was sunk by HMS Onslaught and British aircraft southeast of Bear Island.
+3477,U-585,Kriegsmarine,military_organisation,,30-Mar-42,70.0,34.0,mined,submarine,"A Type VIIC U-boat that was sunk by a German mine north of Murmansk, Russia."
+3478,U-589,Kriegsmarine,military_organisation,,14-Sep-42,75.666667,20.533333,unknown,submarine,A Type VIIC U-boat that was sunk by HMS Onslow and a British aircraft.
+3479,U-655,Kriegsmarine,military_organisation,,24-Mar-42,73.0,21.0,unknown,submarine,A Type VIIC U-boat that was rammed by HMS Sharpshooter.
+3483,SS Oliver Ellsworth,United States,country,,13-Sep-42,75.866667,7.916667,torpedoed,unknown,"A Liberty ship that was torpedoed by U-408 about 100 miles southwest of Spitsbergen, Norway."
+3484,SS Santa Rosa,United States,country,,13-Sep-42,76.0,9.3,unknown,liner,An ocean liner that was sunk by German forces 198 miles northwest of Bear Island.
+3486,SS Stalingrad,Soviet Union,country,,13-Sep-42,75.866667,7.916667,torpedoed,cargo_ship,"A cargo ship that was torpedoed by U-408 about 100 miles southwest of Spitsbergen, Norway."
+3487,U-88,Kriegsmarine,military_organisation,,12-Sep-42,75.066667,4.816667,unknown,submarine,A Type VIIC U-boat that was sunk by HMS Faulknor south of Svalbard.
+3488,U-289,Kriegsmarine,military_organisation,,31-May-44,73.533333,0.466667,unknown,submarine,A Type VIIC U-boat that was sunk by HMS Milne northeast of Jan Mayen Island.
+3490,MY Ady Gil,New Zealand,country,,7-Jan-10,-64.030556,143.089722,collision,unknown,"A trimaran, formerly named Earthrace, that broke the global circumnavigation record in 2008. It was later converted into an anti-whaling ship, and was sunk in a collision with MV Shōnan Maru 2, sparking a series of legal disputes."
+3491,MV Explorer,Liberia,country,,23-Nov-07,-62.405,-57.196111,unknown,unknown,A cruise ship that hit an iceberg in the Bransfield Strait.
+3493,Aura II,Finnish Navy,military_organisation,,13-Jan-40,60.383333,19.166667,unknown,unknown,A Finnish escort vessel that was sunk by its own depth charge north of Märket Island.
+3494,SMS Bremen,Imperial German Navy,military_organisation,,17-Dec-15,57.516667,20.4,mined,cruiser,A Bremen-class light cruiser which struck two mines.
+3497,MS Estonia,Estonia,country,,28-Sep-94,59.383333,21.7,storm_or_weather,ferry,"An Estonian cruise ferry that sank during a storm, claiming 852 lives."
+3500,MV Goya,Nazi Germany,country,,16-Apr-45,55.2,18.3,torpedoed,unknown,"A German transport ship torpedoed by L-3, with thousands of German civilians and wounded soldiers on board."
+3501,Graf Zeppelin,Soviet Navy,military_organisation,,16-Aug-47,55.5175,18.285833,unknown,unknown,"A Graf Zeppelin-class aircraft carrier that never saw service in World War II, and was sunk as a target north of Władysławowo, Poland."
+3502,Ilmarinen,Finnish Navy,military_organisation,,13-Sep-41,59.45,21.083333,mined,unknown,A Väinämöinen-class coastal defence ship that was sunk by mines.
+3503,MS Jan Heweliusz,Poland,country,,14-Jan-93,54.6,14.216667,storm_or_weather,ferry,"A Polish ferry that capsized in hurricane-force winds off Cape Arkona, Germany."
+3506,Lefort,Imperial Russian Navy,military_organisation,1857.0,22 September 1857,59.95,27.283333,capsized,unknown,A Russian ship of the line that capsized in the Gulf of Finland.
+3508,Oleg,Soviet Navy,military_organisation,,17-Jun-19,60.025,29.533333,torpedoed,cruiser,A Bogatyr-class protected cruiser torpedoed by the British coastal motor boat CMB-4 at Kronstadt.
+3509,Pallada,Imperial Russian Navy,military_organisation,,11-Oct-14,59.608333,22.816667,torpedoed,cruiser,A Bayan-class armored cruiser that was torpedoed by U-26.
+3511,SMS Prinz Adalbert,Imperial German Navy,military_organisation,,23-Oct-15,56.55,20.3,torpedoed,submarine,A Prinz Adalbert-class armored cruiser that was torpedoed by the British submarine HMS E8 about 20 nautical miles (37 km; 23 mi) west of Libau in the Russian Empire.
+3522,España,Spanish Republican Navy,military_organisation,,30-Apr-37,43.523889,-3.678889,mined,unknown,"An España-class battleship sunk by a mine near Santander, Spain."
+3531,SS Admiral Nakhimov,Soviet Union,country,,31-Aug-86,44.604167,37.876389,collision,cargo_ship,An ocean liner that collided with the Soviet cargo ship Pyotr Vasev in Tsemes Bay.
+3532,Armenia,Soviet Navy,military_organisation,,7-Nov-41,44.25,34.283333,unknown,unknown,"A hospital ship that was sunk by German aircraft, with at least 5,000 deaths."
+3533,Novorossiysk,Soviet Navy,military_organisation,,29-Oct-55,44.618611,33.535556,fire_or_explosion,unknown,A Conte di Cavour-class battleship sunk by an explosion at Sevastopol in the Soviet Union.
+3534,Portugal,Imperial Russian Navy,military_organisation,,30-Mar-16,42.01,41.19,torpedoed,unknown,"A Russian hospital ship that was torpedoed by U-33 off Rize Province, Turkey."
+3535,Struma,Panama,country,,24-Feb-42,41.383333,29.216667,torpedoed,unknown,A refugee ship that was torpedoed by Shch-213 with over 700 Romanian Jewish immigrants aboard.
+3558,SS Empire Amethyst,United Kingdom,country,,13-Apr-42,17.666667,-74.833333,torpedoed,tanker,A tanker that was torpedoed by U-154 southwest of Haiti.
+3559,SS Empire Buffalo,United Kingdom,country,,6-May-42,19.233333,-82.566667,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-125 west of the Cayman Islands.
+3560,SS Empire Cloud,United Kingdom,country,,21-Aug-42,10.9,-62.166667,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-564 northeast of Trinidad.
+3561,SS Empire Cromwell,United Kingdom,country,,28-Nov-42,9.0,-58.5,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-508 off Guyana.
+3562,SS Empire Explorer,United Kingdom,country,,9-Jul-42,11.666667,-60.916667,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-575 northwest of Tobago.
+3573,SS Melville E. Stone,United States,country,,24-Nov-43,10.483333,-80.333333,unknown,unknown,"A Liberty ship that was sunk by U-516 northwest of Cristóbal, Panama."
+3611,Empire Mica,United Kingdom,country,,29-Jun-42,28.483333,-89.2,torpedoed,tanker,A steam tanker that sank after being torpedoed by U-67.[41]
+3637,HMS Ariadne,Royal Navy,military_organisation,,26-Jul-17,50.655,0.291111,torpedoed,submarine,A Diadem-class protected cruiser torpedoed off Beachy Head by the Imperial German Navy submarine UC-67.
+3646,HMS Empress of India,Royal Navy,military_organisation,,4-Nov-13,50.495,-2.965,unknown,unknown,A Royal Sovereign-class battleship sunk as a target by British warships in Lyme Bay on the southwestern coast of England.
+3647,SS Espagne,Belgium,country,,25-Dec-17,50.441667,-1.491944,torpedoed,cargo_ship,A cargo ship that was torpedoed by UC-71 near the Isle of Wight.
+3649,SS Glenartney,United Kingdom,country,,18-Mar-15,50.6,0.416667,torpedoed,cargo_ship,"A cargo ship that was torpedoed by UC-34 south of Eastbourne, England."
+3651,SMS Grosser Kurfürst,Imperial German Navy,military_organisation,1878.0,31 May 1878,51.01,1.160833,collision,frigate,"A  Preussen-class ironclad turret ship sunk in a collision with the German armored frigate SMS König Wilhelm off Folkestone, England."
+3663,U-275,Kriegsmarine,military_organisation,,10-Mar-45,50.6,0.066667,mined,submarine,A Type VIIC U-boat that was sunk by a mine off Beachy Head.
+3665,U-671,Kriegsmarine,military_organisation,,4-Aug-44,50.383333,0.1,unknown,submarine,A Type VIIC U-boat that was sunk by HMS Stayner and HMS Wensleydale.
+3672,UB-109,Imperial German Navy,military_organisation,,29-Aug-18,51.05,1.733333,mined,submarine,A Type UB III U-boat that was sunk by mine north of Calais.
+3673,HMS Wessex,Royal Navy,military_organisation,,24-May-40,51.015,1.763889,shelled_or_bombed,destroyer,"A W-class destroyer that was sunk by German dive bombers northwest of Calais, France."
+3679,USCGC Escanaba,United States Coast Guard,military_organisation,,13-Jun-43,60.833333,-52.0,mined,unknown,"A United States Coast Guard cutter sunk southwest of Greenland, probably by a mine."
+3682,HMS Abdiel,Royal Navy,military_organisation,,10-Sep-43,40.443056,17.251667,mined,unknown,"An Abdiel-class minelayer sunk by mines in the harbor at Taranto, Italy, during Operation Slapstick."
+3685,HMAS AE2,Royal Australian Navy,military_organisation,,30-Apr-15,40.6725,28.075278,scuttled,submarine,An E-class submarine that was attacked by Sultanhisar and scuttled in the Sea of Marmara.
+3686,SS Almeria Lykes,United States,country,,13-Aug-42,36.666667,11.583333,torpedoed,cargo_ship,"A Type C3 cargo ship that was attacked by Italian MAS torpedo boats and scuttled off Kelibia, Tunisia."
+3690,Amiral Charner,French Navy,military_organisation,,8-Feb-16,33.35,34.9,torpedoed,submarine,An Amiral Charner-class armored cruiser torpedoed by the Imperial German Navy submarine U-21 in the Eastern Mediterranean.
+3691,SS Amiral Magon,France,country,,28-Jan-17,35.49,20.02,torpedoed,submarine,"A troopship that was torpedoed by the Imperial German Navy submarine U-39 southwest of Peloponnese, Greece."
+3692,Antikythera wreck,Unknown,country,,1st century BC,35.889722,23.307778,unknown,unknown,"An ancient shipwreck discovered in October 1900 near the island of Antikythera. The wreck contained many artifacts and the world's oldest known analog computer, the Antikythera mechanism.[60]"
+3693,RMS Arabia,United Kingdom,country,,6-Nov-16,36.5,20.5,torpedoed,liner,"A passenger liner that was torpedoed by UB-43 southwest of the Peloponnese, Greece."
+3698,Armando Diaz,Regia Marina,country,,25-Feb-41,34.55,11.75,torpedoed,cruiser,A Condottieri-class light cruiser that was torpedoed by HMS Upright off the Kerkennah Islands.
+3700,HMS Athenienne,Royal Navy,military_organisation,1806.0,20 October 1806,37.783333,10.766667,ran_aground,unknown,Ran aground in the Strait of Sicily.[62]
+3701,SS Athos,France,country,,17-Feb-17,35.366667,18.533333,torpedoed,cargo_ship,A cargo liner that was torpedoed by U-65.
+3704,Baleares,Spanish Navy,military_organisation,,6-Mar-38,37.871667,0.866667,unknown,cruiser,A Canarias-class heavy cruiser that was sunk by Lepanto in the Battle of Cape Palos.
+3705,HMS Barham,Royal Navy,military_organisation,,25-Nov-41,32.566667,26.4,torpedoed,unknown,"A Queen Elizabeth-class battleship that was torpedoed by the German ssubmarine U-331 north of Sidi Barrani, Egypt."
+3708,USS Beatty,United States Navy,military_organisation,,6-Nov-43,37.166667,6.0,unknown,destroyer,A Gleaves-class destroyer that was sunk by German aircraft off Algeria.
+3709,HMS Bedouin,Royal Navy,military_organisation,,15-Jun-42,36.2,11.633333,torpedoed,destroyer,A Tribal-class destroyer that was sunk by the combined action of Italian cruisers and torpedo bombers during Operation Harpoon.
+3712,HMS Bonaventure,Royal Navy,military_organisation,,31-Mar-41,33.333333,26.583333,torpedoed,submarine,A Dido-class light cruiser that was torpedoed by the Italian submarine Ambra south of Crete.
+3713,Bouvet,French Navy,military_organisation,,18-Mar-15,40.020833,26.275,mined,unknown,A battleship sunk by a mine in the southern entrance to the Dardanelles during the Dardanelles campaign.
+3715,HMHS Britannic,Royal Navy,military_organisation,,21-Sep-16,37.701389,24.283889,mined,liner,An Olympic-class ocean liner (sister ship to RMS Titanic) that struck a mine off the Greek island of Kea and sank with the loss of 30 lives.[64]
+3716,HMS Broke,Royal Navy,military_organisation,,8-Nov-42,36.833333,0.666667,unknown,unknown,A Thornycroft type flotilla leader that suffered heavy damage in Operation Terminal and later sank under tow.
+3717,USS Buck,United States Navy,military_organisation,,9-Oct-43,39.95,14.466667,torpedoed,destroyer,"A Sims-class destroyer that was torpedoed by U-616 off Salerno, Italy."
+3718,HMS Cachalot,Royal Navy,military_organisation,,30-Jul-41,32.816667,20.183333,torpedoed,submarine,"A Grampus-class submarine that was rammed by the Italian torpedo boat Generale Achille Papa northwest of Tocra, Libya."
+3719,HMS Cairo,Royal Navy,military_organisation,,12-Aug-42,37.433333,10.366667,torpedoed,submarine,A C-class light cruiser scuttled by gunfire by the escort destroyer HMS Derwent after being torpedoed by the Italian submarine Axum during Operation Pedestal.
+3720,HMS Calcutta,Royal Navy,military_organisation,,1-Jun-41,32.0,28.0,shelled_or_bombed,cruiser,"A C-class light cruiser that was sunk by German bombers 100 nautical miles (190 km; 120 mi) off Alexandria, Egypt."
+3722,HMS Calypso,Royal Navy,military_organisation,,12-Jun-40,34.05,24.083333,torpedoed,cruiser,"A C-class light cruiser that was torpedoed by Alpino Bagnolini about 50 nautical miles (93 km) south of Cape Lithion, Crete."
+3723,SS Cameronia,United Kingdom,country,,15-Apr-17,35.833333,17.533333,torpedoed,unknown,A troopship that was torpedoed by U-33 about 150 nautical miles (280 km) east of Malta.
+3725,SS Chesterfield,United Kingdom,country,,18-May-18,36.283333,15.216667,torpedoed,cargo_ship,A cargo ship that was torpedoed by UC-52 southeast of Sicily.
+3726,SS City of Bradford,United Kingdom,country,,22-Feb-42,31.95,25.433333,unknown,cargo_ship,"A cargo ship that was sunk by German aircraft off Bardia, Libya."
+3728,Console Generale Liuzzi,Regia Marina,country,,27-Jun-40,33.766667,27.45,scuttled,submarine,A Liuzzi-class submarine that was attacked by British destroyers and scuttled south of Crete.
+3729,HMS Cornwallis,Royal Navy,military_organisation,,9-Jan-17,35.1,15.183333,torpedoed,unknown,A Duncan-class battleship that was torpedoed by U-32 about 60 nautical miles (110 km) east of Malta.
+3738,HMS Aboukir,Royal Navy,military_organisation,,22-Sep-14,53.0,3.75,torpedoed,submarine,A Cressy-class armored cruiser torpedoed by the Imperial German Navy submarine U-9 in the Broad Fourteens in the action of 22 September 1914.
+3740,HMS Amphion,Royal Navy,military_organisation,,6-Aug-14,52.116667,2.366667,unknown,cruiser,An Active-class scout cruiser that ran into a minefield. The first British naval vessel lost in World War I.
+3742,HMS Ardent,Royal Navy,military_organisation,,1-Jun-16,56.7,5.866667,unknown,destroyer,An Acasta-class destroyer sunk by the Imperial German Navy battleship SMS Westfalen in the Battle of Jutland.
+3743,HMS Arethusa,Royal Navy,military_organisation,,11-Feb-16,53.966667,6.7,mined,cruiser,"An Arethusa-class light cruiser that drifted onto a shoal and was wrecked while under tow after striking a mine off Felixstowe, England."
+3746,HMS Ariel,Royal Navy,military_organisation,,2-Aug-18,54.166667,8.066667,mined,destroyer,"An Acheron-class destroyer that struck a mine east of Heligoland, Germany."
+3748,SMS Blücher,Imperial German Navy,military_organisation,,24-Jan-15,54.558333,5.463889,unknown,cruiser,An armored cruiser sunk by Royal Navy warships during the Battle of Dogger Bank.
+3752,SS Charkow,Denmark,country,,19-Mar-40,58.116667,2.65,torpedoed,unknown,A merchant ship that was torpedoed by U-19 with all hands being lost.[72]
+3755,HMS Coquette,Royal Navy,military_organisation,,7-Mar-16,51.75,1.5,mined,destroyer,"A D-class destroyer that hit a mine east of Clacton-on-Sea, England."
+3756,HMS Cressy,Royal Navy,military_organisation,,22-Sep-14,52.250278,3.668889,torpedoed,cruiser,A Cressy-class armored cruiser torpedoed by U-9 in the Broad Fourteens in the action of 22 September 1914.
+3758,Dana,Royal Danish Navy,military_organisation,,22-Jun-35,55.916667,7.0,collision,trawler,A research trawler sunk in collision with German fishing trawler Pickhuben off Cuxhaven in dense fog.
+3760,HMS Defence,Royal Navy,military_organisation,1811.0,24 December 1811,56.357778,8.1,storm_or_weather,unknown,"A Bellona-class ship of the line stranded on the west coast of Jutland in a storm, together with HMS St. George."
+3761,HMS Defence,Royal Navy,military_organisation,,31-May-16,56.967222,5.830556,unknown,cruiser,A Minotaur-class armored cruiser sunk during the Battle of Jutland.
+3762,SS Deutschland,German Empire,country,1875.0,6 December 1875,51.666667,1.616667,ran_aground,steamer,"A steamship that ran aground in a blizzard on a shoal 25 nautical miles (46 km) off Harwich, England."
+3764,HMS Dunoon,Royal Navy,military_organisation,,30-Apr-40,52.75,2.383333,mined,minesweeper,"A Hunt-class minesweeper that struck a mine off Great Yarmouth, England."
+3767,HMS Esk,Royal Navy,military_organisation,,31-Aug-40,53.443333,3.8,unknown,destroyer,"An E-class destroyer that ran into a minefield north of Texel, Netherlands."
+3768,HMS Exmouth,Royal Navy,military_organisation,,21-Jan-40,58.3,-2.416667,torpedoed,destroyer,An E-class destroyer that was torpedoed by U-22 in the Moray Firth.
+3771,SS Flandria,Sweden,country,,18-Jan-40,54.0,3.666667,torpedoed,unknown,A merchant ship that was torpedoed by U-9.[74]
+3774,SMS Frauenlob,Imperial German Navy,military_organisation,,1-Jun-16,56.15,5.48,torpedoed,cruiser,A Gazelle-class light cruiser torpedoed by the Royal Navy light cruiser HMS Southampton during the Battle of Jutland.
+3775,HMS G9,Royal Navy,military_organisation,,16-Sep-17,61.0,3.333333,unknown,submarine,"A G-class submarine that was rammed by HMS Pasley 70 nautical miles (130 km) northwest of Bergen, Norway."
+3779,SMS Greif,Imperial German Navy,military_organisation,,29-Feb-16,61.75,1.166667,unknown,unknown,A merchant raider sunk by Royal Navy warships east of the Shetland Islands in the Action of 29 February 1916..
+3780,HMS Grenville,Royal Navy,military_organisation,,19-Jan-40,51.65,2.283333,mined,destroyer,"A G-class destroyer that struck a mine northeast of Broadstairs, England."
+3781,HMS Gurkha,Royal Navy,military_organisation,,9-Apr-40,59.216667,4.0,shelled_or_bombed,destroyer,"A Tribal-class destroyer that was sunk by German bombers southwest of Bergen, Norway."
+3782,MT Gustaf E. Reuter,Sweden,country,,27-Nov-39,59.633333,-2.05,torpedoed,tanker,"A tanker that was torpedoed by U-48 about 14 nautical miles (26 km) northwest of Fair Isle, Scotland."
+3783,HMS Hawke,Royal Navy,military_organisation,,15-Oct-14,57.784722,0.197222,torpedoed,cruiser,"A Edgar-class protected cruiser torpedoed by U-9 off Aberdeen, Scotland."
+3784,SMS Hela,Imperial German Navy,military_organisation,,13-Sep-14,54.05,7.916667,torpedoed,submarine,An aviso torpedoed by the British submarine HMS E9 in the Heligoland Bight 6 nautical miles (11 km; 6.9 mi) southwest of Helgoland.
+3785,SS Henry B. Plant,United States,country,,5-Feb-45,51.316667,1.7,torpedoed,unknown,A Liberty ship that sank after being torpedoed by U-245.[75]
+3786,HMS Hermes,Royal Navy,military_organisation,,31-Oct-14,51.105,1.838333,torpedoed,submarine,A Highflyer-class protected cruiser torpedoed by the Imperial German Navy submarine U-27 at the northeastern end of the Strait of Dover.
+3788,SS Horace Binney,United States,country,,8-May-45,51.2,2.45,mined,unknown,A Liberty ship that sank after hitting a mine. It was later broken up in Antwerp in May 1948.[76]
+3789,HMS Indefatigable,Royal Navy,military_organisation,,31-May-16,57.044444,6.120833,unknown,unknown,An Indefatigable-class battlecruiser sunk by the Imperial German Navy battlecruiser SMS Von der Tann in the Battle of Jutland.
+3794,HMS Ivanhoe,Royal Navy,military_organisation,,1-Sep-40,53.445,3.756667,mined,destroyer,An I-class destroyer that struck a mine and was scuttled.
+3795,HMS K1,Royal Navy,military_organisation,,18-Nov-17,56.338889,5.730556,scuttled,submarine,A K-class submarine that was scuttled after a collision with HMS Blonde.
+3798,German cruiser Leipzig,Royal Navy,military_organisation,,16-Dec-46,57.883333,6.216667,scuttled,cruiser,A Leipzig-class light cruiser that was scuttled with a cargo of gas munitions.
+3799,SS Linda,Estonia,country,,11-Feb-40,58.25,1.9,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-9.
+3800,SMS Lützow,Imperial German Navy,military_organisation,,1-Jun-16,56.25,5.883333,unknown,unknown,A Derfflinger-class battlecruiser sunk in the Battle of Jutland.
+3803,SS Narva,United Kingdom,country,,22-Dec-57,57.466667,3.0,unknown,cargo_ship,"A cargo ship that foundered 180 nautical miles (330 km) east of Aberdeen, Scotland."
+3807,HMS Acasta,Royal Navy,military_organisation,,8-Jun-40,68.75,4.5,unknown,destroyer,An A-class destroyer that was sunk by Scharnhorst and Gneisenau.
+3808,Adolf Vinnen,Kriegsmarine,military_organisation,,23-Oct-40,62.483333,4.383333,unknown,unknown,"A weather ship that was sunk by British ships northwest of Selje, Norway."
+3809,HMS Afridi,Royal Navy,military_organisation,,3-May-40,66.233333,5.75,unknown,destroyer,A Tribal-class destroyer that was sunk by German aircraft.
+3810,HMS Ardent,Royal Navy,military_organisation,,8-Jun-40,68.75,4.5,unknown,destroyer,An A-class destroyer that was sunk by the German battlecruisers Scharnhorst and Gneisenau.
+3811,HMS Curlew,Royal Navy,military_organisation,,26-May-40,68.558889,16.558056,unknown,cruiser,"A C-class light cruiser sunk by German aircraft in Lavangsfjord, Ofotfjord, near Narvik, Norway."
+3813,Executive,United States,country,,5-Mar-42,72.733333,11.45,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-255.[78]
+3814,HMS Glorious,Royal Navy,military_organisation,,8-Jun-40,68.633333,3.833333,unknown,unknown,A Courageous-class aircraft carrier that was sunk by Scharnhorst and Gneisenau.
+3815,HMS Glowworm,Royal Navy,military_organisation,,8-Apr-40,64.45,6.466667,unknown,destroyer,A G-class destroyer that was sunk by Admiral Hipper off Norway.
+3816,Greylock,United States,country,,3-Feb-43,70.866667,0.35,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-255.[79]
+3817,Hessen,Kriegsmarine,military_organisation,,7-May-65,64.666667,0.5,unknown,unknown,A weather ship that probably sunk due to ice damage.
+3818,USS Howick Hall,United States Navy,military_organisation,,28-Mar-42,72.666667,20.333333,shelled_or_bombed,cargo_ship,A cargo ship that was sunk by German bombers south of Bear Island.
+3819,HMT Juniper,Royal Navy,military_organisation,,8-Jun-40,67.333333,4.166667,unknown,trawler,A Tree-class naval trawler that was sunk by Admiral Hipper off the coast of Norway.
+3820,K-278 Komsomolets,Soviet Navy,military_organisation,,7-Apr-89,73.721667,13.281667,fire_or_explosion,submarine,"A Soviet nuclear submarine, which caught fire and sank with two nuclear weapons and two nuclear reactors still on board."
+3821,HMS Kite,Royal Navy,military_organisation,,21-Aug-44,73.016667,3.95,torpedoed,unknown,A Black Swan-class sloop that was torpedoed by U-344.
+3823,HMS Mahratta,Royal Navy,military_organisation,,25-Feb-44,71.283333,13.5,torpedoed,destroyer,"An M-class destroyer that was torpedoed by U-990 about 200 nautical miles (370 km) west of North Cape, Norway."
+3824,SS Orizaba,Nazi Germany,country,,26-Feb-40,70.666944,20.983056,ran_aground,cargo_ship,"A cargo ship that ran aground north of Troms, Norway."
+3825,SS Prins Olav,Norway,country,,9-Jun-40,67.116667,1.0,shelled_or_bombed,cargo_ship,A passenger and cargo steamship that was sunk by German bombers off the coast of Norway.
+3827,U-277,Kriegsmarine,military_organisation,,1-May-44,73.4,15.533333,unknown,submarine,"A Type VIIC U-boat that was sunk by a British aircraft southwest of Bear Island, Norway."
+3828,U-292,Kriegsmarine,military_organisation,,27-May-44,62.616667,0.95,unknown,submarine,"A Type VIIC/41 U-boat that was sunk by a British aircraft west of Trondheim, Norway."
+3830,U-317,Kriegsmarine,military_organisation,,26-Jun-44,62.05,1.75,unknown,submarine,A Type VIIC/41 U-boat that was sunk by British aircraft northeast of the Shetland Islands.
+3832,U-344,Kriegsmarine,military_organisation,,22-Aug-44,74.9,15.433333,unknown,submarine,A Type VIIC U-boat that was sunk by a British aircraft northwest of Bear Island.
+3833,U-347,Kriegsmarine,military_organisation,,17-Jul-44,68.6,8.55,unknown,submarine,"A Type VIIC U-boat that was sunk by a British aircraft west of Narvik, Norway."
+3834,U-360,Kriegsmarine,military_organisation,,2-Apr-44,72.466667,13.066667,unknown,submarine,A Type VIIC U-boat that was sunk by HMS Keppel southwest of Bear Island.
+3835,U-361,Kriegsmarine,military_organisation,,17-Jul-44,68.583333,6.0,unknown,submarine,"A Type VIIC U-boat that was sunk by a British aircraft west of Narvik, Norway."
+3836,U-412,Kriegsmarine,military_organisation,,22-Oct-42,63.916667,0.4,unknown,submarine,A Type VIIC U-boat that was sunk by a British aircraft northeast of the Faroe Islands.
+3837,U-423,Kriegsmarine,military_organisation,,17-Jun-44,63.1,2.083333,unknown,submarine,A Type VIIC U-boat that was sunk by a Norwegian aircraft northeast of the Faroe Islands.
+3838,U-476,Kriegsmarine,military_organisation,,25-May-44,65.133333,4.883333,scuttled,submarine,A Type VIIC U-boat that was attacked by a British aircraft and scuttled by U-990 northwest of Trondheim.
+3839,U-477,Kriegsmarine,military_organisation,,3-Jun-44,63.983333,1.616667,unknown,submarine,"A Type VIIC U-boat that was sunk by a Canadian aircraft west of Trondheim, Norway."
+3841,U-601,Kriegsmarine,military_organisation,,25-Feb-44,70.433333,12.666667,unknown,submarine,"A Type VIIC U-boat that was sunk by a British aircraft northwest of Narvik, Norway."
+3843,U-674,Kriegsmarine,military_organisation,,2-May-44,70.533333,4.616667,unknown,submarine,A Type VIIC U-boat that was sunk by a British aircraft.
+3844,U-675,Kriegsmarine,military_organisation,,24-May-44,62.45,3.066667,unknown,submarine,A Type VIIC U-boat that was sunk by a British aircraft.
+3845,U-713,Kriegsmarine,military_organisation,,24-Feb-44,69.45,4.883333,unknown,submarine,A Type VIIC U-boat that was sunk by HMS Keppel.
+3847,U-867,Kriegsmarine,military_organisation,,19-Sep-44,62.25,1.833333,unknown,submarine,"A Type IXC U-boat that was sunk by a British aircraft northwest of Bergen, Norway."
+3849,U-973,Kriegsmarine,military_organisation,,6-Mar-44,70.666667,5.8,unknown,submarine,A Type VIIC U-boat that was sunk by British aircraft off the coast of Norway.
+3851,U-990,Kriegsmarine,military_organisation,,25-May-44,65.083333,7.466667,unknown,submarine,"A Type VIIC U-boat that was sunk by a British aircraft north of Veiholmen, Norway."
+3857,HMS Birkenhead,Royal Navy,military_organisation,1852.0,26 February 1852,-34.645,19.285833,ran_aground,unknown,A troopship which broke in two and sank after striking a rock off the southwest coast of South Africa near Gansbaai.
+3861,SS Albert Gallatin,United States,country,,2-Jan-44,21.35,59.966667,torpedoed,submarine,A Liberty ship torpedoed 60 nautical miles (110 km; 69 mi) off the Arabian Peninsula by the Japanese submarine I-26.
+3862,SS Berwyn,United States,country,,6-Sep-20,17.733333,56.633333,unknown,cargo_ship,A cargo ship that was wrecked near the Khuriya Muriya Islands.
+3863,SS E.G. Seubert,United States,country,,22-Feb-44,13.5,48.933333,torpedoed,tanker,A tanker that was torpedoed by U-510.[1]
+3865,MOL Comfort,Bahamas,country,,17-Jun-13,14.433333,66.433333,fire_or_explosion,unknown,"A container ship that broke apart in bad weather on 17 June 2013. The stern section took on water and sank on 26 June; the bow was taken under tow, but caught fire and sank on 11 July."
+3866,MS Georges Philippar,France,country,,19-May-32,14.333333,50.416667,fire_or_explosion,liner,"An ocean liner that caught fire and sank near Mukalla, Yemen."
+3867,SS John Barry,United States,country,,28-Aug-44,15.1,55.183333,torpedoed,submarine,A Liberty ship that was torpedoed by the German submarine U-859 off the coast of Oman.
+3868,INS Khukri,Indian Navy,military_organisation,,9-Dec-71,20.277222,70.993611,torpedoed,submarine,"A Blackwood-class frigate that was torpedoed by the Pakistan Navy submarine PNS Hangor off Diu, India."
+3869,SS Montanan,United States,country,,3-Jun-43,17.084444,58.083333,torpedoed,submarine,"A cargo ship that was torpedoed by the Imperial Japanese Navy submarine I-27 150 nautical miles (280 km; 170 mi) south of Masirah Island, Oman."
+3871,HMS Hermes,Royal Navy,military_organisation,,9-Apr-42,7.583333,82.083333,unknown,unknown,"The world's first purpose-built aircraft carrier, sunk by Imperial Japanese Navy aircraft off the coast of Ceylon."
+3872,SS Indus,United Kingdom,country,,10-Sep-14,11.0,83.75,scuttled,cruiser,A steamship captured and scuttled by the Imperial German Navy light cruiser SMS Emden.
+3873,Ro-110,Imperial Japanese Navy,military_organisation,,11-Feb-44,17.416667,83.35,unknown,submarine,"A Ro-100-class submarine sunk by the Royal Indian Navy sloop HMIS Jumna and the Royal Australian Navy corvettes HMAS Ipswich and HMAS Launceston 200 nautical miles (370 km; 230 mi) northeast of Madras, India."
+3874,SS Selma City,United States,country,,7-Apr-42,17.183333,83.333333,unknown,cargo_ship,"A cargo ship sunk by Imperial Japanese Navy aircraft about 25 nautical miles (46 km; 29 mi) off from Vizagapatam (now Vishakhapatnam), India."
+3875,HMAS Vampire,Royal Australian Navy,military_organisation,,9-Apr-42,7.583333,82.083333,unknown,destroyer,A V-class destroyer sunk by Imperial Japanese Navy aircraft off the coast of Ceylon.
+3877,SS Berwickshire,United Kingdom,country,,20-Aug-44,-30.966667,38.833333,torpedoed,unknown,A merchant ship that was torpedoed by U-861.[2]
+3878,SS Chivalry,United Kingdom,country,,22-Feb-44,-0.833333,68.0,unknown,submarine,A cargo ship that was sunk by a Japanese submarine.
+3879,SS City of Johannesburg,United Kingdom,country,,23-Oct-42,-33.333333,29.5,torpedoed,steamer,"A merchant steamer that was torpedoed by U-504 off East London, South Africa."
+3880,SS Clan Macarthur,United Kingdom,country,,12-Aug-43,-23.0,53.116667,torpedoed,cargo_ship,A Cameron-class cargo steamship that was torpedoed by U-181 off Madagascar.
+3881,SS Commissaire Ramel,France,country,,9-Sep-40,-28.416667,74.383333,unknown,cruiser,A passenger ship that was sunk by the German auxiliary cruiser Atlantis.
+3882,Cornelia P. Spencer,United States,country,,21-Sep-43,2.133333,50.166667,unknown,unknown,"A Liberty ship that was carrying 2,910 tons of steel and 300 tons of gum arabic that was sank by U-188.[3]"
+3883,HMS Cornwall,Royal Navy,military_organisation,,5-Apr-42,1.9,77.9,shelled_or_bombed,cruiser,A County-class heavy cruiser that was sunk by Japanese dive bombers in the Easter Sunday Raid.
+3884,HMS Dorsetshire,Royal Navy,military_organisation,,5-Apr-42,1.9,77.75,shelled_or_bombed,cruiser,A County-class heavy cruiser that was sunk by Japanese dive bombers in the Easter Sunday Raid.
+3885,SS Empire Chaucer,United Kingdom,country,,17-Oct-42,-38.2,20.066667,torpedoed,cargo_ship,"A cargo ship that was torpedoed by U-504 about 450 nautical miles (830 km; 520 mi) south of Cape Town, South Africa."
+3886,MV Empire Day,United Kingdom,country,,7-Aug-44,-7.1,42.0,torpedoed,cargo_ship,"A cargo ship that was torpedoed by U-198 about 200 nautical miles (370 km; 230 mi) east of Dar es Salaam, Tanzania."
+3887,SS Fort Lee,United States,country,,2-Nov-44,-27.583333,83.183333,torpedoed,tanker,A T2 tanker that was torpedoed by U-181.
+3888,SS Fort Longueuil,United Kingdom,country,,19-Sep-43,-10.0,68.0,torpedoed,cargo_ship,A North Sands-class cargo ship that was torpedoed by U-532. 57 out of the 57 onboard died in the sinking with two crew members surviving after being at sea for 143 days before coming ashore to Sumatra where they were taken prisoner by the Japanese.[4]
+3890,SS Hoihow,United Kingdom,country,,2-Jul-43,-19.5,55.5,torpedoed,unknown,A passenger ship that was torpedoed by U-181.[5]
+3891,I-27,Imperial Japanese Navy,military_organisation,,12-Feb-44,1.416667,72.366667,unknown,submarine,A Type B1 submarine sunk by the British destroyers HMS Paladin and HMS Petard.
+3892,I-60,Imperial Japanese Navy,military_organisation,,17-Jan-42,-6.325,104.822222,unknown,submarine,A Kaidai 3B-type submarine sunk by the British destroyer HMS Jupiter south of the Sunda Strait.
+3893,SS James B. Stephens,United States,country,,8-Mar-43,-28.883333,33.3,torpedoed,unknown,"A Liberty ship that was torpedoed by U-160 about 150 miles (240 km) northeast of Durban, South Africa."
+3894,SS Khedive Ismail,United Kingdom,country,,12-Feb-44,1.416667,72.366667,torpedoed,steamer,"A steamship that was torpedoed by I-27, with 1,297 deaths."
+3895,SS Koning der Nederlanden,Netherlands,country,1881.0,5 October 1881,-5.233333,64.116667,unknown,liner,An ocean liner that sprang a leak and sank east of the Seychelles.
+3896,Kormoran,Kriegsmarine,military_organisation,,19-Nov-41,-26.096111,111.075833,unknown,cruiser,A merchant raider that sank off Western Australia near Carnarvon due to damage sustained in combat with the Australian light cruiser Sydney.
+3897,USS Langley,United States Navy,military_organisation,,27-Feb-42,-8.851167,109.034056,scuttled,unknown,"A seaplane tender scuttled 75 nautical miles (139 km; 86 mi) south of Tjilatjap, Java, after sustaining damage in an attack by Imperial Japanese Navy aircaft."
+3900,SS Marietta E,United Kingdom,country,,4-Mar-43,-31.483333,31.116667,torpedoed,cargo_ship,A cargo ship that was torpedoed by U-160.
+3902,MTS Oceanos,Greece,country,,4-Aug-91,-32.120833,29.120278,unknown,unknown,"A cruise ship that sank off Coffee Bay, South Africa."
+3903,USS Pecos,United States Navy,military_organisation,,1-Mar-42,-14.45,106.183333,unknown,unknown,A Kanawha-class fleet replenishment oiler sunk by Imperial Japanese Navy aircraft south of Java.
+3904,HMS Pegasus,Royal Navy,military_organisation,,20-Sep-14,-6.148333,39.193333,unknown,cruiser,A Pelorus-class protected cruiser that sank in the harbor at Zanzibar due to damage sustained earlier in the day in combat with the Imperial German Navy light cruiser SMS Königsberg during the Battle of Zanzibar.
+3905,Pinguin,Kriegsmarine,military_organisation,,8-May-41,3.5,57.8,unknown,cruiser,An auxiliary cruiser that was sunk by HMS Cornwall.
+3907,Ramb I,Regia Marina,country,,27-Feb-41,1.0,68.5,unknown,cruiser,An auxiliary cruiser that was sunk by HMNZS Leander in the action of 27 February 1941.
+3908,Samuel Heintzelman,United States,country,,9-Jul-43,-9.0,81.0,torpedoed,unknown,A Liberty ship that was torpedoed by U-511. Originally it was believed that it was sank by a Japanese surface raider. There would be no survivors of the ship from the sinking.[6]
+3910,HMAS Sydney,Royal Australian Navy,military_organisation,,19-Nov-41,-26.241944,111.213333,unknown,cruiser,A Leander-class light cruiser that sank off Western Australia near Carnarvon due to damage sustained in combat with the German merchant raider Kormoran.
+3911,Texanita,Liberia,country,,21-Aug-72,-34.8,21.4,collision,tanker,"An oil tanker that collided with Oswego-Guardian off Stilbaai, South Africa."
+3912,SS Tjisalak,Netherlands,country,,26-Mar-44,-2.5,78.666667,torpedoed,cargo_ship,A cargo ship that was torpedoed by I-8.
+3915,"Janga (""SIEV-221"")",Indonesia,country,,15-Dec-10,-10.416944,105.673333,ran_aground,fishing_vessel,A fishing boat that hit the rocks at Flying Fish Cove while carrying asylum seekers from Iraq and Iran.
+3919,Mahomed Shah,United Kingdom,country,1853.0,April 1853,-40.166667,119.166667,fire_or_explosion,unknown,A barque that caught fire on 18 April 1853 and sank several days later. All on board were rescued.
+3923,MV Empire City,United Kingdom,country,,6-Aug-44,-11.55,41.416667,torpedoed,submarine,"A cargo ship torpedoed by the German submarine U-198 off Mocímboa da Praia, Mozambique."
+3924,SS Express,United States,country,,30-Jun-42,-23.5,37.5,torpedoed,submarine,A Type C3-E cargo ship torpedoed by the Imperial Japanese Navy submarine I-10.
+3925,Le Héros,French Navy,military_organisation,,7-May-42,-12.0625,49.058333,unknown,submarine,"A Redoutable-class submarine submarine sunk by Royal Navy Fleet Air Arm aircraft off  Courrier Bay, Madagascar, during the Battle of Madagascar."
+3926,MV Mary Livanos,Portugal,country,,11-Jul-43,-15.666667,40.75,torpedoed,unknown,A steam merchant ship torpedoed by U-178.[7]
+3927,SS Robert Bacon,United States,country,,14-Jul-43,-15.416667,41.216667,torpedoed,submarine,A Liberty ship torpedoed by the German submarine U-178.[8]
+3929,U-533,Kriegsmarine,military_organisation,,16-Oct-43,25.466667,56.833333,unknown,submarine,A Type IXC/40 U-boat sunk by British aircraft off Fujairah.
+3930,Aida,Egypt,country,,15-Sep-57,26.316667,34.833333,unknown,unknown,A supply ship sunk off the coast of Big Brother Island.[citation needed]
+3932,MS al-Salam Boccaccio 98,Egypt,country,,3-Feb-06,27.033056,34.883056,capsized,ferry,Capsized passenger ferry.
+3933,SS Carnatic,United Kingdom,country,1869.0,15 September 1869,27.566667,33.916667,ran_aground,unknown,"Ran aground on a coral reef on 12 September, broke in half and sank three days later. 31 people drowned.[9]"
+3934,Chrisoula K,Greece,country,,31-Aug-81,27.581389,33.931944,ran_aground,cargo_ship,A cargo ship that ran aground on a reef.[10]
+3935,SS Dunraven,United Kingdom,country,1876.0,25 April 1876,27.421389,34.073056,ran_aground,unknown,"A merchant ship that hit a reef and sank in the Gulf of Suez, close to the Sinai Peninsula.[citation needed]"
+3937,Kimon M,Panama,country,,12-Dec-78,27.58,33.933333,ran_aground,cargo_ship,"A cargo ship which sank on at Sha'ab Abu Nuhas, north of Hurghada, when she ran into the reef of Abu Nuhas.[11]"
+3938,Numidia,United Kingdom,country,,20-Jul-01,26.316667,34.833333,unknown,cargo_ship,A cargo liner that sank at Big Brother Island.[citation needed]
+3939,El Mina,Egyptian Navy,military_organisation,1969.0,1969,27.231944,33.859444,shelled_or_bombed,minesweeper,A T43-class minesweeper bombed and sunk by an Israeli Air Force aircraft near Hurghada.[12]
+3940,SS Rosalie Moller,United Kingdom,country,,Oct-41,27.650833,33.771389,shelled_or_bombed,cargo_ship,"A cargo ship bombed two days after the supply ship Thistlegorm—– anchored some 20 nautical miles (37 km; 23 mi) away off the Sinai Peninsula — was sunk. She rests north of Hurghada, north of the reefs of Abu Nuhas, in some 50 meters (164 ft) of water.[13]"
+3941,MV Salem Express,Egypt,country,,17-Dec-91,26.63945,34.061083,ran_aground,unknown,"The passenger ship ran into a shallow reef and sank 57 nautical miles (106 km; 66 mi) south of Hurghada, after the captain took a shortcut on his trip from Jeddah, Saudi Arabia, to Safaga, Egypt."
+3942,SS Thistlegorm,United Kingdom,country,,6-Oct-41,27.814167,33.92,shelled_or_bombed,cargo_ship,A cargo ship sunk by German bombers near Sharm el-Sheikh.[14]
+3943,SS Umbria,Kingdom of Italy,country,,9-Jun-40,19.638611,37.327222,scuttled,cargo_ship,A cargo ship scuttled by her crew near Port Sudan.
+3946,SS Galileo Galilei,Bahamas,country,,21-May-99,4.616944,99.901667,fire_or_explosion,unknown,A cruise ship that sank off the coast of Perak following a fire.
+3947,USS Grenadier,United States Navy,military_organisation,,22-Apr-43,6.5,97.666667,scuttled,submarine,"A Tambor-class submarine scuttled off Phuket, Thailand, after Japanese aircraft damaged her the previous day."
+3949,I-34,Imperial Japanese Navy,military_organisation,,13-Nov-43,5.283333,100.083333,unknown,submarine,A Type B1 submarine sunk 30 nautical miles (56 km; 35 mi) off Penang by the British submarine HMS Taurus.
+3950,I-166,Imperial Japanese Navy,military_organisation,,17-Jul-44,2.8,101.05,unknown,submarine,A Kaidai 5-type submarine that was sunk by the British submarine HMS Telemachus off One Fathom Bank.
+3951,Kuma,Imperial Japanese Navy,military_organisation,,11-Jan-44,5.433333,99.866667,unknown,submarine,A Kuma-class cruiser that was sunk by the Royal Navy submarine HMS Tally-Ho west of Penang.
+3953,Myōkō,Imperial Japanese Navy,military_organisation,,8-Jun-46,3.083333,100.666667,scuttled,cruiser,A Myōkō-class cruiser that was scuttled near Port Klang.
+3955,Takao,Imperial Japanese Navy,military_organisation,,19-Oct-46,3.084722,100.683333,unknown,cruiser,A Takao-class heavy cruiser that was surrendered to the British and sunk as a target.
+3956,U-181,Kriegsmarine,military_organisation,,12-Feb-46,3.097222,100.713889,scuttled,submarine,A Type IXD2 U-boat that was scuttled near Port Klang.
+3957,U-859,Kriegsmarine,military_organisation,,23-Sep-44,5.766944,100.066944,unknown,submarine,A Type IXD2 U-boat that was sunk by HMS Trenchant.
+3958,U-862,Kriegsmarine,military_organisation,,13-Feb-46,3.083333,100.633333,scuttled,submarine,A Type IXD2 U-boat that was scuttled near Port Klang.
