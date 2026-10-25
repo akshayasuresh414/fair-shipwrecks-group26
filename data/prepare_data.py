@@ -1,7 +1,5 @@
 """
 FAIR Data Engineering - Group 26
-Step: "Understand and prepare the data" (FAIRification process, step 3)
-
 This script takes the raw Kaggle CSV (Ship, Flag, Sunk date, Notes, Coordinates)
 and produces a cleaned, enriched CSV with the following columns:
 
@@ -22,13 +20,6 @@ and produces a cleaned, enriched CSV with the following columns:
                         barge, liner, yacht, fishing vessel, unknown)
     notes             - original free-text Notes (kept for provenance/traceability)
 
-Run:
-    python3 prepare_data.py
-Produces:
-    data/shipwrecks_clean.csv       (full cleaned file)
-    data/shipwrecks_clean_coords.csv (subset: rows that have coordinates - this is
-                                      the subset we will actually triplify, per the
-                                      proposal's scoping decision)
 """
 import re
 import pandas as pd
