@@ -1,27 +1,10 @@
 """
 FAIR Data Engineering - Group 26
-Step: "Make data linkable" / Linked Data transformation (Task 3)
+
 
 This script transforms the cleaned shipwrecks subset (rows that have
 coordinates - see data/prepare_data.py) into RDF (Turtle).
 
-The course instructions say the RDF transformation can be done either in
-OpenRefine's RDF extension, OR with an RDF-generation script - this is
-the script option. The resulting triples are equivalent in spirit to
-what the OpenRefine "RDF skeleton" would produce: one subject URI per
-row, built from the Base URI, with literal/typed properties and object
-properties pointing at reconciled external entities (Wikidata) and our
-own ontology's controlled-vocabulary concepts.
-
-Base URI (same rule as OpenRefine's "Base URI" setting):
-    https://w3id.org/FAIR-course-UT/2026/group26/data#
-Ontology namespace:
-    https://w3id.org/FAIR-course-UT/2026/group26/ont#
-
-Run:
-    python3 generate_rdf.py
-Produces:
-    rdf/data.ttl
 """
 import re
 import pandas as pd
