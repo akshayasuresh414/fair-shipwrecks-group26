@@ -1,6 +1,6 @@
-# FAIRified Shipwrecks (Sunk Ships) dataset (Group 26)
+# FAIRified Shipwrecks (Sunk Ships) dataset
 
-FAIR Data Engineering, University of Twente, 2026. Group 26: Akshaya Suresh, Kishor Sriraman.
+Group 26: Akshaya Suresh, Kishor Sriraman.
 
 The Kaggle dataset "Shipwrecks (Sunk ships)" (ship, flag, sunk date, notes, coordinates), FAIRified as RDF. 943 shipwreck events that have coordinates are described with schema.org, WGS84 and a small Group 26 ontology (Shipwreck, Operator, VesselType, CauseOfLoss). Frequent operators are linked to Wikidata.
 
