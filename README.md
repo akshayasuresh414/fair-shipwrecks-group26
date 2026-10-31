@@ -6,7 +6,7 @@ The Kaggle dataset "Shipwrecks (Sunk ships)" (ship, flag, sunk date, notes, coor
 
 ## Source and licence
 
-- Source: Kaggle, "Shipwrecks (Sunk ships)" (PASTE KAGGLE URL HERE), probably compiled from Wikipedia's lists of shipwrecks
+- Source: Kaggle, "Shipwrecks (Sunk ships)" https://www.kaggle.com/datasets/diaaessam/shipwrecks-sunk-ships, probably compiled from Wikipedia's lists of shipwrecks
 - Licence of the FAIRified dataset, as declared in the metadata: CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/
 - The licence of the upstream Kaggle upload is not independently confirmed.
 - Version 1.0.0. Coverage: global, 7th century to 2020s.
